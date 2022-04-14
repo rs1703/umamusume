@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 15,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "ci-std",
+      "hidden": true,
+      "cacheVariables": {
+        "CMAKE_CXX_EXTENSIONS": "OFF",
+        "CMAKE_CXX_STANDARD": "17",
+        "CMAKE_CXX_STANDARD_REQUIRED": "ON"
+      }
+    },
+    {
+      "name": "flags",
+      "hidden": true,
+      "cacheVariables": {
+        "CMAKE_CXX_FLAGS": "/D_MBCS /W4 /permissive- /volatile:iso /EHsc /Zc:__cplusplus /Zc:throwingNew"
+      }
+    },
+    {
+      "name": "ci-win",
+      "binaryDir": "${sourceDir}/build",
+      "inherits": ["flags", "ci-std"],
+      "generator": "Visual Studio 16 2019",
+      "architecture": "Win32"
+    },
+    {
+      "name": "ci-win64",
+      "binaryDir": "${sourceDir}/build64",
+      "inherits": ["flags", "ci-std"],
+      "generator": "Visual Studio 16 2019",
+      "architecture": "x64"
+    }
+  ]
+}
