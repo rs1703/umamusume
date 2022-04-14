@@ -7,10 +7,12 @@
 
 class Locale
 {
+  static std::unordered_map<size_t, std::string> originalDictionary;
   std::unordered_map<size_t, std::string> dictionary;
 
 public:
   Locale(const char *path = "locale.json");
+  static void init();
 
   std::string get(size_t hash);
   std::string get(Il2CppString *str);

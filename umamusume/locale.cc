@@ -7,6 +7,8 @@
 #include <nlohmann/json.hpp>
 #include <umamusume/locale.h>
 
+static const char *originalLocalePath = "locale_jp.json";
+
 Locale::Locale(const char *path)
 {
   std::ifstream file(path, std::ios::binary);
@@ -20,6 +22,23 @@ Locale::Locale(const char *path)
 
   for (auto &[key, value] : json.items())
     dictionary.insert({std::stoull(key), value.get<std::string>()});
+
+  file.close();
+}
+
+void Locale::init()
+{
+  std::ifstream file(originalLocalePath, std::ios::binary);
+  if (!file.is_open()) {
+    std::cerr << "Failed to open locale file: " << originalLocalePath << std::endl;
+    return;
+  }
+
+  nlohmann::json json;
+  file >> json;
+
+  for (auto &[key, value] : json.items())
+    originalDictionary.insert({std::stoull(key), value.get<std::string>()});
 
   file.close();
 }
@@ -57,7 +76,7 @@ void Locale::set(Il2CppString *str)
     json[std::to_string(key)] = value;
   }
 
-  std::ofstream file("locale.json", std::ios::binary);
+  std::ofstream file(originalLocalePath, std::ios::binary);
   if (!file.is_open()) {
     std::cerr << "Failed to open locale file: locale.json" << std::endl;
     return;
