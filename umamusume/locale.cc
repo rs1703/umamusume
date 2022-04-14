@@ -9,6 +9,8 @@
 
 static const char *originalLocalePath = "locale_jp.json";
 
+std::unordered_map<size_t, std::string> Locale::originalDictionary;
+
 Locale::Locale(const char *path)
 {
   std::ifstream file(path, std::ios::binary);
