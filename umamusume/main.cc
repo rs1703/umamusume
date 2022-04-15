@@ -41,7 +41,7 @@ void init()
              "TextGenerator", "PopulateWithErrors",
              populateWithErrors, &orig_populateWithErrors);
 
-  std::cout << "Hooking LibNative::Sqlite3.Query::.ctor" << std::endl;
+  std::cout << "Hooking LibNative.Sqlite3::Query::.ctor" << std::endl;
   Hook::hook("LibNative.Runtime.dll", "LibNative.Sqlite3", "Query", ".ctor", queryCtor, &orig_queryCtor);
 
   std::cout << "Hooking LibNative.Sqlite3::Query::Dispose" << std::endl;

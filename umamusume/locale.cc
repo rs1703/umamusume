@@ -19,7 +19,7 @@ Locale::Locale()
   for (const auto &path : config->dictionaries) {
     std::ifstream file(path);
     if (!file.good())
-      return;
+      continue;
 
     nlohmann::json json;
     file >> json;
