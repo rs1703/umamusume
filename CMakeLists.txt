@@ -32,3 +32,7 @@ add_library(${PROJECT_NAME} SHARED ${MINHOOK_SRC} ${JSON_SRC} ${PROJECT_SRC})
 file(GLOB DUMPER_SRC tools/dumper/*.cc)
 add_executable(dumper ${JSON_SRC} ${DUMPER_SRC})
 target_link_libraries(dumper PUBLIC sqlite3::sqlite3)
+
+file(GLOB COMPARE_SRC tools/compare/*.cc)
+add_executable(compare ${JSON_SRC} ${COMPARE_SRC})
+target_link_libraries(compare PUBLIC sqlite3::sqlite3)
