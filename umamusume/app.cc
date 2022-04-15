@@ -79,5 +79,5 @@ Il2CppString *queryGetText(void *self, int id)
   auto ok = queries.find(self) != queries.end();
   lock.unlock();
 
-  return ok ? str : locale->localize(str);
+  return ok ? locale->localize(str) : str;
 }
