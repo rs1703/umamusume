@@ -18,9 +18,9 @@ bool initDatabase(const std::string &original, const std::string &localized)
       && sqlite3_open(localized.c_str(), &localizedDB) == SQLITE_OK;
 }
 
-std::unordered_map<std::string, std::string> dumpTextData(sqlite3 *db)
+std::unordered_map<std::string, std::wstring> dumpTextData(sqlite3 *db)
 {
-  std::unordered_map<std::string, std::string> result;
+  std::unordered_map<std::string, std::wstring> result;
   sqlite3_stmt *stmt;
 
   std::string query {"SELECT * FROM text_data"};
@@ -30,9 +30,9 @@ std::unordered_map<std::string, std::string> dumpTextData(sqlite3 *db)
   }
 
   while (sqlite3_step(stmt) == SQLITE_ROW) {
-    const char *id = (const char *)sqlite3_column_text(stmt, 0);
-    const char *index = (const char *)sqlite3_column_text(stmt, 2);
-    const char *text = (const char *)sqlite3_column_text(stmt, 3);
+    auto id = (const char *)sqlite3_column_text(stmt, 0);
+    auto index = (const char *)sqlite3_column_text(stmt, 2);
+    auto text = (const wchar_t *)sqlite3_column_text16(stmt, 3);
     result[std::string(id) + ":" + std::string(index)] = text;
   }
 
@@ -41,6 +41,16 @@ std::unordered_map<std::string, std::string> dumpTextData(sqlite3 *db)
     return result;
   }
 
+  return result;
+}
+
+std::string utf8(std::wstring str)
+{
+  std::string result;
+  result.resize(str.length() * 4);
+
+  int len = WideCharToMultiByte(CP_UTF8, 0, str.data(), str.length(), result.data(), result.size(), nullptr, nullptr);
+  result.resize(len);
   return result;
 }
 
@@ -56,8 +66,8 @@ void extractLocalizedTextData()
       continue;
 
     if (original.second != localized->second) {
-      auto hash = std::hash<std::string> {}(original.second);
-      json[std::to_string(hash)] = localized->second;
+      auto hash = std::hash<std::wstring> {}(original.second);
+      json[std::to_string(hash)] = utf8(localized->second);
     }
   }
 
