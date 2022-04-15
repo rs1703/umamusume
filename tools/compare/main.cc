@@ -55,8 +55,10 @@ void extractLocalizedTextData()
     if (localized == localizedTextData.end())
       continue;
 
-    if (original.second != localized->second)
-      json[original.first] = localized->second;
+    if (original.second != localized->second) {
+      auto hash = std::hash<std::string> {}(original.second);
+      json[std::to_string(hash)] = localized->second;
+    }
   }
 
   std::ofstream file("text_data.json");
