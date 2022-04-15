@@ -13,5 +13,3 @@ file(GLOB minhook libs/minhook/src/*.c libs/minhook/src/*/*.c)
 file(GLOB json libs/nlohmann/*.hpp)
 
 add_library(${PROJECT_NAME} SHARED ${minhook} ${json} ${sources})
-  
-target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_17)

@@ -1,8 +1,12 @@
+#include <iostream>
+#include <mutex>
+
 #include <umamusume/app.h>
 #include <umamusume/il2cpp.h>
 
 Locale *locale = nullptr;
 std::unordered_map<void *, bool> queries;
+std::mutex queriesMutex;
 
 assignDefaultFont_t assignDefaultFont;
 getFontStyle_t getFontStyle;
@@ -11,6 +15,12 @@ getFontSize_t getFontSize;
 setFontSize_t setFontSize;
 getLineSpacing_t getLineSpacing;
 setLineSpacing_t setLineSpacing;
+
+setFps_t orig_setFps;
+void setFps(int fps)
+{
+  orig_setFps(60);
+}
 
 populateWithErrors_t orig_populateWithErrors;
 bool populateWithErrors(void *self, Il2CppString *str, TextGenerationSettings_t *settings, void *context)
@@ -39,27 +49,35 @@ Il2CppString *localizeGet(int id)
 queryCtor_t orig_queryCtor;
 void *queryCtor(void *self, void *conn, Il2CppString *sql)
 {
-  auto wsql = std::wstring(sql->start_char);
-  if (wsql.find(L"text_data") != std::wstring::npos || wsql.find(L"character_system_text") != std::wstring::npos
-      || wsql.find(L"race_jikkyo_comment") != std::string::npos
-      || wsql.find(L"race_jikkyo_message") != std::string::npos)
+  auto wsql = std::wstring_view(sql->start_char);
+  if (wsql.find(L"text_data") != std::wstring_view::npos
+      || wsql.find(L"character_system_text") != std::wstring_view::npos
+      || wsql.find(L"race_jikkyo_comment") != std::wstring_view::npos
+      || wsql.find(L"race_jikkyo_message") != std::wstring_view::npos)
   {
-    queries.insert({self, true});
+    std::unique_lock lock(queriesMutex);
+    queries.emplace(self, true);
+    lock.unlock();
   }
   return orig_queryCtor(self, conn, sql);
 }
 
-queryDtor_t orig_queryDtor;
-void *queryDtor(void *self)
+queryDispose_t orig_queryDispose;
+void *queryDispose(void *self)
 {
   if (queries.find(self) != queries.end())
     queries.erase(self);
-  return orig_queryDtor(self);
+  return orig_queryDispose(self);
 }
 
 queryGetText_t orig_queryGetText;
 Il2CppString *queryGetText(void *self, int id)
 {
   auto str = orig_queryGetText(self, id);
-  return queries.find(self) == queries.end() ? str : locale->localize(str);
+
+  std::unique_lock lock(queriesMutex);
+  auto ok = queries.find(self) != queries.end();
+  lock.unlock();
+
+  return ok ? str : locale->localize(str);
 }

@@ -19,7 +19,7 @@
       "name": "flags",
       "hidden": true,
       "cacheVariables": {
-        "CMAKE_CXX_FLAGS": "/D_MBCS /W4 /permissive- /volatile:iso /EHsc /Zc:__cplusplus /Zc:throwingNew"
+        "CMAKE_CXX_FLAGS": "/utf-8 /D_SBCS /Os /W4 /permissive- /volatile:iso /EHsc /Zc:__cplusplus /Zc:throwingNew"
       }
     },
     {

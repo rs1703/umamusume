@@ -63,6 +63,16 @@ void load(const char *moduleName)
   RESOLVE(il2cpp_array_new);
   RESOLVE(il2cpp_thread_attach);
   RESOLVE(il2cpp_thread_detach);
+  RESOLVE(il2cpp_class_get_field_from_name);
+  RESOLVE(il2cpp_class_is_assignable_from);
+  RESOLVE(il2cpp_class_for_each);
+  RESOLVE(il2cpp_class_get_nested_types);
+  RESOLVE(il2cpp_class_get_type);
+  RESOLVE(il2cpp_type_get_object);
+  RESOLVE(il2cpp_gchandle_new);
+  RESOLVE(il2cpp_gchandle_free);
+  RESOLVE(il2cpp_gchandle_get_target);
+  RESOLVE(il2cpp_class_from_type);
 
   domain = il2cpp_domain_get();
   if (domain == nullptr)
@@ -86,21 +96,26 @@ void *getClass(const char *assemblyName, const char *namespaze, const char *clas
   return il2cpp_class_from_name(image, namespaze, className);
 }
 
+void *getClass(void *klass, const char *name)
+{
+  return Il2Cpp::find_nested_class(klass, [name](void* klass) {
+    return strcmp(((Il2CppClassHead*)klass)->name, name) == 0;
+  });
+}
+
 MethodInfo *getMethod(void *klass, const char *name, int argsCount)
 {
   return il2cpp_class_get_method_from_name(klass, name, argsCount);
 }
-
 
 MethodInfo *findMethod(void *klass, const char *name, std::function<bool(const MethodInfo *)> predicate)
 {
   void *iter = nullptr;
   MethodInfo *method = nullptr;
 
-  while ((method = il2cpp_class_get_methods(klass, &iter)) != nullptr) {
+  while ((method = il2cpp_class_get_methods(klass, &iter)) != nullptr) 
     if (strcmp(method->name, name) == 0 && predicate(method))
       return method;
-  }
 
   return nullptr;
 }
@@ -130,7 +145,6 @@ void hook(const char *imageName, const char *namespaze, const char *className, c
     return;
   }
 
-  std::cout << "Hooking " << className << "::" << fn << std::endl;
   hook((void *)method->methodPointer, replace, original);
 }
 

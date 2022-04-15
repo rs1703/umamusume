@@ -1,7 +1,7 @@
 #ifndef UMAMUSUME_IL2CPP_H_
 #define UMAMUSUME_IL2CPP_H_
 
-#include <cstdint>
+#include <functional>
 
 // UnityEngine.Color
 struct Color_t
@@ -164,7 +164,7 @@ struct MethodInfo
   uintptr_t invoker_method;
   const char *name;
   uintptr_t klass;
-  uintptr_t return_type;
+  const Il2CppType *return_type;
   const ParameterInfo *parameters;
   uintptr_t methodDefinition;
   uintptr_t genericContainer;
@@ -177,6 +177,26 @@ struct MethodInfo
   uint8_t is_inflated : 1;
   uint8_t wrapper_type : 1;
   uint8_t is_marshaled_from_native : 1;
+};
+
+struct FieldInfo
+{
+  const char *name;
+  const Il2CppType *type;
+  uintptr_t parent;
+  int32_t offset;
+  uint32_t token;
+};
+
+template<typename T>
+struct TypedField
+{
+  FieldInfo *Field;
+
+  constexpr FieldInfo *operator->() const noexcept
+  {
+    return Field;
+  }
 };
 
 struct Il2CppObject
@@ -197,6 +217,23 @@ typedef struct Il2CppArraySize
   alignas(8) void *vector[0];
 } Il2CppArraySize;
 
+struct Il2CppClassHead
+{
+  const void *image;
+  void *gc_desc;
+  const char *name;
+  const char *namespaze;
+};
+
+struct Il2CppReflectionType
+{
+  Il2CppObject object;
+  const Il2CppType *type;
+};
+
+static const size_t kIl2CppSizeOfArray = (offsetof(Il2CppArraySize, vector));
+
+// function types
 typedef Il2CppString *(*il2cpp_string_new_utf16_t)(const wchar_t *str, unsigned int len);
 typedef Il2CppString *(*il2cpp_string_new_t)(const char *str);
 typedef void *(*il2cpp_domain_get_t)();
@@ -211,7 +248,18 @@ typedef void *(*il2cpp_resolve_icall_t)(const char *name);
 typedef void *(*il2cpp_array_new_t)(void *klass, uintptr_t count);
 typedef void *(*il2cpp_thread_attach_t)(void *domain);
 typedef void (*il2cpp_thread_detach_t)(void *thread);
+typedef FieldInfo *(*il2cpp_class_get_field_from_name_t)(void *klass, const char *name);
+typedef bool (*il2cpp_class_is_assignable_from_t)(void *klass, void *oklass);
+typedef void (*il2cpp_class_for_each_t)(void (*klassReportFunc)(void *klass, void *userData), void *userData);
+typedef void *(*il2cpp_class_get_nested_types_t)(void *klass, void **iter);
+typedef void *(*il2cpp_class_get_type_t)(void *klass);
+typedef Il2CppReflectionType *(*il2cpp_type_get_object_t)(const void *type);
+typedef uint32_t (*il2cpp_gchandle_new_t)(void *obj, bool pinned);
+typedef void (*il2cpp_gchandle_free_t)(uint32_t gchandle);
+typedef void *(*il2cpp_gchandle_get_target_t)(uint32_t gchandle);
+typedef void *(*il2cpp_class_from_type_t)(const Il2CppType *type);
 
+// function defines
 extern il2cpp_string_new_utf16_t il2cpp_string_new_utf16;
 extern il2cpp_string_new_t il2cpp_string_new;
 extern il2cpp_domain_get_t il2cpp_domain_get;
@@ -226,5 +274,20 @@ extern il2cpp_resolve_icall_t il2cpp_resolve_icall;
 extern il2cpp_array_new_t il2cpp_array_new;
 extern il2cpp_thread_attach_t il2cpp_thread_attach;
 extern il2cpp_thread_detach_t il2cpp_thread_detach;
+extern il2cpp_class_get_field_from_name_t il2cpp_class_get_field_from_name;
+extern il2cpp_class_is_assignable_from_t il2cpp_class_is_assignable_from;
+extern il2cpp_class_for_each_t il2cpp_class_for_each;
+extern il2cpp_class_get_nested_types_t il2cpp_class_get_nested_types;
+extern il2cpp_class_get_type_t il2cpp_class_get_type;
+extern il2cpp_type_get_object_t il2cpp_type_get_object;
+extern il2cpp_gchandle_new_t il2cpp_gchandle_new;
+extern il2cpp_gchandle_free_t il2cpp_gchandle_free;
+extern il2cpp_gchandle_get_target_t il2cpp_gchandle_get_target;
+extern il2cpp_class_from_type_t il2cpp_class_from_type;
+
+namespace Il2Cpp
+{
+void *find_nested_class(void *klass, std::function<bool(void *)> predicate);
+};  // namespace Il2Cpp
 
 #endif  // UMAMUSUME_IL2CPP_H_
