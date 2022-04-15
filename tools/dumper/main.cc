@@ -1,6 +1,8 @@
+#include <codecvt>
 #include <filesystem>
 #include <fstream>
 #include <iostream>
+#include <locale>
 #include <string>
 
 #include <ShlObj_core.h>
@@ -22,6 +24,16 @@ bool initDatabase()
   return sqlite3_open(dbPath.string().c_str(), &db) == SQLITE_OK;
 }
 
+std::string utf8(std::wstring str)
+{
+  std::string result;
+  result.resize(str.length() * 4);
+
+  int len = WideCharToMultiByte(CP_UTF8, 0, str.data(), str.length(), result.data(), result.size(), nullptr, nullptr);
+  result.resize(len);
+  return result;
+}
+
 void dump(const std::string &table, const std::string &column)
 {
   std::cout << "Dumping " << table << "..." << std::endl;
@@ -35,9 +47,9 @@ void dump(const std::string &table, const std::string &column)
 
   nlohmann::json json;
   while (sqlite3_step(stmt) == SQLITE_ROW) {
-    const char *value = (const char *)sqlite3_column_text(stmt, 0);
-    size_t hash = std::hash<std::string> {}(value);
-    json[std::to_string(hash)] = value;
+    auto value = (const wchar_t *)sqlite3_column_text16(stmt, 0);
+    size_t hash = std::hash<std::wstring> {}(value);
+    json[std::to_string(hash)] = utf8(value);
   }
 
   if (sqlite3_finalize(stmt) != SQLITE_OK) {
