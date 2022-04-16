@@ -14,7 +14,10 @@ HunterGate(
 project(version)
 enable_language(C CXX ASM_MASM)
 
+hunter_add_package(CURL)
 hunter_add_package(sqlite3)
+
+find_package(CURL CONFIG REQUIRED)
 find_package(sqlite3 CONFIG REQUIRED)
 
 include_directories(
@@ -29,10 +32,14 @@ file(GLOB JSON_SRC libs/nlohmann/*.hpp)
 
 add_library(${PROJECT_NAME} SHARED ${MINHOOK_SRC} ${JSON_SRC} ${PROJECT_SRC})
 
+file(GLOB COMPARE_SRC tools/compare/*.cc)
+add_executable(compare ${JSON_SRC} ${COMPARE_SRC})
+target_link_libraries(compare PUBLIC sqlite3::sqlite3)
+
 file(GLOB DUMPER_SRC tools/dumper/*.cc)
 add_executable(dumper ${JSON_SRC} ${DUMPER_SRC})
 target_link_libraries(dumper PUBLIC sqlite3::sqlite3)
 
-file(GLOB COMPARE_SRC tools/compare/*.cc)
-add_executable(compare ${JSON_SRC} ${COMPARE_SRC})
-target_link_libraries(compare PUBLIC sqlite3::sqlite3)
+file(GLOB GAMETORA_SRC tools/gametora/*cc)
+add_executable(gametora ${JSON_SRC} ${GAMETORA_SRC})
+target_link_libraries(gametora PUBLIC CURL::libcurl)
