@@ -1,0 +1,3205 @@
+{
+  "Admire Vega": {
+    "アヤベさんは挫けない": [
+      [
+        "Power +15",
+        "Intelligence +10"
+      ],
+      [
+        "Speed +15",
+        "Skill point(s) +30"
+      ]
+    ],
+    "アヤベさんは見過ごせない": [
+      [
+        "Randomly either",
+        "Power +5",
+        "Intelligence +15",
+        "or",
+        "Power +5",
+        "Intelligence +10"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "アヤベさんは譲れない": [
+      [
+        "Power +7",
+        "Intelligence +7"
+      ]
+    ],
+    "不器用なトライアングラム": [
+      [
+        "Power +15"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "孤高のケフェウス": [
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "Agnes Digital": {
+    "ウマ娘ちゃん欠乏症！": [
+      [
+        "Energy +5",
+        "Speed +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "ヲタクの推し活": [
+      [
+        "Randomly either",
+        "Power +15",
+        "Skill point(s) +20",
+        "or",
+        "Power +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Speed +35"
+      ]
+    ],
+    "ヲタクの美学": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "ヲタクの責務": [
+      [
+        "Stamina +15"
+      ],
+      [
+        "Intelligence +15"
+      ]
+    ]
+  },
+  "Agnes Tachyon": {
+    "Report『未定（休憩も大事）』": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "Report『特化鍛錬による可能性』": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "要検証・他者の介在による偶発性": [
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "要検証・睡眠時間と作業能率": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "Air Groove": {
+    "俊敏にして剛腕": [
+      [
+        "Power +15"
+      ],
+      [
+        "Speed +10",
+        "Stamina +5"
+      ]
+    ],
+    "凛と胡蝶蘭": [
+      [
+        "Power +5",
+        "Guts +5"
+      ]
+    ],
+    "峻厳にして優渥": [
+      [
+        "Energy +10",
+        "Intelligence +10"
+      ]
+    ],
+    "樫に咲け": [
+      [
+        "Randomly either",
+        "Energy -20",
+        "Power +5",
+        "Guts +5",
+        "or",
+        "Energy -10",
+        "Stamina +5",
+        "Power +5",
+        "Guts +10"
+      ]
+    ]
+  },
+  "Air Shakur": {
+    "//絶対欲しい": [
+      [
+        "Maximum energy +4",
+        "Guts +5"
+      ]
+    ],
+    "//要検証": [
+      [
+        "Energy +10",
+        "Guts +5"
+      ],
+      [
+        "Energy -10",
+        "Stamina +5",
+        "Guts +10"
+      ]
+    ],
+    "合わせるBPM": [
+      [
+        "Speed +15"
+      ]
+    ],
+    "繋ぐEQ": [
+      [
+        "Speed +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "重なるハイとロー": [
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ]
+  },
+  "Aoi Kiryuin": {
+    "トレーナー心得『指導は常に改良せよ』": [
+      [
+        "Energy +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "趣味を探して": [
+      [
+        "Energy +20",
+        "Skill point(s) +15",
+        "Motivation +1",
+        "Can start dating"
+      ],
+      [
+        "Motivation -1",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Bamboo Memory": {
+    "いつか強敵と呼べる日のために！っス！": [
+      [
+        "Randomly either",
+        "Maximum energy +4",
+        "Energy -5",
+        "Stamina +15",
+        "Power +20",
+        "or",
+        "Energy -15",
+        "Stamina +10",
+        "Power +15"
+      ]
+    ],
+    "トラブル、上等っス！": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Energy -10"
+      ]
+    ],
+    "ライバル、打倒っス！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Maximum energy +4",
+        "Energy -5"
+      ]
+    ],
+    "目指すは得点王っス！": [
+      [
+        "Energy -5",
+        "Stamina +3",
+        "Power +3",
+        "Guts +3"
+      ]
+    ],
+    "誰だろうと風紀は絶対っス！": [
+      [
+        "Randomly either",
+        "Maximum energy +4",
+        "Energy -10",
+        "Stamina +15",
+        "Power +20",
+        "Guts +15",
+        "or",
+        "Energy -15",
+        "Stamina +15",
+        "Power +20",
+        "Guts +10",
+        "or",
+        "Energy -20",
+        "Stamina +10",
+        "Guts +10"
+      ],
+      [
+        "Energy -5",
+        "Stamina +10",
+        "Power +10",
+        "Motivation +1"
+      ],
+      [
+        "Energy +30",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Biko Pegasus": {
+    "ヒーローの苦悩": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Energy +5",
+        "Power +5"
+      ]
+    ],
+    "必殺技を手に入れろ！": [
+      [
+        "Energy +30"
+      ]
+    ],
+    "決戦！　栄光の勝利をこの手に！": [
+      [
+        "Speed +5",
+        "Power +5",
+        "Guts +5"
+      ]
+    ],
+    "熱い誓い！　アタシはヒーローになる！": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "猛特訓！　現れたキャロットマン！？": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ]
+  },
+  "Biwa Hayahide": {
+    "plan：Safety": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ]
+    ],
+    "ぎりぎり様相論": [
+      [
+        "Power +15"
+      ],
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "友がくれたもの": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ]
+    ],
+    "濃いめ、バリカタ、爆盛り": [
+      [
+        "Skill point(s) +10"
+      ]
+    ],
+    "脱・無難論": [
+      [
+        "Energy -10"
+      ],
+      [
+        "Energy +10",
+        "Stamina +10"
+      ]
+    ]
+  },
+  "Curren Chan": {
+    "#あなただけのカワイイ": [
+      [
+        "Speed +5",
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10",
+        "Power +5"
+      ]
+    ],
+    "#カレンの可能性": [
+      [
+        "Randomly either",
+        "Speed +10",
+        "Intelligence +10",
+        "or",
+        "Speed +5",
+        "Intelligence +5"
+      ],
+      [
+        "Energy +30",
+        "Event chain ended"
+      ]
+    ],
+    "#カレンの疑問": [
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "#カレンらしく": [
+      [
+        "Randomly either",
+        "Intelligence +10",
+        "Skill point(s) +20",
+        "or",
+        "Intelligence +5",
+        "Skill point(s) +10"
+      ]
+    ],
+    "#カワイイフォーユー☆": [
+      [
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Daitaku Helios": {
+    "テンアゲ☆ヘリオスチャンネル～！": [
+      [
+        "Energy -5",
+        "Power +10",
+        "Skill point(s) +20"
+      ]
+    ],
+    "太陽とエンカウント☆": [
+      [
+        "Power +10"
+      ],
+      [
+        "Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "笑顔は続くよどこまでも": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Speed +20",
+        "Power +20",
+        "or",
+        "Energy -10",
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "笑顔フォーエバー": [
+      [
+        "Speed +5",
+        "Power +10"
+      ]
+    ],
+    "笑顔伝説・爆誕！": [
+      [
+        "Energy -5",
+        "Power +15"
+      ],
+      [
+        "Energy +10",
+        "Speed +15",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Daiwa Scarlet": {
+    "このくらい平気なんだから！": [
+      [
+        "Energy +20",
+        "Motivation +1"
+      ]
+    ],
+    "伝えたい『アタシ』": [
+      [
+        "Power +15",
+        "Intelligence +15"
+      ]
+    ],
+    "大切な『サイン』": [
+      [
+        "Skill point(s) +20"
+      ]
+    ],
+    "届かない『キモチ』": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "明日は私が勝つんだから！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Eishin Flash": {
+    "想定外のお昼": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "想定外への対応": [
+      [
+        "Guts +10"
+      ]
+    ],
+    "良き友人たるもの": [
+      [
+        "Energy +20"
+      ]
+    ],
+    "良き管理者たるもの": [
+      [
+        "Maximum energy +4",
+        "Energy +10",
+        "Motivation +1"
+      ]
+    ]
+  },
+  "El Condor Pasa": {
+    "シークレット・ノート！": [
+      [
+        "Power +10"
+      ]
+    ],
+    "ダシが重要！！": [
+      [
+        "Energy +30"
+      ],
+      [
+        "Event chain ended"
+      ]
+    ],
+    "メラメラ・ファイアー！": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Energy -10",
+        "Power +20"
+      ]
+    ],
+    "ルチャドーラ・エル！！": [
+      [
+        "Power +15"
+      ]
+    ],
+    "世界級の……！？": [
+      [
+        "Power +10",
+        "Guts +10"
+      ]
+    ]
+  },
+  "Fine Motion": {
+    "ときめきシューズ": [
+      [
+        "Speed +5",
+        "Skill point(s) +10"
+      ],
+      [
+        "Energy -10",
+        "Stamina +5",
+        "Skill point(s) +20"
+      ]
+    ],
+    "思い出クローバー": [
+      [
+        "Guts +15"
+      ]
+    ],
+    "素敵な♪ライブ日和": [
+      [
+        "Energy +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "素敵な♪レース日和": [
+      [
+        "Energy -10",
+        "Guts +5",
+        "Intelligence +5/+10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "素敵な♪練習日和": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +20"
+      ],
+      [
+        "Speed +10",
+        "Stamina +5"
+      ],
+      [
+        "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ]
+  },
+  "Fuji Kiseki": {
+    "アウトオブディスワールド": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "アブラカダブラ": [
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "スライハンド": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ミスディレクション": [
+      [
+        "Skill point(s) +30"
+      ]
+    ]
+  },
+  "Gold City": {
+    "08:36／朝寝坊、やばっ": [
+      [
+        "Motivation -1",
+        "Skill point(s) +45"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "13:12／昼休み、気合い入れなきゃ": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "One Step": [
+      [
+        "Energy +10",
+        "Speed +10",
+        "Stamina +10"
+      ]
+    ],
+    "Pride": [
+      [
+        "Energy +20",
+        "Motivation +1"
+      ]
+    ],
+    "Struggle": [
+      [
+        "Energy +20",
+        "Speed +10",
+        "Stamina +10"
+      ]
+    ]
+  },
+  "Gold Ship": {
+    "ゴルシ様、ダンジョンを探す": [
+      [
+        "Energy -15",
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "ゴルシ様、城を建てる": [
+      [
+        "Maximum energy +4"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ゴルシ様、配下をそろえる": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Speed +5",
+        "Stamina +5",
+        "or",
+        "Energy -10",
+        "Speed +10",
+        "Stamina +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "冒険家ゴールドシップ": [
+      [
+        "Stamina +15"
+      ],
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "甦れ！　ゴルシ印のソース焼きそば！": [
+      [
+        "Stamina +5",
+        "Motivation +1"
+      ]
+    ]
+  },
+  "Grass Wonder": {
+    "ひととき、うらうらに": [
+      [
+        "Energy +25"
+      ],
+      [
+        "Randomly either",
+        "Energy -10",
+        "Guts +5",
+        "or",
+        "Power +5",
+        "Guts +5",
+        "Intelligence +10"
+      ]
+    ],
+    "密やかなる熱情": [
+      [
+        "Energy +10",
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "文殿、思ひ煩ふ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ]
+    ],
+    "秘すれば、花なり": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Speed +5",
+        "Guts +5",
+        "Intelligence +5",
+        "or",
+        "Energy -10",
+        "Speed +15",
+        "Guts +15",
+        "Intelligence +15"
+      ]
+    ]
+  },
+  "Haru Urara": {
+    "うららん☆ふくへーダッシュ！": [
+      [
+        "Motivation +1",
+        "Energy +10"
+      ]
+    ],
+    "うららん☆テスト勉強": [
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ],
+      [
+        "Motivation +1",
+        "Intelligence +5"
+      ]
+    ],
+    "みんなの応援でがんばる！": [
+      [
+        "Energy +15"
+      ]
+    ],
+    "キングちゃんとがんばる！": [
+      [
+        "Motivation +1",
+        "Energy +10"
+      ]
+    ],
+    "ライスちゃんとがんばる！": [
+      [
+        "Energy +10"
+      ]
+    ]
+  },
+  "Hishi Akebono": {
+    "あなたにボーノ、あたしもボーノ☆": [
+      [
+        "Stamina +10",
+        "Guts +20"
+      ]
+    ],
+    "そのままの自分でボーノボーノ♪": [
+      [
+        "Maximum energy +8",
+        "Guts +5"
+      ]
+    ],
+    "どーんと☆お任せあれ♪": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Energy -15"
+      ]
+    ],
+    "どーんと☆召し上がれ♪": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -5",
+        "Power +15"
+      ]
+    ],
+    "はっけよーい……ボーノ☆": [
+      [
+        "Energy +30",
+        "Guts +5",
+        "(Random) Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ]
+  },
+  "Hishi Amazon": {
+    "アタシはアタシらしく": [
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "ヒシアマ姐さん奮闘記　～問題児編～": [
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ],
+      [
+        "Energy -10",
+        "Speed +10",
+        "Guts +5"
+      ]
+    ],
+    "ヒシアマ姐さん奮闘記　～追い込み編～": [
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "姐御流の解決法": [
+      [
+        "Speed +10"
+      ]
+    ]
+  },
+  "Ikuno Dictus": {
+    "Uゆしき事態？": [
+      [
+        "Stamina +15",
+        "Guts +15"
+      ],
+      [
+        "Energy +20",
+        "Speed +10",
+        "Skill point(s) +10",
+        "Event chain ended"
+      ]
+    ],
+    "U情": [
+      [
+        "Stamina +30",
+        "Guts +10",
+        "Skill point(s) +20"
+      ]
+    ],
+    "イクノ式マネジメント論": [
+      [
+        "Stamina +20"
+      ]
+    ],
+    "イクノ式万全メソッド": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "探偵U": [
+      [
+        "Maximum energy +4",
+        "Stamina +15",
+        "Intelligence +5"
+      ]
+    ]
+  },
+  "Inari One": {
+    "いきちょん！": [
+      [
+        "Energy -10",
+        "Speed +12",
+        "Power +12"
+      ]
+    ],
+    "おうすうちゃん！": [
+      [
+        "Energy -5",
+        "Motivation +2",
+        "Speed +3",
+        "Power +3",
+        "Guts +3"
+      ],
+      [
+        "Energy -5",
+        "Speed +10"
+      ]
+    ],
+    "喧嘩だワッショイ": [
+      [
+        "Energy -5",
+        "Power +15"
+      ],
+      [
+        "Motivation +1",
+        "Guts +5"
+      ]
+    ],
+    "神輿だワッショイ": [
+      [
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Ines Fujin": {
+    "あと10分、なの！": [
+      [
+        "Guts +15"
+      ],
+      [
+        "Intelligence +15"
+      ]
+    ],
+    "お姉ちゃんの瞬発力": [
+      [
+        "Energy -10",
+        "Speed +5",
+        "Stamina +5",
+        "Guts +10"
+      ]
+    ],
+    "ハピハピなる前進": [
+      [
+        "Energy -10",
+        "Guts +10",
+        "Skill point(s) +30"
+      ]
+    ],
+    "目指せ、きらめく瞬間！": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Guts +10",
+        "or",
+        "Energy -10",
+        "Guts +20",
+        "Intelligence +5"
+      ]
+    ],
+    "鬼ごっこ、なの！": [
+      [
+        "Energy +10",
+        "Speed +5"
+      ]
+    ]
+  },
+  "Kawakami Princess": {
+    "つつましく！豪快に！": [
+      [
+        "Motivation +1",
+        "Speed +5"
+      ],
+      [
+        "Skill point(s) +10"
+      ]
+    ],
+    "ぶちかませ！お姫様ロード！": [
+      [
+        "Speed +15",
+        "Guts +15"
+      ],
+      [
+        "Energy +25",
+        "Skill point(s) +25"
+      ]
+    ],
+    "プリンセス、殴る！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Motivation +1"
+      ]
+    ],
+    "プリンセス、逃走！": [
+      [
+        "Energy +10"
+      ]
+    ],
+    "プリンセスパワー☆フルマックス！": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ]
+  },
+  "King Halo": {
+    "付き合う権利をあげる！": [
+      [
+        "Energy -20",
+        "Speed +10",
+        "Power +10",
+        "Intelligence +5"
+      ],
+      [
+        "Motivation -1",
+        "Guts +25"
+      ]
+    ],
+    "助言する権利をあげる！": [
+      [
+        "Guts +10",
+        "Intelligence +5"
+      ]
+    ],
+    "舞踏会の綺羅星": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Power +20",
+        "or",
+        "Energy -10",
+        "Power +40"
+      ]
+    ],
+    "舞踏家のプライド": [
+      [
+        "Energy -5",
+        "Stamina +15",
+        "Power +15",
+        "Skill point(s) +20"
+      ],
+      [
+        "Energy +15",
+        "Skill point(s) +20"
+      ]
+    ],
+    "魅惑の招待状": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  },
+  "Kitasan Black": {
+    "2人で行くこの花道": [
+      [
+        "Randomly either",
+        "Speed +5",
+        "Power +5",
+        "or",
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "あぁ、友情": [
+      [
+        "Motivation +1",
+        "Power +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "あぁ、故郷": [
+      [
+        "Speed +5",
+        "Power +10"
+      ],
+      [
+        "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "情けは人のためならず": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Speed +5/+10"
+      ]
+    ],
+    "輝き追いかけて": [
+      [
+        "Motivation +1",
+        "Speed +2",
+        "Power +2",
+        "Intelligence +2"
+      ]
+    ]
+  },
+  "Manhattan Cafe": {
+    "オイカケテ": [
+      [
+        "Stamina +15"
+      ]
+    ],
+    "ヒカレテ": [
+      [
+        "Stamina +10",
+        "Intelligence +5"
+      ]
+    ],
+    "ミツケテ": [
+      [
+        "Randomly either",
+        "Stamina +10",
+        "Intelligence +10",
+        "or",
+        "Energy +15"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "夜の独走": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Energy +10",
+        "Stamina +5"
+      ]
+    ],
+    "静けさを嗜む": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Maruzensky": {
+    "マブいドライブだっちゅ～の": [
+      [
+        "Speed +5",
+        "Motivation +1"
+      ],
+      [
+        "Intelligence +5",
+        "Motivation +1"
+      ]
+    ],
+    "可愛い後輩ちゃんのためだもの": [
+      [
+        "Energy +5",
+        "Speed +10"
+      ]
+    ]
+  },
+  "Marvelous Sunday": {
+    "マーベラス☆スクール！！": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "マーベラス☆ダイブ！！": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +10"
+      ],
+      [
+        "Energy -10",
+        "Guts +25"
+      ]
+    ],
+    "マーベラス☆ヴィクトリー！！": [
+      [
+        "Energy -10",
+        "Guts +10",
+        "Intelligence +10",
+        "Skill point(s) +20"
+      ]
+    ],
+    "マーベラスにするために☆": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ]
+    ],
+    "問答無用のマーベラス☆": [
+      [
+        "Energy +10",
+        "Speed +5"
+      ],
+      [
+        "Motivation +1",
+        "Speed +5"
+      ]
+    ]
+  },
+  "Matikanefukukitaru": {
+    "仲間と一緒に笑福万来！": [
+      [
+        "Randomly either",
+        "All stats +7",
+        "or",
+        "Intelligence +4",
+        "Event chain ended"
+      ],
+      [
+        "Energy +5",
+        "Event chain ended"
+      ]
+    ],
+    "信仰心と親切心が交わる時――": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Energy +20"
+      ]
+    ],
+    "全力スピリチュアル": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Energy -10",
+        "Speed +5",
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "謎の儀式図で運試し！": [
+      [
+        "Randomly either",
+        "All stats +7",
+        "or",
+        "Intelligence +4",
+        "Event chain ended"
+      ],
+      [
+        "Energy +5",
+        "Event chain ended"
+      ]
+    ],
+    "辿り着いたよミラクルハッピー！": [
+      [
+        "Randomly either",
+        "All stats +7",
+        "Skill point(s) +77",
+        "or",
+        "All stats +7",
+        "Skill point(s) +7",
+        "or",
+        "Skill point(s) +7"
+      ]
+    ]
+  },
+  "Matikanetannhauser": {
+    "これも普通のハプニング！？": [
+      [
+        "Stamina +5",
+        "Guts +10"
+      ]
+    ],
+    "これも普通の努力です！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "個性的な走り方？": [
+      [
+        "Randomly either",
+        "Power +10",
+        "Skill point(s) +15",
+        "or",
+        "Power +5",
+        "Skill point(s) +10"
+      ]
+    ],
+    "求む、個性！": [
+      [
+        "Motivation +1"
+      ],
+      [
+        "Energy +10/+30"
+      ]
+    ],
+    "目指せ、いたずらっ子！": [
+      [
+        "Power +5",
+        "Skill point(s) +10"
+      ]
+    ]
+  },
+  "Mayano Top Gun": {
+    "なんでもない日の……♪": [
+      [
+        "Randomly either",
+        "Motivation +1",
+        "Speed +20",
+        "Guts +10",
+        "or",
+        "Energy -10",
+        "Motivation +1",
+        "Guts +10"
+      ],
+      [
+        "Intelligence +15"
+      ],
+      [
+        "Energy +20",
+        "Stamina +10",
+        "Event chain ended"
+      ]
+    ],
+    "マヤノ的おやつ会議！": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "マヤノ的ファッション会議！": [
+      [
+        "Stamina +10"
+      ]
+    ],
+    "特別な日の特別な……♪": [
+      [
+        "Energy +10",
+        "Speed +10",
+        "Guts +5"
+      ]
+    ],
+    "素敵な休日の……♪": [
+      [
+        "Speed +10",
+        "Guts +5"
+      ]
+    ]
+  },
+  "Meisho Doto": {
+    "お食事券事件": [
+      [
+        "Speed +3",
+        "Stamina +3",
+        "Power +3",
+        "Skill point(s) +10"
+      ]
+    ],
+    "にんじん……買ってくださいっ": [
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "めーめー団の新団員": [
+      [
+        "Energy -20",
+        "Speed +5",
+        "Stamina +10"
+      ]
+    ],
+    "私……改革ですっ": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Guts +15"
+      ]
+    ],
+    "覇王の危機！？": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Stamina +5"
+      ]
+    ]
+  },
+  "Mejiro Ardan": {
+    "みんなで作る特製ドリンク♪": [
+      [
+        "Randomly either",
+        "Energy +10",
+        "Speed +5",
+        "Intelligence +5",
+        "Skill point(s) +10",
+        "or",
+        "Intelligence +10"
+      ],
+      [
+        "Motivation +1",
+        "Speed +10"
+      ]
+    ],
+    "硝子の少女は学びたい": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "硝子の少女は遊びたい": [
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ]
+    ],
+    "立ちたい場所はただ1つ": [
+      [
+        "Energy +30",
+        "Motivation +1"
+      ]
+    ]
+  },
+  "Mejiro Bright": {
+    "しっかり、じっくり。": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "のんびり、ゆったり。": [
+      [
+        "Stamina +15",
+        "Guts +5"
+      ],
+      [
+        "Speed +15",
+        "Power +5"
+      ]
+    ],
+    "わたくし、捜しますわ～": [
+      [
+        "Motivation +1",
+        "Stamina +10"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +10"
+      ]
+    ],
+    "わたくし、演じますわ～": [
+      [
+        "Stamina +15"
+      ]
+    ],
+    "わたくし、負けませんわ～": [
+      [
+        "Stamina +15"
+      ]
+    ]
+  },
+  "Mejiro Dober": {
+    "やってみてもいい": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ],
+    "三歩進み、二歩下がって、一歩": [
+      [
+        "Energy -10",
+        "Guts +5",
+        "Intelligence +5"
+      ]
+    ],
+    "喜んでくれるかな……": [
+      [
+        "Skill point(s) +45"
+      ]
+    ],
+    "踏み出す、一歩": [
+      [
+        "Energy -10",
+        "Skill point(s) +15~45"
+      ],
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ]
+    ],
+    "高め合い、二歩": [
+      [
+        "Guts +3",
+        "Intelligence +3",
+        "Skill point(s) +5"
+      ]
+    ]
+  },
+  "Mejiro McQueen": {
+    "“期待”に応える": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Stamina +10",
+        "or",
+        "Energy -10"
+      ]
+    ],
+    "“期待”は力": [
+      [
+        "Stamina +10"
+      ]
+    ],
+    "“期待”は好意": [
+      [
+        "Motivation +1",
+        "Stamina +10"
+      ]
+    ],
+    "体重を保つ為": [
+      [
+        "Energy -10",
+        "Stamina +15"
+      ],
+      [
+        "Maximum energy +4",
+        "Stamina +5"
+      ]
+    ],
+    "高みに至る為": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ]
+  },
+  "Mejiro Palmer": {
+    "ポジティブな逃げ": [
+      [
+        "Guts +15"
+      ]
+    ],
+    "ポジティブ逃げネバギバ！": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Stamina +5",
+        "Guts +5",
+        "or",
+        "Energy -10",
+        "Stamina +20",
+        "Guts +20"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "ラブ逃げエスケープ": [
+      [
+        "Energy +10",
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "振り逃げランナウェイ": [
+      [
+        "Energy -5",
+        "Stamina +15",
+        "Guts +10"
+      ],
+      [
+        "Energy -5",
+        "Guts +10",
+        "Intelligence +15"
+      ]
+    ],
+    "逃げられない選択？": [
+      [
+        "Energy -15",
+        "Guts +20"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Mejiro Ryan": {
+    "あくまで薦められただけ": [
+      [
+        "Energy +30"
+      ]
+    ],
+    "どぎまぎアフタヌーンティー！": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "不屈のバーニングハート！！": [
+      [
+        "Power +10",
+        "Guts +5"
+      ]
+    ],
+    "滾れホームランダービー！": [
+      [
+        "Power +10",
+        "Guts +5"
+      ]
+    ],
+    "筋肉と共に明日へ！": [
+      [
+        "Energy -10",
+        "Power +15"
+      ],
+      [
+        "Maximum energy +4",
+        "Power +5"
+      ]
+    ]
+  },
+  "Mihono Bourbon": {
+    "ステータス『そのまま』": [
+      [
+        "Stamina +5",
+        "Intelligence +10"
+      ]
+    ],
+    "ステータス『つまらない？』": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +15"
+      ]
+    ],
+    "ステータス『楽しい！』": [
+      [
+        "Stamina +5",
+        "Intelligence +10"
+      ]
+    ],
+    "他人に危害を及ぼしてはならない": [
+      [
+        "Energy -10",
+        "Stamina +5",
+        "Power +15"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "命令は守らなければならない": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Nakayama Festa": {
+    "予兆の夜": [
+      [
+        "Stamina +10",
+        "Guts +5",
+        "Skill point(s) +10",
+        "※ Will affect the outcome of the third event"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +5",
+        "※ Will affect the outcome of the third event"
+      ]
+    ],
+    "夕暮れにひと勝負": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Guts +15"
+      ]
+    ],
+    "火花散る昼": [
+      [
+        "Skill point(s) +25"
+      ]
+    ],
+    "闇に溶ける夕": [
+      [
+        "Randomly either",
+        "※ Can only happen if you chose the top option during the first event",
+        "Skill point(s) +40",
+        "or",
+        "※ Can only happen if you chose the bottom option during the first event",
+        "Stamina +15",
+        "Guts +15",
+        "Skill point(s) +20",
+        "or",
+        "※ Can only happen if you chose the bottom option during the first event",
+        "Motivation -1",
+        "Guts +10"
+      ]
+    ]
+  },
+  "Narita Brian": {
+    "いつかの標的": [
+      [
+        "Stamina +10"
+      ]
+    ],
+    "孤狼": [
+      [
+        "Speed +3",
+        "Stamina +3",
+        "Power +3"
+      ]
+    ],
+    "戦場の心得": [
+      [
+        "Energy -5",
+        "Stamina +5"
+      ]
+    ],
+    "池の覇者": [
+      [
+        "Randomly either",
+        "Maximum energy +4",
+        "Stamina +10",
+        "or",
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "生徒会役員！": [
+      [
+        "Motivation +1",
+        "Speed +5"
+      ],
+      [
+        "Maximum energy +4"
+      ]
+    ]
+  },
+  "Narita Taishin": {
+    "タイシンの恩返し": [
+      [
+        "Energy -5",
+        "Stamina +10",
+        "Intelligence +10"
+      ]
+    ],
+    "別に、ほっといて": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "別に、邪魔しないで": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "真っ直ぐ届け、この気持ち！": [
+      [
+        "Randomly either",
+        "Stamina +10",
+        "Intelligence +10",
+        "or",
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "素直トレーニング！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "Narita Top Road": {
+    "きっちり、点検！": [
+      [
+        "Energy +20"
+      ],
+      [
+        "Energy -10",
+        "Speed +25"
+      ]
+    ],
+    "しっかり、努力！": [
+      [
+        "Stamina +10"
+      ]
+    ],
+    "クラスメイトのピンチなら……！": [
+      [
+        "Motivation +1",
+        "Energy -10",
+        "Speed +7",
+        "Stamina +7",
+        "Intelligence +7"
+      ]
+    ],
+    "ライバルだから知っている": [
+      [
+        "Energy -10",
+        "Speed +15",
+        "Stamina +15",
+        "Skill point(s) +20"
+      ]
+    ],
+    "期待をその背に！": [
+      [
+        "Energy -10",
+        "Speed +15",
+        "Stamina +15"
+      ],
+      [
+        "Energy +20",
+        "Skill point(s) +10"
+      ]
+    ]
+  },
+  "Nice Nature": {
+    "クイズでリベンジっ！！": [
+      [
+        "Energy +10",
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "抑えられないキモチ": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -5",
+        "Speed +5",
+        "Power +5",
+        "Heal a negative status effect"
+      ]
+    ],
+    "最強ムテキのネイチャさん？": [
+      [
+        "Motivation +1",
+        "Guts +5",
+        "Intelligence +5"
+      ]
+    ],
+    "（ニャンとも）ガラじゃない": [
+      [
+        "Energy +20"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "（美味しい）おせっかい": [
+      [
+        "Motivation +1",
+        "Maximum energy +4"
+      ]
+    ]
+  },
+  "Nishino Flower": {
+    "きれいに咲こうねっ♪": [
+      [
+        "Intelligence +15"
+      ],
+      [
+        "Speed +10",
+        "Power +5"
+      ]
+    ],
+    "小さな花に潤いを": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "温もり愛情弁当": [
+      [
+        "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Energy +20"
+      ]
+    ],
+    "私、ママになりますっ！": [
+      [
+        "Skill point(s) +15"
+      ],
+      [
+        "Motivation +1",
+        "Heal a negative status effect"
+      ],
+      [
+        "Power +25",
+        "Event chain ended"
+      ]
+    ],
+    "花咲く想いを込めて": [
+      [
+        "Energy +20"
+      ]
+    ]
+  },
+  "Oguri Cap": {
+    "ぬいぐるみか……": [
+      [
+        "Maximum energy +4",
+        "Power +5"
+      ]
+    ],
+    "人混みは大変だ……": [
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "何と答えれば……": [
+      [
+        "Energy +5",
+        "Power +5"
+      ],
+      [
+        "Energy -10",
+        "Guts +15"
+      ]
+    ],
+    "本当に応えるべきは……": [
+      [
+        "Power +5",
+        "Skill point(s) +10"
+      ],
+      [
+        "Stamina +5",
+        "Skill point(s) +10"
+      ]
+    ],
+    "私が語りたいことは……": [
+      [
+        "Randomly either",
+        "Power +10",
+        "Guts +5",
+        "Skill point(s) +10",
+        "or",
+        "Power +15",
+        "Guts +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Energy +30"
+      ]
+    ]
+  },
+  "Rice Shower": {
+    "お花屋さんでの1ページ": [
+      [
+        "Motivation +2"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ずうっと、つやつや、魔法の花": [
+      [
+        "Stamina +5",
+        "Power +10"
+      ],
+      [
+        "Energy +15",
+        "Power +5"
+      ]
+    ],
+    "晴れの日、ヒラヒラ、花束を": [
+      [
+        "Stamina +5",
+        "Power +5",
+        "Intelligence +5"
+      ]
+    ],
+    "曇りの日の1ページ": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "雨の日、ぷかぷか、お花畑": [
+      [
+        "Power +10"
+      ],
+      [
+        "Skill point(s) +40",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Riko Kashimoto": {
+    "意外な一面": [
+      [
+        "Randomly either",
+        "Energy +15",
+        "Motivation +1",
+        "Stamina +10",
+        "Can start dating",
+        "or",
+        "Event chain ended"
+      ],
+      [
+        "Motivation +1",
+        "Guts +15",
+        "Can start dating"
+      ],
+      [
+        "Event chain ended"
+      ]
+    ],
+    "樫本流、片付け術": [
+      [
+        "Stamina +15"
+      ],
+      [
+        "Guts +15"
+      ]
+    ]
+  },
+  "Sakura Bakushin O": {
+    "『ちびっ子ウマ娘徒競走大会』": [
+      [
+        "Guts +5"
+      ],
+      [
+        "Maximum energy +4",
+        "Speed +5"
+      ]
+    ],
+    "優等生の一石二鳥！！": [
+      [
+        "Speed +15"
+      ],
+      [
+        "Speed +5",
+        "Power +10"
+      ]
+    ],
+    "姉の背中": [
+      [
+        "Guts +10",
+        "Speed +5"
+      ],
+      [
+        "Skill point(s) +30",
+        "Event chain ended"
+      ]
+    ],
+    "貴方らしく": [
+      [
+        "Randomly either",
+        "Speed +15",
+        "Guts +15",
+        "or",
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "走りだすほどの！！": [
+      [
+        "Energy -10",
+        "Speed +10",
+        "Power +5"
+      ]
+    ]
+  },
+  "Sakura Chiyono O": {
+    "いつか咲く、その日まで……": [
+      [
+        "Energy +5",
+        "Stamina +5"
+      ]
+    ],
+    "今日の格言！": [
+      [
+        "Energy -10",
+        "Power +20"
+      ],
+      [
+        "Energy +5",
+        "Skill point(s) +10"
+      ]
+    ],
+    "花咲く、いつか！": [
+      [
+        "Randomly either",
+        "Energy -15",
+        "Stamina +10",
+        "Skill point(s) +5",
+        "or",
+        "Energy -15",
+        "Stamina +30",
+        "Skill point(s) +20"
+      ],
+      [
+        "Speed +5",
+        "Stamina +10",
+        "Power +5",
+        "Skill point(s) +30"
+      ]
+    ],
+    "花咲く、一歩！": [
+      [
+        "Skill point(s) +15"
+      ]
+    ],
+    "花咲く、希望！": [
+      [
+        "Randomly either",
+        "Stamina +30",
+        "Motivation +1",
+        "Heal a negative status effect",
+        "or",
+        "Energy -10",
+        "Guts +25"
+      ],
+      [
+        "Energy +20",
+        "Motivation +1"
+      ]
+    ]
+  },
+  "Sasami Anshinzawa": {
+    "あんし～んの練習台？": [
+      [
+        "Randomly either",
+        "Maximum energy +3",
+        "Energy +10",
+        "Motivation +1",
+        "Can start dating",
+        "or",
+        "Skill point(s) +50",
+        "Can start dating"
+      ],
+      [
+        "Motivation +1",
+        "Stamina +10",
+        "Can start dating"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +100",
+        "Event chain ended"
+      ]
+    ],
+    "全ての道は笹針に通じる": [
+      [
+        "Randomly either",
+        "1 Random stat(s) +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)",
+        "or",
+        "Skill point(s) +50"
+      ]
+    ]
+  },
+  "Satono Diamond": {
+    "みんなとみる夢": [
+      [
+        "Randomly either",
+        "Intelligence +10",
+        "or",
+        "Intelligence +30"
+      ]
+    ],
+    "新しいもの、大好きです！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Energy -10",
+        "Stamina +20"
+      ]
+    ],
+    "見えない献身": [
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "言葉では足りない": [
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ]
+    ],
+    "難しいこと、大好きです！": [
+      [
+        "Stamina +5",
+        "Guts +10"
+      ]
+    ]
+  },
+  "Seeking the Pearl": {
+    "全力でシンキング！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Energy -10"
+      ]
+    ],
+    "全力でパッション！": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Power +5",
+        "Guts +5"
+      ]
+    ],
+    "言葉はノンノン♪　ボディで語るの！": [
+      [
+        "Motivation +1"
+      ],
+      [
+        "Power +10",
+        "Guts +10"
+      ],
+      [
+        "Energy +30"
+      ]
+    ],
+    "諦めないで！　可能性は無限大！": [
+      [
+        "Power +5",
+        "Guts +5"
+      ]
+    ]
+  },
+  "Seiun Sky": {
+    "いきなりマーダーミステリー！　その1": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +20"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "いきなりマーダーミステリー！　その2": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Energy +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "いきなりマーダーミステリー！　その3": [
+      [
+        "Randomly either",
+        "Intelligence +5",
+        "or",
+        "Intelligence +20"
+      ],
+      [
+        "Energy +10",
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ゆる募、ネコの捕まえ方": [
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ],
+      [
+        "Energy -10",
+        "Speed +15",
+        "Stamina +5"
+      ]
+    ],
+    "ゆる募、助言者": [
+      [
+        "Intelligence +15"
+      ]
+    ]
+  },
+  "Shinko Windy": {
+    "ガブッと、撲滅！": [
+      [
+        "Speed +3",
+        "Motivation +1"
+      ],
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ]
+    ],
+    "ガブッと、突撃！": [
+      [
+        "Skill point(s) +15"
+      ],
+      [
+        "Speed +3"
+      ]
+    ],
+    "ゲートよ、開け！": [
+      [
+        "Randomly either",
+        "Speed +10",
+        "Skill point(s) +15",
+        "or",
+        "Speed +5",
+        "Skill point(s) +10"
+      ]
+    ],
+    "ココ掘れ、ウインディ！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy -5",
+        "Skill point(s) +30"
+      ]
+    ]
+  },
+  "Silence Suzuka": {
+    "“景色”へ導く": [
+      [
+        "Speed +15"
+      ]
+    ],
+    "どうすれば": [
+      [
+        "Speed +5",
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "どこまでも": [
+      [
+        "Speed +10",
+        "Stamina +5"
+      ],
+      [
+        "Speed +15"
+      ]
+    ],
+    "仲間と見る“景色”": [
+      [
+        "Skill point(s) +20"
+      ]
+    ],
+    "未来の“景色”": [
+      [
+        "Speed +15"
+      ]
+    ]
+  },
+  "Sirius Symboli": {
+    "もしもその身が自由なら": [
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ]
+    ],
+    "シンボリの名を持つ者": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Skill point(s) +30",
+        "Event chain ended"
+      ]
+    ],
+    "助けてやろうか？": [
+      [
+        "Intelligence +5"
+      ],
+      [
+        "Skill point(s) +15"
+      ]
+    ],
+    "天秤は釣り合わない": [
+      [
+        "Randomly either",
+        "Intelligence +15",
+        "or",
+        "Intelligence +30"
+      ]
+    ],
+    "教えてやろうか？": [
+      [
+        "Energy -5",
+        "Stamina +20"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "Smart Falcon": {
+    "いつでもどこでも輝くよ☆": [
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "かわいかったら見に来てね☆": [
+      [
+        "Energy -10",
+        "Power +10"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +5"
+      ]
+    ],
+    "これが私のウマドル道☆": [
+      [
+        "Randomly either",
+        "Maximum energy +4",
+        "Stamina +5",
+        "Power +5",
+        "Intelligence +5",
+        "or",
+        "Maximum energy +4",
+        "Stamina +15",
+        "Power +15",
+        "Intelligence +15"
+      ]
+    ],
+    "ライブはコーレスが命☆": [
+      [
+        "Stamina +5",
+        "Guts +10"
+      ],
+      [
+        "Intelligence +15"
+      ]
+    ],
+    "常に心にステージを☆": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Energy +25",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Special Week": {
+    "あれもこれもで、悩んじゃいます！": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Energy -10",
+        "Stamina +15",
+        "Skill point(s) +15"
+      ]
+    ],
+    "いつかは憧れのウマ娘に！": [
+      [
+        "Energy +10",
+        "Speed +5"
+      ]
+    ],
+    "少しでも近づけるように": [
+      [
+        "Energy -10",
+        "Speed +15"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +20"
+      ],
+      [
+        "Energy -10"
+      ]
+    ],
+    "憧れのカタチ": [
+      [
+        "Randomly either",
+        "Energy +10",
+        "Speed +5",
+        "or",
+        "Energy +10",
+        "Speed +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "曲がり角には、気をつけます！": [
+      [
+        "Guts +15"
+      ]
+    ]
+  },
+  "Super Creek": {
+    "おかわりどうぞ、いいこたち！": [
+      [
+        "Stamina +10",
+        "Power +5"
+      ]
+    ],
+    "お手伝いもお任せ♪": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "お気遣いもお任せ♪": [
+      [
+        "Energy +10",
+        "Stamina +5"
+      ]
+    ],
+    "できたてはごろり、たっぷりと": [
+      [
+        "Energy +10",
+        "Stamina +5"
+      ]
+    ],
+    "煮込んでとろり、優しい味に": [
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ]
+  },
+  "Sweep Tosho": {
+    "あまあま☆マズマズ☆黒魔法": [
+      [
+        "Randomly either",
+        "Energy +10",
+        "Skill point(s) +20",
+        "or",
+        "Energy -10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ミラクル☆エスケープ！": [
+      [
+        "Energy +10",
+        "Speed +5"
+      ],
+      [
+        "Energy -10",
+        "Speed +20"
+      ]
+    ],
+    "ワンダフル☆ミステイク！": [
+      [
+        "Randomly either",
+        "Energy -15",
+        "Skill point(s) +40",
+        "or",
+        "Energy -20",
+        "Skill point(s) +40"
+      ],
+      [
+        "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "少女の気分は花の移ろい☆彡": [
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "気まぐれ天才魔法少女スイーピー☆": [
+      [
+        "Randomly either",
+        "Motivation +1",
+        "or",
+        "Motivation -1",
+        "Intelligence +5"
+      ],
+      [
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Symboli Rudolf": {
+    "“皇帝”の激励": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +30"
+      ]
+    ],
+    "熱が導く": [
+      [
+        "Stamina +10",
+        "Skill point(s) +30"
+      ]
+    ],
+    "熱が生むもの": [
+      [
+        "Energy +10",
+        "Skill point(s) +10"
+      ],
+      [
+        "Energy -10",
+        "Stamina +25",
+        "Guts +25",
+        "Event chain ended"
+      ]
+    ],
+    "熱は交わらない": [
+      [
+        "Stamina +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "生徒会長の思い": [
+      [
+        "Stamina +15"
+      ]
+    ]
+  },
+  "TM Opera O": {
+    "勝者へ至るエチュード": [
+      [
+        "Speed +5",
+        "Skill point(s) +30",
+        "Motivation -1"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "有限の時を越えて": [
+      [
+        "Energy +10",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Taiki Shuttle": {
+    "イエス！　レッツ・ハグ☆": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "オゥ！　トゥナイト・パーティー☆": [
+      [
+        "Energy -10",
+        "Speed +5",
+        "Power +10"
+      ]
+    ]
+  },
+  "Tamamo Cross": {
+    "タマモ先輩の学園案内": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "ミイラハント～最恐スイート・マミー～": [
+      [
+        "Randomly either",
+        "Speed +5",
+        "Power +5",
+        "or",
+        "Speed +15",
+        "Power +15"
+      ]
+    ],
+    "ミイラハント～目覚めよ狩人！～": [
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "ミイラハント～笑劇を打破せよ！～": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +20",
+        "Speed +10",
+        "Event chain ended"
+      ]
+    ],
+    "負けられん戦い！": [
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ]
+  },
+  "Tazuna Hayakawa": {
+    "情熱のふたり": [
+      [
+        "Energy +10",
+        "Intelligence +5",
+        "Motivation +1",
+        "Can start dating"
+      ],
+      [
+        "Motivation -1",
+        "Event chain ended"
+      ]
+    ],
+    "選んだ生き方": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Motivation +1",
+        "Intelligence +5"
+      ]
+    ]
+  },
+  "Team Sirius": {
+    "あれもこれもで、悩んじゃいます！": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Energy -10",
+        "Stamina +15",
+        "Skill point(s) +15"
+      ]
+    ],
+    "お花屋さんでの1ページ": [
+      [
+        "Motivation +2"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "それぞれが一等星": [
+      [
+        "Speed +6",
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "どうすれば": [
+      [
+        "Speed +5",
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "どこまでも": [
+      [
+        "Speed +10",
+        "Stamina +5"
+      ],
+      [
+        "Speed +15"
+      ]
+    ],
+    "チカラを合わせて！": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Speed +10",
+        "Intelligence +5"
+      ]
+    ],
+    "体重を保つ為": [
+      [
+        "Energy -10",
+        "Stamina +15"
+      ],
+      [
+        "Maximum energy +4",
+        "Stamina +5"
+      ]
+    ],
+    "全・力・競・走！！": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "全・力・筋・肉！！": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ],
+    "孤狼": [
+      [
+        "Speed +3",
+        "Stamina +3",
+        "Power +3"
+      ]
+    ],
+    "曇りの日の1ページ": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "曲がり角には、気をつけます！": [
+      [
+        "Guts +15"
+      ]
+    ],
+    "生徒会役員！": [
+      [
+        "Motivation +1",
+        "Speed +5"
+      ],
+      [
+        "Maximum energy +4"
+      ]
+    ],
+    "高みに至る為": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ]
+  },
+  "Tokai Teio": {
+    "ゴシップ狂想曲": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Energy -10",
+        "Power +15",
+        "Skill point(s) +20",
+        "Event chain ended"
+      ]
+    ],
+    "ボクのやり方": [
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ],
+      [
+        "Guts +15"
+      ]
+    ],
+    "ボクの武器": [
+      [
+        "Motivation +1",
+        "Guts +10"
+      ]
+    ],
+    "ライバルと2ショット": [
+      [
+        "Power +10"
+      ]
+    ],
+    "灯火は未来へ輝く": [
+      [
+        "Stamina +7",
+        "Power +7"
+      ]
+    ]
+  },
+  "Tosen Jordan": {
+    "すげー娘はすげーし": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Speed +15",
+        "or",
+        "Energy -10",
+        "Speed +10"
+      ]
+    ],
+    "スマホって時間泥棒じゃん？": [
+      [
+        "Motivation +1",
+        "Speed +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "レビューって半分賭けじゃん？": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ]
+    ],
+    "自分アゲてーし": [
+      [
+        "Speed +10",
+        "Skill point(s) +10"
+      ]
+    ],
+    "距離感とかあるし": [
+      [
+        "Speed +10",
+        "Stamina +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ]
+  },
+  "Twin Turbo": {
+    "『せんでん』全開！！": [
+      [
+        "Energy -10",
+        "Speed +7",
+        "Power +7"
+      ]
+    ],
+    "『せんでん』始動！！": [
+      [
+        "Energy -5",
+        "Guts +15"
+      ],
+      [
+        "Energy +20",
+        "Event chain ended"
+      ]
+    ],
+    "『せんでん』最高！！": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Guts +15",
+        "or",
+        "Energy -10",
+        "Guts +10"
+      ]
+    ],
+    "思い込んだら一直線！": [
+      [
+        "Speed +20",
+        "Motivation -1"
+      ],
+      [
+        "Energy -10",
+        "Power +20"
+      ]
+    ],
+    "燃えてきた！！": [
+      [
+        "Energy +15"
+      ]
+    ]
+  },
+  "Vodka": {
+    "夕日に誓った煌めき": [
+      [
+        "Power +15",
+        "Skill point(s) +15"
+      ]
+    ],
+    "大通りの強敵": [
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "従うのは、自分の心": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "憧れのセリフ": [
+      [
+        "Power +10"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "記録に残せよ？": [
+      [
+        "Power +25",
+        "Skill point(s) +30"
+      ]
+    ]
+  },
+  "Winning Ticket": {
+    "チケゾー☆ナイトフィーバー！": [
+      [
+        "Speed +15",
+        "Stamina +15",
+        "Guts +15"
+      ]
+    ],
+    "チケゾー☆フレンドシップ！": [
+      [
+        "Stamina +10",
+        "Guts +10"
+      ],
+      [
+        "Energy +25",
+        "Event chain ended"
+      ]
+    ],
+    "チケゾー☆探検隊！": [
+      [
+        "Speed +10",
+        "Stamina +10"
+      ]
+    ],
+    "全・力・競・走！！": [
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "全・力・筋・肉！！": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "Yaeno Muteki": {
+    "ヤエノムテキ恋歌地獄変": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Speed +10",
+        "Stamina +10",
+        "Power +20",
+        "or",
+        "Energy -10"
+      ]
+    ],
+    "剛毅朴訥、仁に近し": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +5",
+        "Motivation +1"
+      ]
+    ],
+    "嗚呼、守りたい……！": [
+      [
+        "Stamina +10",
+        "Power +10"
+      ]
+    ],
+    "理の食VS暴の食": [
+      [
+        "Energy +20",
+        "Skill point(s) +30"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +10",
+        "Skill point(s) +10",
+        "Event chain ended"
+      ]
+    ],
+    "電脳奥義炸裂！ヤエノ出稽古修行": [
+      [
+        "Speed +5",
+        "Power +5",
+        "Skill point(s) +10"
+      ]
+    ]
+  },
+  "Yukino Bijin": {
+    "“どんど晴れ”の立役者": [
+      [
+        "Energy -10",
+        "Guts +10",
+        "Intelligence +5"
+      ]
+    ],
+    "“シチースポット”を目指して": [
+      [
+        "Energy -10",
+        "Motivation +1",
+        "Guts +10"
+      ]
+    ],
+    "あたしがなンとかするでがんす！": [
+      [
+        "Energy -10",
+        "Guts +10",
+        "Intelligence +10"
+      ]
+    ],
+    "イカすライブのために": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Energy -10",
+        "Guts +15"
+      ]
+    ],
+    "飾らねぇ、魅力を……": [
+      [
+        "Energy -10",
+        "Stamina +5",
+        "Guts +10"
+      ],
+      [
+        "Skill point(s) +20",
+        "Event chain ended"
+      ]
+    ]
+  },
+  "Zenno Rob Roy": {
+    "託された物語": [
+      [
+        "Stamina +10",
+        "Intelligence +10"
+      ]
+    ],
+    "読書家あるある": [
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ],
+      [
+        "Energy +10",
+        "Power +5"
+      ]
+    ],
+    "読書少女とあるカエルの友人": [
+      [
+        "Skill point(s) +20"
+      ]
+    ],
+    "読書少女と秘密の作戦会議": [
+      [
+        "Stamina +5"
+      ],
+      [
+        "Speed +5"
+      ],
+      [
+        "Intelligence +30"
+      ]
+    ],
+    "読書少女と賢者の催し物": [
+      [
+        "Skill point(s) +15"
+      ]
+    ]
+  }
+}

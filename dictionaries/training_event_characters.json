@@ -1,0 +1,6831 @@
+{
+  "アグネスタキオン": {
+    "お手伝いハンバーガー！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "だだっ子タキオン": [
+      [
+        "Stamina +10",
+        "Guts +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Intelligence +20",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ],
+    "データを手に入れろ！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "マイペース・タキオン": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "信念を表すもの": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "最強の協力者！？": [
+      [
+        "Energy -20",
+        "Stamina +15",
+        "Guts +10"
+      ],
+      [
+        "Energy +5",
+        "Intelligence +5"
+      ]
+    ],
+    "正義の圧？": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "目指す場所に近道はない": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "研究の真意": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "肉体改造思いのまま！": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "速くなれるお薬依頼？": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "黒い空からの贈り物": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  },
+  "アグネスデジタル": {
+    "“推し”えて、デジタル先生！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "“推し”みない愛を推しに！": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Power +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "あなたの背中を“推し”たくて……": [
+      [
+        "Speed +10",
+        "Power +10"
+      ],
+      [
+        "Stamina +10",
+        "Guts +10"
+      ]
+    ],
+    "ウマ娘ちゃんクイズ☆～ルーツ編～": [
+      [
+        "Power +15"
+      ],
+      [
+        "Power +5"
+      ]
+    ],
+    "ウマ娘ちゃんクイズ☆～嗜好編～": [
+      [
+        "Stamina +5"
+      ],
+      [
+        "Stamina +15"
+      ]
+    ],
+    "ウマ娘ちゃんクイズ☆～関係性編～": [
+      [
+        "Speed +15"
+      ],
+      [
+        "Speed +5"
+      ]
+    ],
+    "トレードさせていただきますっ！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "ヲタク最高すぎるんだが？": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "公式が最大手すぐる件": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Energy +5",
+        "Intelligence +5"
+      ]
+    ],
+    "推し事探訪　～免許皆伝編～": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "推し事探訪　～入門編～": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "推し事探訪　～極編～": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "推し接近アラート、発令！？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "萌えは無限の可能性": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "アドマイヤベガ": {
+    "それは、当たり前": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "たった1つの使命": [
+      [
+        "Power +10",
+        "Guts +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Speed +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "ふわっふわスイート": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "もふもふ審美眼": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ようやく、受け取るモノ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "アヤベさんのサンドウィッチ": [
+      [
+        "Randomly either",
+        "Power +15",
+        "Motivation +1",
+        "or",
+        "Power +10",
+        "Motivation -1"
+      ],
+      [
+        "Randomly either",
+        "Intelligence +15",
+        "Motivation +1",
+        "or",
+        "Intelligence +10",
+        "Motivation -1"
+      ],
+      [
+        "Randomly either",
+        "Speed +15",
+        "Motivation +1",
+        "or",
+        "Speed +10",
+        "Motivation -1"
+      ]
+    ],
+    "同室シスターにはかなわない": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy +5",
+        "Power +5"
+      ]
+    ],
+    "夢で見た光景": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "必殺・アヤベさん": [
+      [
+        "Energy -10",
+        "Power +20"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "想いよ届け": [
+      [
+        "Power +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "言葉＋……": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "雲の向こう、宙のかなた": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "静かに通じて": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ]
+  },
+  "ウイニングチケット": {
+    "いきなりフットサル！？": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "この壁を越えてゆけ！": [
+      [
+        "Motivation +1",
+        "Guts +5"
+      ],
+      [
+        "Motivation +1",
+        "Power +5"
+      ]
+    ],
+    "ごはんも全力！！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "よく泣くお姉ちゃん": [
+      [
+        "Guts +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Motivation +1",
+        "Power +5"
+      ]
+    ],
+    "スイーツへの道のり！": [
+      [
+        "Energy -15"
+      ],
+      [
+        "???"
+      ],
+      [
+        "???"
+      ]
+    ],
+    "三国志演技": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "全力がんばる！": [
+      [
+        "Speed +10",
+        "Intelligence +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Power +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "全力テスト！": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "全力ファッション！": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Power +10",
+        "Guts +10"
+      ]
+    ],
+    "悩みなんて吹き飛ばせ！": [
+      [
+        "Motivation +1",
+        "Power +5"
+      ],
+      [
+        "Speed +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "新たな気づき": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "最後の片道切符": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "雨ニモ負ケズ": [
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +10"
+      ]
+    ]
+  },
+  "ウオッカ": {
+    "“寄り道”しようぜ": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy +5",
+        "Motivation +1"
+      ]
+    ],
+    "たまにはガキの頃みたく": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "カッコ良さの基準": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "クール・アンド・ヒート": [
+      [
+        "Speed +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Speed +10",
+        "Power +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "俺的ダチ道": [
+      [
+        "Speed +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "共に極めよ、カッコ良さの道": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "憧れヴィンテージ": [
+      [
+        "Power +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "挑め、“宿命”": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "河川敷でガチバトル！": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "甘くなれない素直さ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "硬派な甘さ": [
+      [
+        "Energy +5/+10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "究極の2択": [
+      [
+        "Randomly either",
+        "Energy -10",
+        "Stamina +5",
+        "Guts +5",
+        "or",
+        "Energy +10",
+        "Stamina +15",
+        "Guts +15"
+      ],
+      [
+        "Energy +5",
+        "Motivation +1"
+      ]
+    ],
+    "響け、熱いサウンド！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "エアグルーヴ": {
+    "“女帝”と“帝王”": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "“女帝”と“皇帝”": [
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ],
+    "さつまいもケーキ": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ネバー・エンディング・ロード": [
+      [
+        "Power +20"
+      ]
+    ],
+    "フリーダム目安箱": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -10",
+        "Motivation +1",
+        "Intelligence +10"
+      ]
+    ],
+    "努力の味見": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "女帝、甘える": [
+      [
+        "Speed +10",
+        "Stamina +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Stamina +10",
+        "Power +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "小さな出会い": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "尻尾ケアは大切に": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -10",
+        "Motivation +1",
+        "Power +10"
+      ]
+    ],
+    "捕獲せよ！": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -10",
+        "Motivation +1",
+        "Speed +10"
+      ]
+    ],
+    "点滅信号、渡るべからず": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "花壇制作大作戦": [
+      [
+        "Energy +5",
+        "Intelligence +5"
+      ],
+      [
+        "Energy -10",
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "隣に立つのは……！": [
+      [
+        "Guts +10",
+        "Intelligence +10"
+      ]
+    ],
+    "静寂に燃えて": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "麗姿、瞳に焼きついて": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "エイシンフラッシュ": {
+    "その時間は贈り物": [
+      [
+        "Energy +10",
+        "Speed +15",
+        "Intelligence +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "トレンドを追って": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "和の心に触れて": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "天道の守護者": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "心に誇りを": [
+      [
+        "※ More than 60000 fans:",
+        "Power +10",
+        "※ Less than 60000 fans:",
+        "Power +10"
+      ]
+    ],
+    "揚げたてのサクサクを！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "教え導くためならば": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "空飛ぶガイダンス": [
+      [
+        "Speed +5",
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "笑顔のクッキー": [
+      [
+        "Stamina +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "試験：フラッシュプラン": [
+      [
+        "Motivation +1",
+        "Next turn, 4 random types of training will be disabled",
+        "Event \"結果：フラッシュプラン\" will occur next turn"
+      ],
+      [
+        "Nothing happens"
+      ]
+    ],
+    "誠意を貴方へ": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "追憶のFreizeitpark": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "馴染みゆく日々の中で": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "エルコンドルパサー": {
+    "もう1度、決意を": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "オリジナル・マスク": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "サルサ・ロハ": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ホット＆フライ！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "夜の学園のご老公？": [
+      [
+        "Motivation +1",
+        "Guts +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "憧れのレスラー": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "熱！伝！導！": [
+      [
+        "Power +20"
+      ],
+      [
+        "Motivation +1",
+        "Intelligence +10"
+      ]
+    ],
+    "特大ピザを狙え！": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "衝撃の引退": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "衣装に宿る熱き炎！": [
+      [
+        "Speed +7",
+        "Power +7",
+        "Guts +7"
+      ]
+    ],
+    "贈る花言葉": [
+      [
+        "Motivation +1",
+        "Intelligence +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "過去からの挑戦状！": [
+      [
+        "Speed +10",
+        "Power +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ]
+  },
+  "オグリキャップ": {
+    "みんなのオグリキャップ": [
+      [
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Power +10",
+        "Guts +5",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "オグリ、成長する": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "オグリ、決意する": [
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "オグリ、頑張る": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "オグリの大食い選手権": [
+      [
+        "Randomly either",
+        "Energy +30",
+        "Power +10",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Energy +10",
+        "Power +5",
+        "Skill point(s) +5"
+      ],
+      [
+        "Full energy recovery",
+        "Speed -20",
+        "Power +20",
+        "Skill point(s) +20",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "レースとグルメで満腹に": [
+      [
+        "Energy +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "先取り大人のクリスマス！？": [
+      [
+        "Energy +20",
+        "Motivation +1"
+      ],
+      [
+        "Speed +10",
+        "Intelligence +20"
+      ]
+    ],
+    "気になる隣の晩ご飯！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "畑でビルドアップ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "聖夜に並んで走るため": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Speed +10",
+        "Power +5"
+      ]
+    ],
+    "迷いウマ娘": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "食いしん坊は伊達じゃない": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "高みのライバル": [
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Power +5",
+        "Intelligence +5"
+      ]
+    ]
+  },
+  "カレンチャン": {
+    "World is……？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "いっしょに、食べよ？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "お勉強させてもらいます♪": [
+      [
+        "Energy -10",
+        "Speed +20"
+      ]
+    ],
+    "これがカレンの勝負服": [
+      [
+        "Speed +10",
+        "Stamina +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Speed +10",
+        "Power +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "すべては――のため": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "せーのっ！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "どんなカレンがお・す・き？": [
+      [
+        "Speed +10",
+        "Power +10"
+      ],
+      [
+        "Stamina +10",
+        "Guts +10"
+      ]
+    ],
+    "まずは、なかよくなるため": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "もっと、つながるため": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "カレン的SNSとの付き合い方♪": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "ガタン、ゴトン、ころん": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "思い出の味": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ]
+  },
+  "カワカミプリンセス": {
+    "いつか一流のプリンセスに": [
+      [
+        "Power +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Stamina +10",
+        "Intelligence +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "この胸にあふれる想いは！": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "じゃじゃウマ姫のパーティー": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "マスコット対決！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "リトルプリンセスたちの夢": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "元ガキ大将の背中": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "元ガキ大将の誓い": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "元ガキ大将の風格": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "努力の円舞曲": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "受け止めます、姫のパワーで！": [
+      [
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "完成！究極フォーム！": [
+      [
+        "Randomly either",
+        "Power +30",
+        "or",
+        "Energy -10",
+        "Power +30",
+        "or",
+        "Energy -15",
+        "Power +30",
+        "Intelligence -10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "決意はドレスにこめて": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "王子様の優雅なる休日": [
+      [
+        "Guts +15"
+      ]
+    ]
+  },
+  "キタサンブラック": {
+    "あなたの声なら": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "かわいいの才能っ！？": [
+      [
+        "Stamina +10",
+        "Intelligence +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Guts +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "ちょいとドラマへの出演も目指し": [
+      [
+        "Speed +5",
+        "Guts +10"
+      ]
+    ],
+    "ほろ甘の思い出": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ]
+    ],
+    "フォーゲットミーノット！": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "主役はみなさまお祭りワッショイ！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "先輩と！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "妖怪変化もなんのその！": [
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "寄ってらっしゃい見てらっしゃい！": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "祭りを食せ！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "緊急開店！キタちゃんマッサージ": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Energy +10",
+        "Guts +10"
+      ]
+    ],
+    "陰に日なたに": [
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "魔女さんとキタサン": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Motivation +1",
+        "Speed +5"
+      ]
+    ]
+  },
+  "キングヘイロー": {
+    "キングは疲れ知らずよ": [
+      [
+        "Energy +5",
+        "(Random) Motivation +1"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "マナーくらい常識よ？": [
+      [
+        "Guts +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Stamina +10",
+        "Intelligence +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "一流のスポット": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "一流の収穫": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "一流の条件": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "三人寄れば一流の知恵": [
+      [
+        "Intelligence +10",
+        "???"
+      ],
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "人混みなんて問題じゃないわ": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "学力だって一流よ": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "放課後サイダー": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "映画は学びでいっぱいよ": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "甘党の誘惑": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "私に1番似合う服": [
+      [
+        "Speed +10",
+        "Guts +10"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "走るだけがすべてではないのよ": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "門限破りは二流よ": [
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ]
+  },
+  "グラスワンダー": {
+    "おつかいは人のためならず": [
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Energy +5",
+        "Intelligence +5"
+      ]
+    ],
+    "たゆまぬ気魄【バトルクライ】": [
+      [
+        "Motivation +1",
+        "Power +10"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "ふたつの原風景": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "みんなで野点傘の下": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "ケッコウなオテマエデ！": [
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "トレセン学園百人一首クイーン決定戦": [
+      [
+        "Speed +10",
+        "Intelligence +5"
+      ]
+    ],
+    "ナデシコ・ガール": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "大和撫子・ウマ娘？": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "小さな頃からの夢": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "永劫続く追撃【エンドレスマイターン】": [
+      [
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Speed +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "涼夏を求めて": [
+      [
+        "Randomly either",
+        "Motivation -1",
+        "Guts +30",
+        "or",
+        "Energy -10",
+        "Guts +30"
+      ],
+      [
+        "Randomly either",
+        "Motivation -1",
+        "Intelligence +30",
+        "or",
+        "Energy -10",
+        "Intelligence +30"
+      ]
+    ],
+    "花瓶": [
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "邂逅する想慕【ミラージュメモリー】": [
+      [
+        "Guts +10",
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ]
+  },
+  "ゴールドシチー": {
+    "“シチーガール”の今の気分♪": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "たまには裸足になりたい": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ま、やる以上はね": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "サロン・ド・ボーテ　シチー": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "モデルのお仕事": [
+      [
+        "Energy -15",
+        "Skill point(s) +40"
+      ],
+      [
+        "Motivation +1",
+        "1 Random stat(s) +10"
+      ]
+    ],
+    "ヨガのポーズ！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "寄り道したいお年頃": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "寮対抗クイズバトル": [
+      [
+        "Speed +10",
+        "Power +5"
+      ]
+    ],
+    "差し入れは甘いワナ？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "本番前の、静かな余談": [
+      [
+        "Power +20"
+      ]
+    ],
+    "表立っては言わないけど": [
+      [
+        "Stamina +5",
+        "Power +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "金色の佳景、極まる": [
+      [
+        "Stamina +10",
+        "Power +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "食べないのは悪手だよ": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "ゴールドシップ": {
+    "いざ、真剣勝負！": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Randomly either",
+        "Skill point(s) +60",
+        "or",
+        "Skill point(s) +15",
+        "Get 'Lazy Habit' status (Has a random chance to not show up for training)"
+      ]
+    ],
+    "えっアタシのバイト……ヤバすぎ？": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "そして、少女は": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ちょっと寄りたいステキな場所": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ゴルシの！いきなり過去編！": [
+      [
+        "Stamina +10",
+        "Intelligence +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Speed +20",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ],
+    "ゴルシ流デート": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "ペア割常習犯": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "主人公の赤！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "夜の公園で遊ぼう": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "左にホクロはないらしい": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "約15億年前からコンニチハ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "翌日揃ってしわがれ声": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "落としたものは？": [
+      [
+        "Energy -10",
+        "Power +20"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "食べすぎ御免！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ]
+  },
+  "サイレンススズカ": {
+    "Landscape color": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "あなたの喜ぶ景色": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "しっとりパーティータイム": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "ふたりの相性はいかに！？": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ウマドル☆猛特訓！": [
+      [
+        "Speed +10",
+        "Power +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Guts +10",
+        "Intelligence +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "スズカ流後輩指導？": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "白い誘惑": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "私とあなたの、小さな雪景色": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "私の小さな雪景色": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "背を追ってくれるから": [
+      [
+        "Speed +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "趣味、特技、休日の過ごし方": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ]
+    ],
+    "雨の日の過ごし方": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ]
+  },
+  "サクラチヨノオー": {
+    "『そこにあるのが、日常である』": [
+      [
+        "Power +10",
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "『想いはバブリーに包め』": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "『花は桜木、ウマ娘は……』": [
+      [
+        "Power +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Speed +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "おいしすぎるお饅頭": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "どすこい！決まり手指導！？": [
+      [
+        "Speed +10",
+        "Guts +5"
+      ]
+    ],
+    "ウマ娘演歌大会！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "カーレースフレンド": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "チヨノオーは頼られたい！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "最近流行りのブティックで": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "頼られる意味": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "頼りになる人ツアー？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "風紀委員長賞、受賞者ですから": [
+      [
+        "Energy +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "サクラバクシンオー": {
+    "これからもバクシン！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "クラスメイトとバクシン！": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "バクシン的な謎解き！": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "マクラノバクシン！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "勝負服でバクシン！": [
+      [
+        "Power +10",
+        "Guts +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Intelligence +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "大切な方と、一緒にッ！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "委員長のいない日": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "恋はバクシン！": [
+      [
+        "Stamina +10",
+        "Intelligence +10"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "最速の王": [
+      [
+        "Power +5",
+        "Intelligence +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "最高のバクシン！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "求む、生徒の声！！": [
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "粋か！　バクシンか！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ]
+  },
+  "サトノダイヤモンド": {
+    "しゃっくりSOS": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "たくさんの彩りの中で": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "コンビニ前にはご注意を": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "サトノ家として、ウマ娘として": [
+      [
+        "Intelligence +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Stamina +10",
+        "Power +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "スイーピー5☆入団テスト！": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ハートビート・エキサイト": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "フレッシュ！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "剛なるダイヤは真綿の中に": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "大きすぎる志": [
+      [
+        "Power +10",
+        "Guts +5"
+      ]
+    ],
+    "憧れの人の待つ高みへ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "憧れを追いかけて": [
+      [
+        "Guts +15"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +10"
+      ],
+      [
+        "Power +10",
+        "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "禁断のブレンド": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Motivation +1",
+        "Stamina +5"
+      ]
+    ],
+    "裏路地アドベンチャー": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ]
+  },
+  "シンボリルドルフ": {
+    "いついかなる時も": [
+      [
+        "Energy -10",
+        "Guts +20"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "前を往く者": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "徳高望重": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "心に咲く、熱": [
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "有言実行": [
+      [
+        "Energy -5",
+        "Power +20"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "清風明月": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "皇帝の余暇": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "皇帝の日課": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "皇帝の社会勉強": [
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "皇帝の道": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "皇帝の飽食": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "突然の厚意": [
+      [
+        "Energy -10",
+        "Stamina +20"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "竜吟虎嘯": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "経験を授けよ": [
+      [
+        "Power +20"
+      ]
+    ],
+    "鮮やかな記憶": [
+      [
+        "Stamina +10",
+        "Guts +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Skill point(s) +40",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ]
+  },
+  "スペシャルウィーク": {
+    "あなたと行きたい場所": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "もう1人のお母ちゃんへ": [
+      [
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Guts +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "カラオケグルメ♪": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "スペシャルウィーク、裏の顔": [
+      [
+        "Energy +30",
+        "Power +10",
+        "Skill point(s) +10"
+      ],
+      [
+        "Energy +10",
+        "Power +5",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Full energy recovery",
+        "or",
+        "Full energy recovery",
+        "Speed -5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "夏、満喫大作戦！！": [
+      [
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Energy +10",
+        "All stats +2"
+      ]
+    ],
+    "尊敬できる人だから": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "昼下がりの恩返し": [
+      [
+        "Energy +5",
+        "Intelligence +5"
+      ]
+    ],
+    "炸裂、水着パワー！": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "特別だからこそ": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "青春のテニス日和": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "食堂でお腹いっぱい": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ]
+  },
+  "スマートファルコン": {
+    "ウマドル☆Friendship！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "キュート☆リサーチ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "シェアリング☆メモリー": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "テストdeリカバリー☆": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ドキドキ☆シチュエーション": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ドタバタ☆KIDSパニック！": [
+      [
+        "Speed +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Stamina +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "フューチャー☆ロケハン": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "メモリー☆聖地巡礼": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "届いてforYOU☆恩返し♪": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "燃やせ☆ウマドル魂": [
+      [
+        "Stamina +10",
+        "Guts +10"
+      ]
+    ],
+    "研究対象はウマドル？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "磨いて☆DIAMOND": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Power +10",
+        "Guts +10"
+      ]
+    ]
+  },
+  "スーパークリーク": {
+    "1日体験☆陶芸教室": [
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "Accident or Ghost": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "Curse or Wrap": [
+      [
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Speed +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "Search or Mommy": [
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "ギュッとマッサージ！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "不安を拭って": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "分かち合いましょう": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "危険なご褒美": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "友だちのために": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "夜の甘い誘惑": [
+      [
+        "Energy +30",
+        "Speed +10",
+        "Skill point(s) +10",
+        "(Random) Motivation -1",
+        "(Random) Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Energy +10",
+        "Speed +5",
+        "Skill point(s) +5"
+      ],
+      [
+        "Power +20",
+        "Skill point(s) +20",
+        "Motivation +2"
+      ]
+    ],
+    "息抜きは甘え？": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "星を見るなら2人で": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "迷子を捜せ！": [
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "セイウンスカイ": {
+    "『リーニュ・ドロワット』の前に": [
+      [
+        "Energy +30"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "お昼寝マイスター": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "みんなには、一応秘密で": [
+      [
+        "Stamina +15",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "セイちゃん脱出作戦": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ネコとの別れ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Stamina +po"
+      ]
+    ],
+    "ネコとの散歩": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "ネコの名人": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "外でもくつろぎ上手？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "思い出には花を添えて": [
+      [
+        "Randomly either",
+        "Stamina +15",
+        "Skill point(s) +30",
+        "or"
+      ]
+    ],
+    "晴天の攻防": [
+      [
+        "Randomly either",
+        "Speed +20",
+        "or",
+        "Speed +5",
+        "Motivation -1"
+      ],
+      [
+        "Randomly either",
+        "Energy +20",
+        "or",
+        "Energy +10",
+        "Get 'Lazy Habit' status (Has a random chance to not show up for training)"
+      ],
+      [
+        "Energy +5",
+        "Speed +5"
+      ]
+    ],
+    "曇りのち……": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "検証～ネコ語は実在するのか？": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "闇の仕事？": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ]
+  },
+  "タイキシャトル": {
+    "TO THE NO.1！": [
+      [
+        "Power +10",
+        "Guts +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Speed +10",
+        "Intelligence +10",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ],
+    "シャル・ウィー・ハグ？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "ハイド・アンド・シーク！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ハヤウチ・バトル！": [
+      [
+        "Energy +10",
+        "Speed +10"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +10"
+      ]
+    ],
+    "バーガー・イン・ジャパン！": [
+      [
+        "Randomly either",
+        "Motivation +1",
+        "Speed +10",
+        "Power +5",
+        "or",
+        "Motivation -1"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "レイニー・チョイス！": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "レイニー・パワフル！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "レイニー・ピックアップ！": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Power +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +5",
+        "Guts +5"
+      ]
+    ],
+    "レッツ・ミマワリ！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "一緒に帰るデース！": [
+      [
+        "Motivation +1",
+        "Speed +5"
+      ],
+      [
+        "Motivation +1",
+        "Stamina +5"
+      ]
+    ],
+    "収穫フェスティバル！": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "特急リドル便？": [
+      [
+        "Randomly either",
+        "Motivation +1",
+        "Stamina +5",
+        "Power +10",
+        "or",
+        "Motivation -1"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "肉の空へ！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "負けられない戦いが、あるのデス": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ]
+  },
+  "タマモクロス": {
+    "おとろしないで、おいなりさん": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "これなんぼやと思う？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "たこパ、やったるで！": [
+      [
+        "Speed +10",
+        "Power +10"
+      ],
+      [
+        "Guts +10",
+        "Intelligence +10"
+      ]
+    ],
+    "イカ焼きの誘惑": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "ウチに似合う服": [
+      [
+        "Speed +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Power +10",
+        "Guts +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "助け、助けられ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "大人ってなんなん？": [
+      [
+        "Speed +5",
+        "Power +10"
+      ]
+    ],
+    "姉ちゃんにまかしとき！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "恐怖のネバネバ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "浪花魂みせたるわい！": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "稲妻ハート": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "行ったれ！牧場体験！": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "ダイワスカーレット": {
+    "1番は見逃せない！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "あの服が似合う自分": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "おススメのお店": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Guts +5",
+        "Motivation +1"
+      ]
+    ],
+    "ついつい着たくなる！": [
+      [
+        "Stamina +10",
+        "Intelligence +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Speed +10",
+        "Guts +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "もうちょっとだけ": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "アイツの存在": [
+      [
+        "Power +5"
+      ],
+      [
+        "Power +5",
+        "Next race changed to Japanese Derby"
+      ]
+    ],
+    "一番星の下で": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "休日の過ごし方": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Motivation +1",
+        "Intelligence +5"
+      ]
+    ],
+    "優等生としては……": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "先輩のアドバイス": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "最高のポーズ": [
+      [
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "楽しめ！　1番！": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "雨に降られて": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "テイエムオペラオー": {
+    "パジャマ姿の姫君": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "夕暮れ時のオペラオー劇場": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "尽くせ、礼": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "幾重もの輝き": [
+      [
+        "Energy -10",
+        "Power +20"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "新たな魅力を……": [
+      [
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Power +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "新春☆実家公演！": [
+      [
+        "Speed +7",
+        "Stamina +7",
+        "Intelligence +7"
+      ]
+    ],
+    "激走・福ウマ娘レース！": [
+      [
+        "Randomly either",
+        "Speed +10",
+        "Skill point(s) +40",
+        "or",
+        "Speed +5",
+        "Skill point(s) +30"
+      ]
+    ],
+    "王者の戦い～ラーメン編～": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "素晴らしき美を維持するために……": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "聞こえる声は": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "輝きを君に": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "鏡が映すのは": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  },
+  "トウカイテイオー": {
+    "“女帝”vs.“帝王”": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "カイチョーとダジャレ": [
+      [
+        "Stamina +5",
+        "Power +5"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "カラオケでパワーアップ！？": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "テイオー、ウマドルになる！？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "テイオーの武者修行": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ネバー・ギブ・アップ・ワガハイ！": [
+      [
+        "Stamina +15",
+        "Guts +5",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Power +5",
+        "Intelligence +15",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "ボクとみんなとカップケーキ": [
+      [
+        "Energy +5",
+        "Motivation +1"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "ボクとマヤノとオトナの時間": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ワガハイがテイオー先輩だ！": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "力のヒミツ！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "叱られちゃった！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +5",
+        "Guts +5"
+      ]
+    ],
+    "好敵手と書いて友と呼ぶ！": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "気づいちゃった！": [
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "褒められちゃった！": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ]
+  },
+  "トーセンジョーダン": {
+    "ほんの少しのキッカケ": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "まっ、流行ってすぐ変わるし！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "ギャル、絵画を語る": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "テンアゲ☆全サイズキャンペーン！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "ラメの輝きに託して": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "勝利の味ってヤツ!": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Guts +10",
+        "Intelligence +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "基本フリータイムっしょ！": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "大事なのは今っしょ！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "少しずつ伸びてるから！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "激辛上等コールバトル！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "盛って盛って、めっちゃ盛んぞー！": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "背伸びから始まること": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "ナイスネイチャ": {
+    "おふくろからの電話": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "お魚、観ましょ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ほろ苦いキラキラ": [
+      [
+        "Power +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "よいではないか？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "アタシもたまには": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "ガラじゃないですし": [
+      [
+        "Energy +5",
+        "Motivation +1"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "ネイチャさんとお疲れトレーナー": [
+      [
+        "Power +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "嵐の如き助っ人": [
+      [
+        "Speed +5",
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "映す想い": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "雨の日の遊戯": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Guts +10"
+      ]
+    ],
+    "願いを叶えるクリスマスカラー": [
+      [
+        "Guts +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Stamina +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "黄昏ビタースイート": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "ナリタタイシン": {
+    "Unknown music": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "『bg』": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "『easy game』": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "『gg』": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "かごの扉はその手で開けろ": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "アタシのまま、強く": [
+      [
+        "Power +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "タイシンのSOS": [
+      [
+        "Speed +10",
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "ハラハラなサバイバル": [
+      [
+        "Power +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Guts +10",
+        "Intelligence +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "ムカつく気持ちは自主トレで": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +25"
+      ],
+      [
+        "Randomly either",
+        "Energy -15",
+        "Last trained stat +10",
+        "or",
+        "Energy -15",
+        "Motivation +1",
+        "2 Random stat(s) +15"
+      ]
+    ],
+    "モヤつく気持ちは自主トレで？": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -10",
+        "Skill point(s) +25"
+      ],
+      [
+        "Randomly either",
+        "Energy -15",
+        "Last trained stat +10",
+        "or",
+        "Energy -15",
+        "Motivation +1",
+        "2 Random stat(s) +15"
+      ]
+    ],
+    "寡黙なふたり": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "後日レポート提出済": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "栄養食品は希望の食品？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "距離": [
+      [
+        "Motivation +1",
+        "Guts +10"
+      ]
+    ]
+  },
+  "ナリタブライアン": {
+    "ファミリーレストラン": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "ブライアンは見た……！": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "不動": [
+      [
+        "Speed +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Guts +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "孤高のグルメ？": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "孤高の責任": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Power +5",
+        "Intelligence +5"
+      ]
+    ],
+    "岐": [
+      [
+        "Increased difficulty of future training goals",
+        "Increased rewards for future training goals"
+      ],
+      [
+        "Nothing happens"
+      ]
+    ],
+    "得意距離？": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "意匠": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "憧憬": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy -10",
+        "Power +20"
+      ]
+    ],
+    "手腕": [
+      [
+        "Speed +15"
+      ]
+    ],
+    "武骨": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "肉食": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "超越": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "飢えた戦士たち": [
+      [
+        "Energy +5",
+        "Intelligence +10"
+      ],
+      [
+        "Randomly either",
+        "Energy -10",
+        "Motivation +1",
+        "Speed +25",
+        "or",
+        "Energy -10",
+        "Speed +10"
+      ],
+      [
+        "Randomly either",
+        "Energy -10",
+        "Motivation +1",
+        "Stamina +25",
+        "or",
+        "Energy -10",
+        "Stamina +10"
+      ],
+      [
+        "Randomly either",
+        "Energy -10",
+        "Motivation +1",
+        "Power +25",
+        "or",
+        "Energy -10",
+        "Power +10"
+      ]
+    ]
+  },
+  "ニシノフラワー": {
+    "お姉さんらしく": [
+      [
+        "Power +20"
+      ],
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "フラワーの知恵袋": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "フラワー・リラクゼーション": [
+      [
+        "Energy +5",
+        "Speed +5"
+      ],
+      [
+        "Energy +5",
+        "Guts +5"
+      ]
+    ],
+    "フラワー日和": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "メイド・イン・フラワー": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Motivation +1",
+        "Guts +5"
+      ]
+    ],
+    "夜に咲く想い": [
+      [
+        "Randomly either",
+        "Stamina +5",
+        "or",
+        "Stamina +10",
+        "Guts +5"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "寄り添う花": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "小さな体に大きな愛": [
+      [
+        "Stamina +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "早く大きくなりたい": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "色形、重ねて私": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Energy +10",
+        "Intelligence +10"
+      ]
+    ],
+    "見習いお姉さん": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "近日公開予定": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ]
+  },
+  "ハルウララ": {
+    "いけいけ、雪合戦！": [
+      [
+        "Randomly either",
+        "Intelligence +10",
+        "or",
+        "Intelligence +10",
+        "Speed +10",
+        "or",
+        "Intelligence +10",
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "かっくいぃね！": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ちょっと寄り道！": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "まてまて、おさかな！": [
+      [
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "みてみて、みんなのきもち！": [
+      [
+        "Randomly either",
+        "Power +10",
+        "Skill point(s) +40",
+        "or",
+        "Power +5",
+        "Skill point(s) +30"
+      ]
+    ],
+    "ラスボスはスぺ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "公園って楽しい！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "大事な探しもの": [
+      [
+        "Energy -10",
+        "Guts +20"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "砂の修業！": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "秘密のおやすみ計画！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "腕相撲で勝負！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "食べるの忘れてた！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "ヒシアケボノ": {
+    "お夜食ちゃんこの効能": [
+      [
+        "Energy +70"
+      ],
+      [
+        "Energy +40",
+        "Motivation +1"
+      ]
+    ],
+    "はっけよい、お弁当！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "はっけよい、好き！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "はっけよい、陶芸教室！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "みんなでビッグチャレンジ！": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ボーノな試食会☆": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "レッスン☆サバイバル生活": [
+      [
+        "Energy -10",
+        "Stamina +10",
+        "Guts +10"
+      ],
+      [
+        "Energy -10",
+        "Stamina +20"
+      ]
+    ],
+    "凸凹ぶつかり稽古！？": [
+      [
+        "Randomly either",
+        "Speed +30",
+        "or",
+        "Energy -5",
+        "Speed +10"
+      ],
+      [
+        "Randomly either",
+        "Energy +10",
+        "Power +10",
+        "or",
+        "Energy +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Intelligence +5"
+      ]
+    ],
+    "堂々と行こう！": [
+      [
+        "Power +20",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "大きくな～れ！": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "宇宙の食卓": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "届けボーノ！": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "腹が減っては巡回できぬ☆": [
+      [
+        "Energy +20"
+      ]
+    ],
+    "集まれ☆お料理好き": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  },
+  "ヒシアマゾン": {
+    "クールでホットな姉妹": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "スイーツの魔法？": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "タイマン！　スケバン！　勝負服！": [
+      [
+        "Power +20"
+      ],
+      [
+        "Stamina +20"
+      ]
+    ],
+    "ヒシアマ姐さんと芸術": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ヒシアマ姐さんの山菜採り": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ヒシアマ姐さんの特等席": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "ヒシアマ姐さんの裁縫テク": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "ヒシアマ寮長の朝ご飯": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "友か、好敵手か": [
+      [
+        "Power +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Intelligence +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "情熱は激流のごとく": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "手も足も出せない相手……！？": [
+      [
+        "Power +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "炎の思い出": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "ビワハヤヒデ": {
+    "お願い、お姉さん！": [
+      [
+        "Speed +15"
+      ],
+      [
+        "Stamina +15"
+      ]
+    ],
+    "かくれんぼマイスター": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "もうひとつの星": [
+      [
+        "Energy -10",
+        "Speed +30",
+        "Guts +10"
+      ],
+      [
+        "Energy +15",
+        "Skill point(s) +20"
+      ]
+    ],
+    "カフェで読書を": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ゲームに関する実践証明": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "バ・ナ・ナ・先・輩♪": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "助っ人参上！": [
+      [
+        "Stamina +5",
+        "Skill point(s) +15",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ],
+    "彼女の新たな側面": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "料理と姉妹の思い出": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "明暗を分かつ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "暴れ龍との攻防": [
+      [
+        "Power +5",
+        "Guts +10"
+      ]
+    ],
+    "緊急プレゼンテーション": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "ファインモーション": {
+    "Love Ramen": [
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +15",
+        "or",
+        "Energy +30",
+        "Speed -10",
+        "Skill point(s) +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Stamina +20",
+        "Power +10"
+      ]
+    ],
+    "Who Will Escort Me?": [
+      [
+        "Speed +10",
+        "The last objective race will be Tenno Sho (Autumn)"
+      ],
+      [
+        "Intelligence +10",
+        "The last objective race will be Queen Elizabeth Cup"
+      ],
+      [
+        "Guts +10",
+        "The last objective race will be Mile Championship"
+      ],
+      [
+        "Stamina +10",
+        "The last objective race will be Arima Kinen"
+      ]
+    ],
+    "こういうの、ロマンでしょう？": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "よしよし殿下": [
+      [
+        "Stamina +10",
+        "Guts +10"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "大儀であります": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "懐かしのアイルランド料理": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "殿下、推し文化に触れる": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "殿下がバザーにやってきた！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "殿下と刺激的なお茶会": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "殿下と映画観賞会": [
+      [
+        "Power +10",
+        "Guts +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Intelligence +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "殿下の華麗なるたしなみ": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "異国の地ならなんでも": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "約束のシャムロック": [
+      [
+        "Power +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "遠くの地より花は来りて": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "フジキセキ": {
+    "2大スター競演": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "@DREAM_MAKER": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "キセキのカタチ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Energy +15",
+        "Motivation +1",
+        "Skill point(s) +10"
+      ]
+    ],
+    "人生最大の幸福とは": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "君のためだけ": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "差し出す手の光": [
+      [
+        "Speed +20",
+        "Intelligence +20"
+      ]
+    ],
+    "愛した日々に悔いはない": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "愛情はほどほどに……": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "星を見上げて": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "目に映る君は": [
+      [
+        "Intelligence +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "秀麗なる門番": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "第一幕　スマイル": [
+      [
+        "Next objective will be Japanese Derby",
+        "Guts +10"
+      ],
+      [
+        "Next objective will be NHK Mile Cup",
+        "Power +10"
+      ]
+    ],
+    "舞台袖の一幕": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "マチカネタンホイザ": {
+    "『普通』の先へ": [
+      [
+        "Power +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "いつも、いつまでも！": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "おもてなしの反対": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "お待ちかねのランチ": [
+      [
+        "Motivation +1",
+        "Stamina +10"
+      ]
+    ],
+    "シュビビッと解決！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "マチタンの初代帽子": [
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "定食パーティー": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "恋は焼きサバの味": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Motivation +1",
+        "Speed +5"
+      ]
+    ],
+    "敏腕看板娘、誕生": [
+      [
+        "Stamina +10",
+        "Power +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Guts +10",
+        "Intelligence +10",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "目指せ！頼れるお姉ちゃん": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "神父マチタンと結婚式": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "私だってやる時は……！？": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ]
+  },
+  "マチカネフクキタル": {
+    "お礼参り": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "ピンチの後は……？": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "フクキタル来れば福来たる": [
+      [
+        "Speed +20",
+        "Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Speed +7",
+        "Stamina +7",
+        "Power +7"
+      ]
+    ],
+    "フクキタル的オマジナイ": [
+      [
+        "Speed +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "フクキタル的厄除けキタル": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "プリティー・ガンマンズ": [
+      [
+        "Skill point(s) +15",
+        "Motivation +1"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "マンハッタンの夢": [
+      [
+        "Stamina +10"
+      ]
+    ],
+    "レッツ・バンジー☆": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "今だけ！パワースポット": [
+      [
+        "Stamina +10",
+        "Power +10"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "呪いのカメラ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Skill point(s) +30"
+      ]
+    ],
+    "私がお守りです！": [
+      [
+        "Stamina +20"
+      ]
+    ],
+    "開運カードはどれ！？": [
+      [
+        "Randomly either",
+        "Speed +5",
+        "Stamina +5",
+        "or",
+        "Motivation +1",
+        "Skill point(s) +15",
+        "or",
+        "Motivation -1"
+      ]
+    ],
+    "食い倒れ！　七福神グルメめぐり": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ]
+  },
+  "マヤノトップガン": {
+    "With My Whole Heart！": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Energy +15",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "You're My Sunshine☆": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "マヤちんのレース講座☆": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "マヤのキラキラ☆決心！": [
+      [
+        "Speed +5",
+        "Stamina +5"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "マヤのルンルン☆配信！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "マヤのワクワク☆配信！": [
+      [
+        "Stamina +5",
+        "Power +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "マヤの大切な人！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "勉強はマヤにおまかせ☆": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "大人なモデルの秘訣！": [
+      [
+        "Energy -10",
+        "Stamina +20"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "星に願いを": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "目指せ！　大人のちゃんこ鍋☆": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ]
+  },
+  "マルゼンスキー": {
+    "お任せハンドル": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "お出かけ後のお楽しみ♪": [
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ],
+      [
+        "Stamina +5",
+        "Power +5"
+      ]
+    ],
+    "お姉さんの流儀☆": [
+      [
+        "Speed +5",
+        "Skill point(s) +10",
+        "Motivation +1"
+      ]
+    ],
+    "ようこそ、バブリーランドへ": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "イケイケ必勝法！": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10",
+        "???"
+      ]
+    ],
+    "スーパーカーでドライブ！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ダンスにゾッコン！": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ヘイカノジョ、遊びましょ♪": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Energy -5",
+        "Power +10",
+        "Guts +5"
+      ]
+    ],
+    "マルゼンスキーの大切なもの": [
+      [
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Stamina +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "レッツらお料理！": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "出会いはトレンディー☆": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "思い出の味でフィーバー☆": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "憧れの『マルゼンさん』": [
+      [
+        "Speed +10",
+        "Power +10"
+      ],
+      [
+        "Energy +15"
+      ]
+    ],
+    "支え合いの秘訣": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "頼れるお姉さんも、実は……": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ]
+  },
+  "マンハッタンカフェ": {
+    "2人だけのフレーバー": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "お腹いっぱいの優しさを": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "それは百鬼夜行のように": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "アナタだけの好み": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "カフェはカフェでも": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ズット、ズット、待ッテイタ……": [
+      [
+        "Power +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "ドキドキ怪奇探索ツアー": [
+      [
+        "Power +10"
+      ],
+      [
+        "Energy -10",
+        "Guts +20"
+      ]
+    ],
+    "ライ　ホウ　シャ": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "夢幻ナル世界ノ中デ": [
+      [
+        "Power +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Guts +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "影ナル者": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Speed +10",
+        "Guts +10"
+      ]
+    ],
+    "悪魔のささやき": [
+      [
+        "Randomly either",
+        "Energy +15",
+        "Speed +15",
+        "Stamina +15",
+        "or",
+        "Energy -15",
+        "Speed +10",
+        "Stamina +10"
+      ],
+      [
+        "Speed +5"
+      ]
+    ],
+    "漆黒のバリスタ": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "私だけのコーヒー": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Stamina +5",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "ミホノブルボン": {
+    "Apply": [
+      [
+        "Speed +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "Mission for バレンタイン": [
+      [
+        "※ More than 60000 fans:",
+        "Stamina +10",
+        "※ Less than 60000 fans:",
+        "Stamina +10"
+      ]
+    ],
+    "Not Found": [
+      [
+        "Energy +10",
+        "Speed +10",
+        "Stamina +15"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "『オペレーション：エンジョイ縁日』": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +5",
+        "Guts +5"
+      ]
+    ],
+    "『オペレーション：オーダー遂行』": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "『オペレーション：ダンスフィーバー』": [
+      [
+        "Stamina +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "『オペレーション：外出時トラブル』": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "『オペレーション：補習』": [
+      [
+        "Energy +10",
+        "Motivation +1"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "かけがえのないすべて": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "ブルボンの挑戦？": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "完全無欠のスイーツ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "思い出を作ろう": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "鬼トレーニング": [
+      [
+        "Energy -10",
+        "Power +5/+20",
+        "Skill point(s) +5/+10"
+      ],
+      [
+        "Energy +5"
+      ]
+    ]
+  },
+  "メイショウドトウ": {
+    "あんしんカバン": [
+      [
+        "Intelligence +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "うみゃうみゃうみゃ": [
+      [
+        "Power +10",
+        "Intelligence +10",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "Guts +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "そびえ立つカロリー": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "にこにこ波乱日和": [
+      [
+        "Randomly either",
+        "Energy -5",
+        "Motivation +1",
+        "2 Random stat(s) +10",
+        "or",
+        "Energy -10",
+        "Guts +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "ベストショットの行方": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ミルク味の夕暮れ": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "不屈の1歩は小さな1歩": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "募る想い、嗚呼届いていますか": [
+      [
+        "Power +10"
+      ],
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "救いの言葉": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "熱闘！激辛勝負": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "私は独りでさまようばかり": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "等価交換？": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "貴方のこぶしが名残に揺れて": [
+      [
+        "Power +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ]
+  },
+  "メジロアルダン": {
+    "アルダンの寄り道講座・初級編": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "アルダンの寄り道講座・変則編": [
+      [
+        "Energy +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "アルダンの寄り道講座・追憶編": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ガラスのワルツ": [
+      [
+        "Power +10",
+        "Guts +10"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "乙女の語らい": [
+      [
+        "Motivation +1",
+        "Guts +5"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "人と観る映画": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "体が勝手に……？": [
+      [
+        "Speed +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "信じ合うこと": [
+      [
+        "Speed +20"
+      ],
+      [
+        "Guts +20"
+      ]
+    ],
+    "前門の母、後門の姉": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "史を顧みて": [
+      [
+        "Power +25"
+      ],
+      [
+        "Energy +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "思い出光る昼下がり": [
+      [
+        "Stamina +20",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ],
+      [
+        "Intelligence +20",
+        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)"
+      ]
+    ],
+    "意外なたくましさ？": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "良薬は口に苦し": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "道、分かたれて": [
+      [
+        "Stamina +5",
+        "Next objective will be Kikka Sho"
+      ],
+      [
+        "Speed +5",
+        "Next objective will be Tenno Sho (Autumn)"
+      ]
+    ]
+  },
+  "メジロドーベル": {
+    "きゅんきゅんティータイム！？": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "ゆたかなる友情": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "アタシ、やってみる": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "カラオケチャレンジ": [
+      [
+        "Randomly either",
+        "Energy +10",
+        "All stats +5",
+        "or",
+        "Stamina +5",
+        "Guts +10"
+      ],
+      [
+        "Energy +10"
+      ]
+    ],
+    "メジロの色": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Power +20"
+      ]
+    ],
+    "ヤミナベス女王杯！？": [
+      [
+        "Speed +15"
+      ]
+    ],
+    "ワンクッション親子": [
+      [
+        "Speed +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Power +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "今のアタシは……": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "夕陽にときめいて": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "嵐の大特訓": [
+      [
+        "Energy -10",
+        "Stamina +20"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "想いの重さ＞砂糖の重さ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "願い、花火に寄せて": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "香りの魔術師": [
+      [
+        "Intelligence +20"
+      ],
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "メジロブライト": {
+    "いざ、覚悟のお茶会へ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "お世話できますもの～！": [
+      [
+        "Speed +5",
+        "Power +10"
+      ]
+    ],
+    "こころ、穏やかに": [
+      [
+        "Stamina +10",
+        "Guts +10",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ],
+      [
+        "Power +20",
+        "(Random) Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+      ]
+    ],
+    "ブライトお嬢様は怖いものなし？": [
+      [
+        "Guts +10",
+        "Skill point(s) +15"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "ブライト・イン・アンダーワールド": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ブライト・イン・ニューワールド": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ブライト・イン・ワンダーワールド": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "招き猫さんを救え！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "支えらえて、見守られて": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "未来がわかる魔法かも？": [
+      [
+        "Energy -10",
+        "Stamina +20"
+      ],
+      [
+        "Speed +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "蒼き想いを秘めて": [
+      [
+        "Stamina +20"
+      ],
+      [
+        "Intelligence +20"
+      ]
+    ],
+    "輪の中でも変わらずに": [
+      [
+        "Power +10"
+      ],
+      [
+        "Motivation +1",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "メジロマックイーン": {
+    "その名はホヤ！": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "エキサイティングお嬢様": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "メジロ家のあの子たち～難しい選択～": [
+      [
+        "Speed +10",
+        "Power +10"
+      ],
+      [
+        "Stamina +7",
+        "Guts +7",
+        "Intelligence +7"
+      ]
+    ],
+    "ライバルのあの子～どんな舞台でも～": [
+      [
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Intelligence +10",
+        "Skill point(s) +15",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "ラーメン3杯分の誘惑": [
+      [
+        "Skill point(s) +30"
+      ],
+      [
+        "Speed +5",
+        "Stamina +5"
+      ]
+    ],
+    "レース場グルメの誘惑": [
+      [
+        "Randomly either",
+        "Energy +30",
+        "Stamina +10",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Stamina +10",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ],
+      [
+        "Guts +15",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +50",
+        "Intelligence +10",
+        "or",
+        "Energy +50",
+        "Intelligence -10",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "同室のあの子～そうだと思いましたわ～": [
+      [
+        "Stamina +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "孤島の女王": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "思い出クッキング": [
+      [
+        "Energy +15"
+      ]
+    ],
+    "掘り出し物": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ],
+    "果てなき王国": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ]
+    ],
+    "栗祭り襲来！": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "銀幕の2人": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +5",
+        "Skill point(s) +15"
+      ]
+    ]
+  },
+  "メジロライアン": {
+    "はやる気持ち": [
+      [
+        "Intelligence +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ウマドルの小さなファンたち": [
+      [
+        "Power +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "ドキドキ水族館": [
+      [
+        "Power +10",
+        "Intelligence +10"
+      ],
+      [
+        "Stamina +10",
+        "Intelligence +10"
+      ]
+    ],
+    "ポニー少女とオオカミ王子": [
+      [
+        "Energy +5",
+        "Stamina +5"
+      ],
+      [
+        "Energy +5",
+        "Speed +5"
+      ]
+    ],
+    "マッスル・ジェラシー": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "周りから見た勝負服姿": [
+      [
+        "Guts +20"
+      ],
+      [
+        "Speed +20"
+      ]
+    ],
+    "息抜きと信頼と": [
+      [
+        "Speed +10"
+      ],
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "息詰まる息抜き": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Power +10"
+      ]
+    ],
+    "本当の爽やかさ": [
+      [
+        "Stamina +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ],
+      [
+        "Power +20",
+        "(Random) Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+      ]
+    ],
+    "積み上げた本当のこと": [
+      [
+        "Power +10",
+        "Skill point(s) +15"
+      ]
+    ],
+    "筋肉の休息日": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "頼れる助っ人、登場！": [
+      [
+        "Power +10"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  },
+  "ライスシャワー": {
+    "てんとう虫が離れても": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Intelligence +10"
+      ]
+    ],
+    "わたしのたいよう": [
+      [
+        "Guts +5",
+        "Intelligence +5"
+      ],
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Stamina +10"
+      ]
+    ],
+    "ライスにお任せ……！": [
+      [
+        "Guts +10"
+      ],
+      [
+        "Speed +10"
+      ]
+    ],
+    "ライスのトリック大作戦！": [
+      [
+        "Intelligence +20",
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ],
+      [
+        "(Random) Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+      ]
+    ],
+    "ライスのトリート大作戦！": [
+      [
+        "Stamina +20"
+      ]
+    ],
+    "ライスのヴァンパイア退治大作戦！": [
+      [
+        "Energy +15"
+      ],
+      [
+        "Speed +10",
+        "Power +10"
+      ]
+    ],
+    "三女神さまに願いを": [
+      [
+        "Randomly either",
+        "1 Random stat(s) +30",
+        "Motivation +1",
+        "or",
+        "1 Random stat(s) +15"
+      ]
+    ],
+    "何事も前向きに？": [
+      [
+        "Stamina +5",
+        "Guts +10"
+      ]
+    ],
+    "参考にしたくて": [
+      [
+        "Energy -10",
+        "Guts +20"
+      ],
+      [
+        "Energy +5",
+        "Skill point(s) +15"
+      ]
+    ],
+    "夕焼けの1ページ": [
+      [
+        "Power +5",
+        "Guts +5"
+      ],
+      [
+        "Stamina +5",
+        "Intelligence +5"
+      ]
+    ],
+    "甘くて真っ赤な1ページ": [
+      [
+        "Energy +10",
+        "Skill point(s) +5"
+      ],
+      [
+        "Randomly either",
+        "Energy +30",
+        "Skill point(s) +10",
+        "or",
+        "Energy +30",
+        "Skill point(s) +10",
+        "Speed -5",
+        "Power +5",
+        "Get 'Overweight' status (Speed cannot be raised through training)"
+      ]
+    ],
+    "素敵な世界に会いたくて": [
+      [
+        "Stamina +10"
+      ],
+      [
+        "Speed +5",
+        "Intelligence +5"
+      ]
+    ],
+    "雲が空を覆っても": [
+      [
+        "Speed +5",
+        "Power +5"
+      ],
+      [
+        "Guts +10"
+      ]
+    ]
+  }
+}
