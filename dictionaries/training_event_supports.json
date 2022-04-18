@@ -1,3205 +1,3922 @@
 {
-  "Admire Vega": {
-    "アヤベさんは挫けない": [
-      [
-        "Power +15",
-        "Intelligence +10"
-      ],
-      [
-        "Speed +15",
-        "Skill point(s) +30"
-      ]
-    ],
-    "アヤベさんは見過ごせない": [
-      [
-        "Randomly either",
-        "Power +5",
-        "Intelligence +15",
-        "or",
-        "Power +5",
-        "Intelligence +10"
-      ],
-      [
-        "Energy +15"
-      ]
-    ],
-    "アヤベさんは譲れない": [
-      [
-        "Power +7",
-        "Intelligence +7"
-      ]
-    ],
-    "不器用なトライアングラム": [
-      [
-        "Power +15"
-      ],
-      [
-        "Energy +10"
-      ]
-    ],
-    "孤高のケフェウス": [
-      [
-        "Intelligence +10"
-      ]
-    ]
-  },
-  "Agnes Digital": {
-    "ウマ娘ちゃん欠乏症！": [
-      [
-        "Energy +5",
-        "Speed +5"
-      ],
-      [
-        "Speed +5",
-        "Power +5"
-      ]
-    ],
-    "ヲタクの推し活": [
-      [
-        "Randomly either",
-        "Power +15",
-        "Skill point(s) +20",
-        "or",
-        "Power +10",
-        "Skill point(s) +15"
-      ],
-      [
-        "Speed +35"
-      ]
-    ],
-    "ヲタクの美学": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "ヲタクの責務": [
-      [
-        "Stamina +15"
-      ],
-      [
-        "Intelligence +15"
-      ]
-    ]
-  },
-  "Agnes Tachyon": {
-    "Report『未定（休憩も大事）』": [
-      [
-        "Intelligence +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "Report『特化鍛錬による可能性』": [
-      [
-        "Intelligence +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "要検証・他者の介在による偶発性": [
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "要検証・睡眠時間と作業能率": [
-      [
-        "Power +5",
-        "Intelligence +5"
-      ],
-      [
-        "Intelligence +10"
-      ]
-    ]
-  },
-  "Air Groove": {
-    "俊敏にして剛腕": [
-      [
-        "Power +15"
-      ],
-      [
-        "Speed +10",
-        "Stamina +5"
-      ]
-    ],
-    "凛と胡蝶蘭": [
-      [
-        "Power +5",
-        "Guts +5"
-      ]
-    ],
-    "峻厳にして優渥": [
-      [
-        "Energy +10",
-        "Intelligence +10"
-      ]
-    ],
-    "樫に咲け": [
-      [
-        "Randomly either",
-        "Energy -20",
-        "Power +5",
-        "Guts +5",
-        "or",
-        "Energy -10",
-        "Stamina +5",
-        "Power +5",
-        "Guts +10"
-      ]
-    ]
-  },
-  "Air Shakur": {
-    "//絶対欲しい": [
-      [
-        "Maximum energy +4",
-        "Guts +5"
-      ]
-    ],
-    "//要検証": [
-      [
-        "Energy +10",
-        "Guts +5"
-      ],
-      [
-        "Energy -10",
-        "Stamina +5",
-        "Guts +10"
-      ]
-    ],
-    "合わせるBPM": [
-      [
-        "Speed +15"
-      ]
-    ],
-    "繋ぐEQ": [
-      [
-        "Speed +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "重なるハイとロー": [
-      [
-        "Speed +10",
-        "Power +10"
-      ]
-    ]
-  },
-  "Aoi Kiryuin": {
-    "トレーナー心得『指導は常に改良せよ』": [
-      [
-        "Energy +10",
-        "Skill point(s) +15"
-      ],
-      [
-        "Speed +5",
-        "Intelligence +5"
-      ]
-    ],
-    "趣味を探して": [
-      [
-        "Energy +20",
-        "Skill point(s) +15",
-        "Motivation +1",
-        "Can start dating"
-      ],
-      [
-        "Motivation -1",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Bamboo Memory": {
-    "いつか強敵と呼べる日のために！っス！": [
-      [
-        "Randomly either",
-        "Maximum energy +4",
-        "Energy -5",
-        "Stamina +15",
-        "Power +20",
-        "or",
-        "Energy -15",
-        "Stamina +10",
-        "Power +15"
-      ]
-    ],
-    "トラブル、上等っス！": [
-      [
-        "Stamina +5",
-        "Guts +5"
-      ],
-      [
-        "Energy -10"
-      ]
-    ],
-    "ライバル、打倒っス！": [
-      [
-        "Guts +10"
-      ],
-      [
-        "Maximum energy +4",
-        "Energy -5"
-      ]
-    ],
-    "目指すは得点王っス！": [
-      [
-        "Energy -5",
-        "Stamina +3",
-        "Power +3",
-        "Guts +3"
-      ]
-    ],
-    "誰だろうと風紀は絶対っス！": [
-      [
-        "Randomly either",
-        "Maximum energy +4",
-        "Energy -10",
-        "Stamina +15",
-        "Power +20",
-        "Guts +15",
-        "or",
-        "Energy -15",
-        "Stamina +15",
-        "Power +20",
-        "Guts +10",
-        "or",
-        "Energy -20",
-        "Stamina +10",
-        "Guts +10"
-      ],
-      [
-        "Energy -5",
-        "Stamina +10",
-        "Power +10",
-        "Motivation +1"
-      ],
-      [
-        "Energy +30",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Biko Pegasus": {
-    "ヒーローの苦悩": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Energy +5",
-        "Power +5"
-      ]
-    ],
-    "必殺技を手に入れろ！": [
-      [
-        "Energy +30"
-      ]
-    ],
-    "決戦！　栄光の勝利をこの手に！": [
-      [
-        "Speed +5",
-        "Power +5",
-        "Guts +5"
-      ]
-    ],
-    "熱い誓い！　アタシはヒーローになる！": [
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ],
-    "猛特訓！　現れたキャロットマン！？": [
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ]
-  },
-  "Biwa Hayahide": {
-    "plan：Safety": [
-      [
-        "Power +5",
-        "Intelligence +5"
-      ]
-    ],
-    "ぎりぎり様相論": [
-      [
-        "Power +15"
-      ],
-      [
-        "Speed +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "友がくれたもの": [
-      [
-        "Power +5",
-        "Intelligence +5"
-      ]
-    ],
-    "濃いめ、バリカタ、爆盛り": [
-      [
-        "Skill point(s) +10"
-      ]
-    ],
-    "脱・無難論": [
-      [
-        "Energy -10"
-      ],
-      [
-        "Energy +10",
-        "Stamina +10"
-      ]
-    ]
-  },
-  "Curren Chan": {
-    "#あなただけのカワイイ": [
-      [
-        "Speed +5",
-        "Intelligence +10"
-      ],
-      [
-        "Speed +10",
-        "Power +5"
-      ]
-    ],
-    "#カレンの可能性": [
-      [
-        "Randomly either",
-        "Speed +10",
-        "Intelligence +10",
-        "or",
-        "Speed +5",
-        "Intelligence +5"
-      ],
-      [
-        "Energy +30",
-        "Event chain ended"
-      ]
-    ],
-    "#カレンの疑問": [
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "#カレンらしく": [
-      [
-        "Randomly either",
-        "Intelligence +10",
-        "Skill point(s) +20",
-        "or",
-        "Intelligence +5",
-        "Skill point(s) +10"
-      ]
-    ],
-    "#カワイイフォーユー☆": [
-      [
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Daitaku Helios": {
-    "テンアゲ☆ヘリオスチャンネル～！": [
-      [
-        "Energy -5",
-        "Power +10",
-        "Skill point(s) +20"
-      ]
-    ],
-    "太陽とエンカウント☆": [
-      [
-        "Power +10"
-      ],
-      [
-        "Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
-      ]
-    ],
-    "笑顔は続くよどこまでも": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Speed +20",
-        "Power +20",
-        "or",
-        "Energy -10",
-        "Speed +10",
-        "Power +10"
-      ]
-    ],
-    "笑顔フォーエバー": [
-      [
-        "Speed +5",
-        "Power +10"
-      ]
-    ],
-    "笑顔伝説・爆誕！": [
-      [
-        "Energy -5",
-        "Power +15"
-      ],
-      [
-        "Energy +10",
-        "Speed +15",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Daiwa Scarlet": {
-    "このくらい平気なんだから！": [
-      [
-        "Energy +20",
-        "Motivation +1"
-      ]
-    ],
-    "伝えたい『アタシ』": [
-      [
-        "Power +15",
-        "Intelligence +15"
-      ]
-    ],
-    "大切な『サイン』": [
-      [
-        "Skill point(s) +20"
-      ]
-    ],
-    "届かない『キモチ』": [
-      [
-        "Stamina +10"
-      ],
-      [
-        "Power +10"
-      ]
-    ],
-    "明日は私が勝つんだから！": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Motivation +1",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Eishin Flash": {
-    "想定外のお昼": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ],
-    "想定外への対応": [
-      [
-        "Guts +10"
-      ]
-    ],
-    "良き友人たるもの": [
-      [
-        "Energy +20"
-      ]
-    ],
-    "良き管理者たるもの": [
-      [
-        "Maximum energy +4",
-        "Energy +10",
-        "Motivation +1"
-      ]
-    ]
-  },
-  "El Condor Pasa": {
-    "シークレット・ノート！": [
-      [
-        "Power +10"
-      ]
-    ],
-    "ダシが重要！！": [
-      [
-        "Energy +30"
-      ],
-      [
-        "Event chain ended"
-      ]
-    ],
-    "メラメラ・ファイアー！": [
-      [
-        "Stamina +10"
-      ],
-      [
-        "Energy -10",
-        "Power +20"
-      ]
-    ],
-    "ルチャドーラ・エル！！": [
-      [
-        "Power +15"
-      ]
-    ],
-    "世界級の……！？": [
-      [
-        "Power +10",
-        "Guts +10"
-      ]
-    ]
-  },
-  "Fine Motion": {
-    "ときめきシューズ": [
-      [
-        "Speed +5",
-        "Skill point(s) +10"
-      ],
-      [
-        "Energy -10",
-        "Stamina +5",
-        "Skill point(s) +20"
-      ]
-    ],
-    "思い出クローバー": [
-      [
-        "Guts +15"
-      ]
-    ],
-    "素敵な♪ライブ日和": [
-      [
-        "Energy +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "素敵な♪レース日和": [
-      [
-        "Energy -10",
-        "Guts +5",
-        "Intelligence +5/+10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "素敵な♪練習日和": [
-      [
-        "Intelligence +5",
-        "Skill point(s) +20"
-      ],
-      [
-        "Speed +10",
-        "Stamina +5"
-      ],
-      [
-        "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
-      ]
-    ]
-  },
-  "Fuji Kiseki": {
-    "アウトオブディスワールド": [
-      [
-        "Intelligence +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "アブラカダブラ": [
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "スライハンド": [
-      [
-        "Intelligence +5",
-        "Skill point(s) +15"
-      ],
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "ミスディレクション": [
-      [
-        "Skill point(s) +30"
-      ]
-    ]
-  },
-  "Gold City": {
-    "08:36／朝寝坊、やばっ": [
-      [
-        "Motivation -1",
-        "Skill point(s) +45"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "13:12／昼休み、気合い入れなきゃ": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "One Step": [
-      [
-        "Energy +10",
-        "Speed +10",
-        "Stamina +10"
-      ]
-    ],
-    "Pride": [
-      [
-        "Energy +20",
-        "Motivation +1"
-      ]
-    ],
-    "Struggle": [
-      [
-        "Energy +20",
-        "Speed +10",
-        "Stamina +10"
-      ]
-    ]
-  },
-  "Gold Ship": {
-    "ゴルシ様、ダンジョンを探す": [
-      [
-        "Energy -15",
-        "Speed +5",
-        "Stamina +5"
-      ]
-    ],
-    "ゴルシ様、城を建てる": [
-      [
-        "Maximum energy +4"
-      ],
-      [
-        "Speed +10"
-      ]
-    ],
-    "ゴルシ様、配下をそろえる": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Speed +5",
-        "Stamina +5",
-        "or",
-        "Energy -10",
-        "Speed +10",
-        "Stamina +10"
-      ],
-      [
-        "Energy +10"
-      ]
-    ],
-    "冒険家ゴールドシップ": [
-      [
-        "Stamina +15"
-      ],
-      [
-        "Guts +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "甦れ！　ゴルシ印のソース焼きそば！": [
-      [
-        "Stamina +5",
-        "Motivation +1"
-      ]
-    ]
-  },
-  "Grass Wonder": {
-    "ひととき、うらうらに": [
-      [
-        "Energy +25"
-      ],
-      [
-        "Randomly either",
-        "Energy -10",
-        "Guts +5",
-        "or",
-        "Power +5",
-        "Guts +5",
-        "Intelligence +10"
-      ]
-    ],
-    "密やかなる熱情": [
-      [
-        "Energy +10",
-        "Intelligence +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "文殿、思ひ煩ふ": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Guts +5",
-        "Intelligence +5"
-      ]
-    ],
-    "秘すれば、花なり": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Speed +5",
-        "Guts +5",
-        "Intelligence +5",
-        "or",
-        "Energy -10",
-        "Speed +15",
-        "Guts +15",
-        "Intelligence +15"
-      ]
-    ]
-  },
-  "Haru Urara": {
-    "うららん☆ふくへーダッシュ！": [
-      [
-        "Motivation +1",
-        "Energy +10"
-      ]
-    ],
-    "うららん☆テスト勉強": [
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ],
-      [
-        "Motivation +1",
-        "Intelligence +5"
-      ]
-    ],
-    "みんなの応援でがんばる！": [
-      [
-        "Energy +15"
-      ]
-    ],
-    "キングちゃんとがんばる！": [
-      [
-        "Motivation +1",
-        "Energy +10"
-      ]
-    ],
-    "ライスちゃんとがんばる！": [
-      [
-        "Energy +10"
-      ]
-    ]
-  },
-  "Hishi Akebono": {
-    "あなたにボーノ、あたしもボーノ☆": [
-      [
-        "Stamina +10",
-        "Guts +20"
-      ]
-    ],
-    "そのままの自分でボーノボーノ♪": [
-      [
-        "Maximum energy +8",
-        "Guts +5"
-      ]
-    ],
-    "どーんと☆お任せあれ♪": [
-      [
-        "Stamina +10"
-      ],
-      [
-        "Energy -15"
-      ]
-    ],
-    "どーんと☆召し上がれ♪": [
-      [
-        "Energy +10"
-      ],
-      [
-        "Energy -5",
-        "Power +15"
-      ]
-    ],
-    "はっけよーい……ボーノ☆": [
-      [
-        "Energy +30",
-        "Guts +5",
-        "(Random) Get 'Overweight' status (Speed cannot be raised through training)"
-      ],
-      [
-        "Stamina +5",
-        "Power +5"
-      ]
-    ]
-  },
-  "Hishi Amazon": {
-    "アタシはアタシらしく": [
-      [
-        "Speed +5",
-        "Power +5"
-      ]
-    ],
-    "ヒシアマ姐さん奮闘記　～問題児編～": [
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ],
-      [
-        "Energy -10",
-        "Speed +10",
-        "Guts +5"
-      ]
-    ],
-    "ヒシアマ姐さん奮闘記　～追い込み編～": [
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "姐御流の解決法": [
-      [
-        "Speed +10"
-      ]
-    ]
-  },
-  "Ikuno Dictus": {
-    "Uゆしき事態？": [
-      [
-        "Stamina +15",
-        "Guts +15"
-      ],
-      [
-        "Energy +20",
-        "Speed +10",
-        "Skill point(s) +10",
-        "Event chain ended"
-      ]
-    ],
-    "U情": [
-      [
-        "Stamina +30",
-        "Guts +10",
-        "Skill point(s) +20"
-      ]
-    ],
-    "イクノ式マネジメント論": [
-      [
-        "Stamina +20"
-      ]
-    ],
-    "イクノ式万全メソッド": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "探偵U": [
-      [
-        "Maximum energy +4",
-        "Stamina +15",
-        "Intelligence +5"
-      ]
-    ]
-  },
-  "Inari One": {
-    "いきちょん！": [
-      [
-        "Energy -10",
-        "Speed +12",
-        "Power +12"
-      ]
-    ],
-    "おうすうちゃん！": [
-      [
-        "Energy -5",
-        "Motivation +2",
-        "Speed +3",
-        "Power +3",
-        "Guts +3"
-      ],
-      [
-        "Energy -5",
-        "Speed +10"
-      ]
-    ],
-    "喧嘩だワッショイ": [
-      [
-        "Energy -5",
-        "Power +15"
-      ],
-      [
-        "Motivation +1",
-        "Guts +5"
-      ]
-    ],
-    "神輿だワッショイ": [
-      [
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Ines Fujin": {
-    "あと10分、なの！": [
-      [
-        "Guts +15"
-      ],
-      [
-        "Intelligence +15"
-      ]
-    ],
-    "お姉ちゃんの瞬発力": [
-      [
-        "Energy -10",
-        "Speed +5",
-        "Stamina +5",
-        "Guts +10"
-      ]
-    ],
-    "ハピハピなる前進": [
-      [
-        "Energy -10",
-        "Guts +10",
-        "Skill point(s) +30"
-      ]
-    ],
-    "目指せ、きらめく瞬間！": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Guts +10",
-        "or",
-        "Energy -10",
-        "Guts +20",
-        "Intelligence +5"
-      ]
-    ],
-    "鬼ごっこ、なの！": [
-      [
-        "Energy +10",
-        "Speed +5"
-      ]
-    ]
-  },
-  "Kawakami Princess": {
-    "つつましく！豪快に！": [
-      [
-        "Motivation +1",
-        "Speed +5"
-      ],
-      [
-        "Skill point(s) +10"
-      ]
-    ],
-    "ぶちかませ！お姫様ロード！": [
-      [
-        "Speed +15",
-        "Guts +15"
-      ],
-      [
-        "Energy +25",
-        "Skill point(s) +25"
-      ]
-    ],
-    "プリンセス、殴る！": [
-      [
-        "Guts +10"
-      ],
-      [
-        "Motivation +1"
-      ]
-    ],
-    "プリンセス、逃走！": [
-      [
-        "Energy +10"
-      ]
-    ],
-    "プリンセスパワー☆フルマックス！": [
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ]
-  },
-  "King Halo": {
-    "付き合う権利をあげる！": [
-      [
-        "Energy -20",
-        "Speed +10",
-        "Power +10",
-        "Intelligence +5"
-      ],
-      [
-        "Motivation -1",
-        "Guts +25"
-      ]
-    ],
-    "助言する権利をあげる！": [
-      [
-        "Guts +10",
-        "Intelligence +5"
-      ]
-    ],
-    "舞踏会の綺羅星": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Power +20",
-        "or",
-        "Energy -10",
-        "Power +40"
-      ]
-    ],
-    "舞踏家のプライド": [
-      [
-        "Energy -5",
-        "Stamina +15",
-        "Power +15",
-        "Skill point(s) +20"
-      ],
-      [
-        "Energy +15",
-        "Skill point(s) +20"
-      ]
-    ],
-    "魅惑の招待状": [
-      [
-        "Power +10"
-      ],
-      [
-        "Guts +10"
-      ]
-    ]
-  },
-  "Kitasan Black": {
-    "2人で行くこの花道": [
-      [
-        "Randomly either",
-        "Speed +5",
-        "Power +5",
-        "or",
-        "Speed +10",
-        "Power +10"
-      ]
-    ],
-    "あぁ、友情": [
-      [
-        "Motivation +1",
-        "Power +5"
-      ],
-      [
-        "Energy +10"
-      ]
-    ],
-    "あぁ、故郷": [
-      [
-        "Speed +5",
-        "Power +10"
-      ],
-      [
-        "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
-      ]
-    ],
-    "情けは人のためならず": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Speed +5/+10"
-      ]
-    ],
-    "輝き追いかけて": [
-      [
-        "Motivation +1",
-        "Speed +2",
-        "Power +2",
-        "Intelligence +2"
-      ]
-    ]
-  },
-  "Manhattan Cafe": {
-    "オイカケテ": [
-      [
-        "Stamina +15"
-      ]
-    ],
-    "ヒカレテ": [
-      [
-        "Stamina +10",
-        "Intelligence +5"
-      ]
-    ],
-    "ミツケテ": [
-      [
-        "Randomly either",
-        "Stamina +10",
-        "Intelligence +10",
-        "or",
-        "Energy +15"
-      ],
-      [
-        "Energy +15"
-      ]
-    ],
-    "夜の独走": [
-      [
-        "Stamina +10"
-      ],
-      [
-        "Energy +10",
-        "Stamina +5"
-      ]
-    ],
-    "静けさを嗜む": [
-      [
-        "Stamina +5",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Maruzensky": {
-    "マブいドライブだっちゅ～の": [
-      [
-        "Speed +5",
-        "Motivation +1"
-      ],
-      [
-        "Intelligence +5",
-        "Motivation +1"
-      ]
-    ],
-    "可愛い後輩ちゃんのためだもの": [
-      [
-        "Energy +5",
-        "Speed +10"
-      ]
-    ]
-  },
-  "Marvelous Sunday": {
-    "マーベラス☆スクール！！": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "マーベラス☆ダイブ！！": [
-      [
-        "Intelligence +10",
-        "Skill point(s) +10"
-      ],
-      [
-        "Energy -10",
-        "Guts +25"
-      ]
-    ],
-    "マーベラス☆ヴィクトリー！！": [
-      [
-        "Energy -10",
-        "Guts +10",
-        "Intelligence +10",
-        "Skill point(s) +20"
-      ]
-    ],
-    "マーベラスにするために☆": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ]
-    ],
-    "問答無用のマーベラス☆": [
-      [
-        "Energy +10",
-        "Speed +5"
-      ],
-      [
-        "Motivation +1",
-        "Speed +5"
-      ]
-    ]
-  },
-  "Matikanefukukitaru": {
-    "仲間と一緒に笑福万来！": [
-      [
-        "Randomly either",
-        "All stats +7",
-        "or",
-        "Intelligence +4",
-        "Event chain ended"
-      ],
-      [
-        "Energy +5",
-        "Event chain ended"
-      ]
-    ],
-    "信仰心と親切心が交わる時――": [
-      [
-        "Skill point(s) +30"
-      ],
-      [
-        "Energy +20"
-      ]
-    ],
-    "全力スピリチュアル": [
-      [
-        "Intelligence +5",
-        "Skill point(s) +15"
-      ],
-      [
-        "Energy -10",
-        "Speed +5",
-        "Stamina +5",
-        "Power +5"
-      ]
-    ],
-    "謎の儀式図で運試し！": [
-      [
-        "Randomly either",
-        "All stats +7",
-        "or",
-        "Intelligence +4",
-        "Event chain ended"
-      ],
-      [
-        "Energy +5",
-        "Event chain ended"
-      ]
-    ],
-    "辿り着いたよミラクルハッピー！": [
-      [
-        "Randomly either",
-        "All stats +7",
-        "Skill point(s) +77",
-        "or",
-        "All stats +7",
-        "Skill point(s) +7",
-        "or",
-        "Skill point(s) +7"
-      ]
-    ]
-  },
-  "Matikanetannhauser": {
-    "これも普通のハプニング！？": [
-      [
-        "Stamina +5",
-        "Guts +10"
-      ]
-    ],
-    "これも普通の努力です！": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Power +10"
-      ]
-    ],
-    "個性的な走り方？": [
-      [
-        "Randomly either",
-        "Power +10",
-        "Skill point(s) +15",
-        "or",
-        "Power +5",
-        "Skill point(s) +10"
-      ]
-    ],
-    "求む、個性！": [
-      [
-        "Motivation +1"
-      ],
-      [
-        "Energy +10/+30"
-      ]
-    ],
-    "目指せ、いたずらっ子！": [
-      [
-        "Power +5",
-        "Skill point(s) +10"
-      ]
-    ]
-  },
-  "Mayano Top Gun": {
-    "なんでもない日の……♪": [
-      [
-        "Randomly either",
-        "Motivation +1",
-        "Speed +20",
-        "Guts +10",
-        "or",
-        "Energy -10",
-        "Motivation +1",
-        "Guts +10"
-      ],
-      [
-        "Intelligence +15"
-      ],
-      [
-        "Energy +20",
-        "Stamina +10",
-        "Event chain ended"
-      ]
-    ],
-    "マヤノ的おやつ会議！": [
-      [
-        "Stamina +5",
-        "Guts +5"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ],
-    "マヤノ的ファッション会議！": [
-      [
-        "Stamina +10"
-      ]
-    ],
-    "特別な日の特別な……♪": [
-      [
-        "Energy +10",
-        "Speed +10",
-        "Guts +5"
-      ]
-    ],
-    "素敵な休日の……♪": [
-      [
-        "Speed +10",
-        "Guts +5"
-      ]
-    ]
-  },
-  "Meisho Doto": {
-    "お食事券事件": [
-      [
-        "Speed +3",
-        "Stamina +3",
-        "Power +3",
-        "Skill point(s) +10"
-      ]
-    ],
-    "にんじん……買ってくださいっ": [
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "めーめー団の新団員": [
-      [
-        "Energy -20",
-        "Speed +5",
-        "Stamina +10"
-      ]
-    ],
-    "私……改革ですっ": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Guts +15"
-      ]
-    ],
-    "覇王の危機！？": [
-      [
-        "Energy +10"
-      ],
-      [
-        "Stamina +5"
-      ]
-    ]
-  },
-  "Mejiro Ardan": {
-    "みんなで作る特製ドリンク♪": [
-      [
-        "Randomly either",
-        "Energy +10",
-        "Speed +5",
-        "Intelligence +5",
-        "Skill point(s) +10",
-        "or",
-        "Intelligence +10"
-      ],
-      [
-        "Motivation +1",
-        "Speed +10"
-      ]
-    ],
-    "硝子の少女は学びたい": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "硝子の少女は遊びたい": [
-      [
-        "Speed +10",
-        "Intelligence +10"
-      ]
-    ],
-    "立ちたい場所はただ1つ": [
-      [
-        "Energy +30",
-        "Motivation +1"
-      ]
-    ]
-  },
-  "Mejiro Bright": {
-    "しっかり、じっくり。": [
-      [
-        "Energy +10"
-      ],
-      [
-        "Intelligence +20"
-      ]
-    ],
-    "のんびり、ゆったり。": [
-      [
-        "Stamina +15",
-        "Guts +5"
-      ],
-      [
-        "Speed +15",
-        "Power +5"
-      ]
-    ],
-    "わたくし、捜しますわ～": [
-      [
-        "Motivation +1",
-        "Stamina +10"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +10"
-      ]
-    ],
-    "わたくし、演じますわ～": [
-      [
-        "Stamina +15"
-      ]
-    ],
-    "わたくし、負けませんわ～": [
-      [
-        "Stamina +15"
-      ]
-    ]
-  },
-  "Mejiro Dober": {
-    "やってみてもいい": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Motivation +1",
-        "Skill point(s) +15"
-      ]
-    ],
-    "三歩進み、二歩下がって、一歩": [
-      [
-        "Energy -10",
-        "Guts +5",
-        "Intelligence +5"
-      ]
-    ],
-    "喜んでくれるかな……": [
-      [
-        "Skill point(s) +45"
-      ]
-    ],
-    "踏み出す、一歩": [
-      [
-        "Energy -10",
-        "Skill point(s) +15~45"
-      ],
-      [
-        "Guts +5",
-        "Intelligence +5"
-      ]
-    ],
-    "高め合い、二歩": [
-      [
-        "Guts +3",
-        "Intelligence +3",
-        "Skill point(s) +5"
-      ]
-    ]
-  },
-  "Mejiro McQueen": {
-    "“期待”に応える": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Stamina +10",
-        "or",
-        "Energy -10"
-      ]
-    ],
-    "“期待”は力": [
-      [
-        "Stamina +10"
-      ]
-    ],
-    "“期待”は好意": [
-      [
-        "Motivation +1",
-        "Stamina +10"
-      ]
-    ],
-    "体重を保つ為": [
-      [
-        "Energy -10",
-        "Stamina +15"
-      ],
-      [
-        "Maximum energy +4",
-        "Stamina +5"
-      ]
-    ],
-    "高みに至る為": [
-      [
-        "Stamina +5",
-        "Guts +5"
-      ]
-    ]
-  },
-  "Mejiro Palmer": {
-    "ポジティブな逃げ": [
-      [
-        "Guts +15"
-      ]
-    ],
-    "ポジティブ逃げネバギバ！": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Stamina +5",
-        "Guts +5",
-        "or",
-        "Energy -10",
-        "Stamina +20",
-        "Guts +20"
-      ],
-      [
-        "Energy +10"
-      ]
-    ],
-    "ラブ逃げエスケープ": [
-      [
-        "Energy +10",
-        "Guts +5",
-        "Intelligence +5"
-      ],
-      [
-        "Energy +10"
-      ]
-    ],
-    "振り逃げランナウェイ": [
-      [
-        "Energy -5",
-        "Stamina +15",
-        "Guts +10"
-      ],
-      [
-        "Energy -5",
-        "Guts +10",
-        "Intelligence +15"
-      ]
-    ],
-    "逃げられない選択？": [
-      [
-        "Energy -15",
-        "Guts +20"
-      ],
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Mejiro Ryan": {
-    "あくまで薦められただけ": [
-      [
-        "Energy +30"
-      ]
-    ],
-    "どぎまぎアフタヌーンティー！": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Intelligence +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "不屈のバーニングハート！！": [
-      [
-        "Power +10",
-        "Guts +5"
-      ]
-    ],
-    "滾れホームランダービー！": [
-      [
-        "Power +10",
-        "Guts +5"
-      ]
-    ],
-    "筋肉と共に明日へ！": [
-      [
-        "Energy -10",
-        "Power +15"
-      ],
-      [
-        "Maximum energy +4",
-        "Power +5"
-      ]
-    ]
-  },
-  "Mihono Bourbon": {
-    "ステータス『そのまま』": [
-      [
-        "Stamina +5",
-        "Intelligence +10"
-      ]
-    ],
-    "ステータス『つまらない？』": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Intelligence +15"
-      ]
-    ],
-    "ステータス『楽しい！』": [
-      [
-        "Stamina +5",
-        "Intelligence +10"
-      ]
-    ],
-    "他人に危害を及ぼしてはならない": [
-      [
-        "Energy -10",
-        "Stamina +5",
-        "Power +15"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "命令は守らなければならない": [
-      [
-        "Speed +10",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Nakayama Festa": {
-    "予兆の夜": [
-      [
-        "Stamina +10",
-        "Guts +5",
-        "Skill point(s) +10",
-        "※ Will affect the outcome of the third event"
-      ],
-      [
-        "Energy -10",
-        "Skill point(s) +5",
-        "※ Will affect the outcome of the third event"
-      ]
-    ],
-    "夕暮れにひと勝負": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Guts +15"
-      ]
-    ],
-    "火花散る昼": [
-      [
-        "Skill point(s) +25"
-      ]
-    ],
-    "闇に溶ける夕": [
-      [
-        "Randomly either",
-        "※ Can only happen if you chose the top option during the first event",
-        "Skill point(s) +40",
-        "or",
-        "※ Can only happen if you chose the bottom option during the first event",
-        "Stamina +15",
-        "Guts +15",
-        "Skill point(s) +20",
-        "or",
-        "※ Can only happen if you chose the bottom option during the first event",
-        "Motivation -1",
-        "Guts +10"
-      ]
-    ]
-  },
-  "Narita Brian": {
-    "いつかの標的": [
-      [
-        "Stamina +10"
-      ]
-    ],
-    "孤狼": [
-      [
-        "Speed +3",
-        "Stamina +3",
-        "Power +3"
-      ]
-    ],
-    "戦場の心得": [
-      [
-        "Energy -5",
-        "Stamina +5"
-      ]
-    ],
-    "池の覇者": [
-      [
-        "Randomly either",
-        "Maximum energy +4",
-        "Stamina +10",
-        "or",
-        "Guts +10"
-      ],
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "生徒会役員！": [
-      [
-        "Motivation +1",
-        "Speed +5"
-      ],
-      [
-        "Maximum energy +4"
-      ]
-    ]
-  },
-  "Narita Taishin": {
-    "タイシンの恩返し": [
-      [
-        "Energy -5",
-        "Stamina +10",
-        "Intelligence +10"
-      ]
-    ],
-    "別に、ほっといて": [
-      [
-        "Stamina +5",
-        "Skill point(s) +15"
-      ],
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "別に、邪魔しないで": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "真っ直ぐ届け、この気持ち！": [
-      [
-        "Randomly either",
-        "Stamina +10",
-        "Intelligence +10",
-        "or",
-        "Stamina +5",
-        "Intelligence +5"
-      ]
-    ],
-    "素直トレーニング！": [
-      [
-        "Power +10"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ]
-  },
-  "Narita Top Road": {
-    "きっちり、点検！": [
-      [
-        "Energy +20"
-      ],
-      [
-        "Energy -10",
-        "Speed +25"
-      ]
-    ],
-    "しっかり、努力！": [
-      [
-        "Stamina +10"
-      ]
-    ],
-    "クラスメイトのピンチなら……！": [
-      [
-        "Motivation +1",
-        "Energy -10",
-        "Speed +7",
-        "Stamina +7",
-        "Intelligence +7"
-      ]
-    ],
-    "ライバルだから知っている": [
-      [
-        "Energy -10",
-        "Speed +15",
-        "Stamina +15",
-        "Skill point(s) +20"
-      ]
-    ],
-    "期待をその背に！": [
-      [
-        "Energy -10",
-        "Speed +15",
-        "Stamina +15"
-      ],
-      [
-        "Energy +20",
-        "Skill point(s) +10"
-      ]
-    ]
-  },
-  "Nice Nature": {
-    "クイズでリベンジっ！！": [
-      [
-        "Energy +10",
-        "Speed +5",
-        "Intelligence +5"
-      ]
-    ],
-    "抑えられないキモチ": [
-      [
-        "Energy +10"
-      ],
-      [
-        "Energy -5",
-        "Speed +5",
-        "Power +5",
-        "Heal a negative status effect"
-      ]
-    ],
-    "最強ムテキのネイチャさん？": [
-      [
-        "Motivation +1",
-        "Guts +5",
-        "Intelligence +5"
-      ]
-    ],
-    "（ニャンとも）ガラじゃない": [
-      [
-        "Energy +20"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "（美味しい）おせっかい": [
-      [
-        "Motivation +1",
-        "Maximum energy +4"
-      ]
-    ]
-  },
-  "Nishino Flower": {
-    "きれいに咲こうねっ♪": [
-      [
-        "Intelligence +15"
-      ],
-      [
-        "Speed +10",
-        "Power +5"
-      ]
-    ],
-    "小さな花に潤いを": [
-      [
-        "Intelligence +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "温もり愛情弁当": [
-      [
-        "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
-      ],
-      [
-        "Energy +20"
-      ]
-    ],
-    "私、ママになりますっ！": [
-      [
-        "Skill point(s) +15"
-      ],
-      [
-        "Motivation +1",
-        "Heal a negative status effect"
-      ],
-      [
-        "Power +25",
-        "Event chain ended"
-      ]
-    ],
-    "花咲く想いを込めて": [
-      [
-        "Energy +20"
-      ]
-    ]
-  },
-  "Oguri Cap": {
-    "ぬいぐるみか……": [
-      [
-        "Maximum energy +4",
-        "Power +5"
-      ]
-    ],
-    "人混みは大変だ……": [
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "何と答えれば……": [
-      [
-        "Energy +5",
-        "Power +5"
-      ],
-      [
-        "Energy -10",
-        "Guts +15"
-      ]
-    ],
-    "本当に応えるべきは……": [
-      [
-        "Power +5",
-        "Skill point(s) +10"
-      ],
-      [
-        "Stamina +5",
-        "Skill point(s) +10"
-      ]
-    ],
-    "私が語りたいことは……": [
-      [
-        "Randomly either",
-        "Power +10",
-        "Guts +5",
-        "Skill point(s) +10",
-        "or",
-        "Power +15",
-        "Guts +10",
-        "Skill point(s) +15"
-      ],
-      [
-        "Energy +30"
-      ]
-    ]
-  },
-  "Rice Shower": {
-    "お花屋さんでの1ページ": [
-      [
-        "Motivation +2"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ],
-    "ずうっと、つやつや、魔法の花": [
-      [
-        "Stamina +5",
-        "Power +10"
-      ],
-      [
-        "Energy +15",
-        "Power +5"
-      ]
-    ],
-    "晴れの日、ヒラヒラ、花束を": [
-      [
-        "Stamina +5",
-        "Power +5",
-        "Intelligence +5"
-      ]
-    ],
-    "曇りの日の1ページ": [
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ],
-    "雨の日、ぷかぷか、お花畑": [
-      [
-        "Power +10"
-      ],
-      [
-        "Skill point(s) +40",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Riko Kashimoto": {
-    "意外な一面": [
-      [
-        "Randomly either",
-        "Energy +15",
-        "Motivation +1",
-        "Stamina +10",
-        "Can start dating",
-        "or",
-        "Event chain ended"
-      ],
-      [
-        "Motivation +1",
-        "Guts +15",
-        "Can start dating"
-      ],
-      [
-        "Event chain ended"
-      ]
-    ],
-    "樫本流、片付け術": [
-      [
-        "Stamina +15"
-      ],
-      [
-        "Guts +15"
-      ]
-    ]
-  },
-  "Sakura Bakushin O": {
-    "『ちびっ子ウマ娘徒競走大会』": [
-      [
-        "Guts +5"
-      ],
-      [
-        "Maximum energy +4",
-        "Speed +5"
-      ]
-    ],
-    "優等生の一石二鳥！！": [
-      [
-        "Speed +15"
-      ],
-      [
-        "Speed +5",
-        "Power +10"
-      ]
-    ],
-    "姉の背中": [
-      [
-        "Guts +10",
-        "Speed +5"
-      ],
-      [
-        "Skill point(s) +30",
-        "Event chain ended"
-      ]
-    ],
-    "貴方らしく": [
-      [
-        "Randomly either",
-        "Speed +15",
-        "Guts +15",
-        "or",
-        "Speed +5",
-        "Guts +5"
-      ]
-    ],
-    "走りだすほどの！！": [
-      [
-        "Energy -10",
-        "Speed +10",
-        "Power +5"
-      ]
-    ]
-  },
-  "Sakura Chiyono O": {
-    "いつか咲く、その日まで……": [
-      [
-        "Energy +5",
-        "Stamina +5"
-      ]
-    ],
-    "今日の格言！": [
-      [
-        "Energy -10",
-        "Power +20"
-      ],
-      [
-        "Energy +5",
-        "Skill point(s) +10"
-      ]
-    ],
-    "花咲く、いつか！": [
-      [
-        "Randomly either",
-        "Energy -15",
-        "Stamina +10",
-        "Skill point(s) +5",
-        "or",
-        "Energy -15",
-        "Stamina +30",
-        "Skill point(s) +20"
-      ],
-      [
-        "Speed +5",
-        "Stamina +10",
-        "Power +5",
-        "Skill point(s) +30"
-      ]
-    ],
-    "花咲く、一歩！": [
-      [
-        "Skill point(s) +15"
-      ]
-    ],
-    "花咲く、希望！": [
-      [
-        "Randomly either",
-        "Stamina +30",
-        "Motivation +1",
-        "Heal a negative status effect",
-        "or",
-        "Energy -10",
-        "Guts +25"
-      ],
-      [
-        "Energy +20",
-        "Motivation +1"
-      ]
-    ]
-  },
-  "Sasami Anshinzawa": {
-    "あんし～んの練習台？": [
-      [
-        "Randomly either",
-        "Maximum energy +3",
-        "Energy +10",
-        "Motivation +1",
-        "Can start dating",
-        "or",
-        "Skill point(s) +50",
-        "Can start dating"
-      ],
-      [
-        "Motivation +1",
-        "Stamina +10",
-        "Can start dating"
-      ],
-      [
-        "Energy -10",
-        "Skill point(s) +100",
-        "Event chain ended"
-      ]
-    ],
-    "全ての道は笹針に通じる": [
-      [
-        "Randomly either",
-        "1 Random stat(s) +10",
-        "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)",
-        "or",
-        "Skill point(s) +50"
-      ]
-    ]
-  },
-  "Satono Diamond": {
-    "みんなとみる夢": [
-      [
-        "Randomly either",
-        "Intelligence +10",
-        "or",
-        "Intelligence +30"
-      ]
-    ],
-    "新しいもの、大好きです！": [
-      [
-        "Guts +10"
-      ],
-      [
-        "Energy -10",
-        "Stamina +20"
-      ]
-    ],
-    "見えない献身": [
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "言葉では足りない": [
-      [
-        "Speed +10",
-        "Intelligence +10"
-      ]
-    ],
-    "難しいこと、大好きです！": [
-      [
-        "Stamina +5",
-        "Guts +10"
-      ]
-    ]
-  },
-  "Seeking the Pearl": {
-    "全力でシンキング！": [
-      [
-        "Intelligence +20"
-      ],
-      [
-        "Energy -10"
-      ]
-    ],
-    "全力でパッション！": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Power +5",
-        "Guts +5"
-      ]
-    ],
-    "言葉はノンノン♪　ボディで語るの！": [
-      [
-        "Motivation +1"
-      ],
-      [
-        "Power +10",
-        "Guts +10"
-      ],
-      [
-        "Energy +30"
-      ]
-    ],
-    "諦めないで！　可能性は無限大！": [
-      [
-        "Power +5",
-        "Guts +5"
-      ]
-    ]
-  },
-  "Seiun Sky": {
-    "いきなりマーダーミステリー！　その1": [
-      [
-        "Intelligence +5",
-        "Skill point(s) +20"
-      ],
-      [
-        "Energy +15"
-      ]
-    ],
-    "いきなりマーダーミステリー！　その2": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Energy +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "いきなりマーダーミステリー！　その3": [
-      [
-        "Randomly either",
-        "Intelligence +5",
-        "or",
-        "Intelligence +20"
-      ],
-      [
-        "Energy +10",
-        "Stamina +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "ゆる募、ネコの捕まえ方": [
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ],
-      [
-        "Energy -10",
-        "Speed +15",
-        "Stamina +5"
-      ]
-    ],
-    "ゆる募、助言者": [
-      [
-        "Intelligence +15"
-      ]
-    ]
-  },
-  "Shinko Windy": {
-    "ガブッと、撲滅！": [
-      [
-        "Speed +3",
-        "Motivation +1"
-      ],
-      [
-        "Energy +10",
-        "Skill point(s) +5"
-      ]
-    ],
-    "ガブッと、突撃！": [
-      [
-        "Skill point(s) +15"
-      ],
-      [
-        "Speed +3"
-      ]
-    ],
-    "ゲートよ、開け！": [
-      [
-        "Randomly either",
-        "Speed +10",
-        "Skill point(s) +15",
-        "or",
-        "Speed +5",
-        "Skill point(s) +10"
-      ]
-    ],
-    "ココ掘れ、ウインディ！": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Energy -5",
-        "Skill point(s) +30"
-      ]
-    ]
-  },
-  "Silence Suzuka": {
-    "“景色”へ導く": [
-      [
-        "Speed +15"
-      ]
-    ],
-    "どうすれば": [
-      [
-        "Speed +5",
-        "Stamina +5",
-        "Intelligence +5"
-      ]
-    ],
-    "どこまでも": [
-      [
-        "Speed +10",
-        "Stamina +5"
-      ],
-      [
-        "Speed +15"
-      ]
-    ],
-    "仲間と見る“景色”": [
-      [
-        "Skill point(s) +20"
-      ]
-    ],
-    "未来の“景色”": [
-      [
-        "Speed +15"
-      ]
-    ]
-  },
-  "Sirius Symboli": {
-    "もしもその身が自由なら": [
-      [
-        "Speed +10",
-        "Intelligence +10"
-      ]
-    ],
-    "シンボリの名を持つ者": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Skill point(s) +30",
-        "Event chain ended"
-      ]
-    ],
-    "助けてやろうか？": [
-      [
-        "Intelligence +5"
-      ],
-      [
-        "Skill point(s) +15"
-      ]
-    ],
-    "天秤は釣り合わない": [
-      [
-        "Randomly either",
-        "Intelligence +15",
-        "or",
-        "Intelligence +30"
-      ]
-    ],
-    "教えてやろうか？": [
-      [
-        "Energy -5",
-        "Stamina +20"
-      ],
-      [
-        "Intelligence +10"
-      ]
-    ]
-  },
-  "Smart Falcon": {
-    "いつでもどこでも輝くよ☆": [
-      [
-        "Speed +10",
-        "Power +10"
-      ]
-    ],
-    "かわいかったら見に来てね☆": [
-      [
-        "Energy -10",
-        "Power +10"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +5"
-      ]
-    ],
-    "これが私のウマドル道☆": [
-      [
-        "Randomly either",
-        "Maximum energy +4",
-        "Stamina +5",
-        "Power +5",
-        "Intelligence +5",
-        "or",
-        "Maximum energy +4",
-        "Stamina +15",
-        "Power +15",
-        "Intelligence +15"
-      ]
-    ],
-    "ライブはコーレスが命☆": [
-      [
-        "Stamina +5",
-        "Guts +10"
-      ],
-      [
-        "Intelligence +15"
-      ]
-    ],
-    "常に心にステージを☆": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Energy +25",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Special Week": {
-    "あれもこれもで、悩んじゃいます！": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Energy -10",
-        "Stamina +15",
-        "Skill point(s) +15"
-      ]
-    ],
-    "いつかは憧れのウマ娘に！": [
-      [
-        "Energy +10",
-        "Speed +5"
-      ]
-    ],
-    "少しでも近づけるように": [
-      [
-        "Energy -10",
-        "Speed +15"
-      ],
-      [
-        "Energy -10",
-        "Skill point(s) +20"
-      ],
-      [
-        "Energy -10"
-      ]
-    ],
-    "憧れのカタチ": [
-      [
-        "Randomly either",
-        "Energy +10",
-        "Speed +5",
-        "or",
-        "Energy +10",
-        "Speed +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "曲がり角には、気をつけます！": [
-      [
-        "Guts +15"
-      ]
-    ]
-  },
-  "Super Creek": {
-    "おかわりどうぞ、いいこたち！": [
-      [
-        "Stamina +10",
-        "Power +5"
-      ]
-    ],
-    "お手伝いもお任せ♪": [
-      [
-        "Energy +15"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ],
-    "お気遣いもお任せ♪": [
-      [
-        "Energy +10",
-        "Stamina +5"
-      ]
-    ],
-    "できたてはごろり、たっぷりと": [
-      [
-        "Energy +10",
-        "Stamina +5"
-      ]
-    ],
-    "煮込んでとろり、優しい味に": [
-      [
-        "Stamina +5",
-        "Power +5"
-      ]
-    ]
-  },
-  "Sweep Tosho": {
-    "あまあま☆マズマズ☆黒魔法": [
-      [
-        "Randomly either",
-        "Energy +10",
-        "Skill point(s) +20",
-        "or",
-        "Energy -10",
-        "Skill point(s) +15"
-      ],
-      [
-        "Intelligence +10"
-      ]
-    ],
-    "ミラクル☆エスケープ！": [
-      [
-        "Energy +10",
-        "Speed +5"
-      ],
-      [
-        "Energy -10",
-        "Speed +20"
-      ]
-    ],
-    "ワンダフル☆ミステイク！": [
-      [
-        "Randomly either",
-        "Energy -15",
-        "Skill point(s) +40",
-        "or",
-        "Energy -20",
-        "Skill point(s) +40"
-      ],
-      [
-        "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
-      ]
-    ],
-    "少女の気分は花の移ろい☆彡": [
-      [
-        "Speed +5",
-        "Intelligence +5"
-      ]
-    ],
-    "気まぐれ天才魔法少女スイーピー☆": [
-      [
-        "Randomly either",
-        "Motivation +1",
-        "or",
-        "Motivation -1",
-        "Intelligence +5"
-      ],
-      [
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Symboli Rudolf": {
-    "“皇帝”の激励": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Energy -10",
-        "Skill point(s) +30"
-      ]
-    ],
-    "熱が導く": [
-      [
-        "Stamina +10",
-        "Skill point(s) +30"
-      ]
-    ],
-    "熱が生むもの": [
-      [
-        "Energy +10",
-        "Skill point(s) +10"
-      ],
-      [
-        "Energy -10",
-        "Stamina +25",
-        "Guts +25",
-        "Event chain ended"
-      ]
-    ],
-    "熱は交わらない": [
-      [
-        "Stamina +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "生徒会長の思い": [
-      [
-        "Stamina +15"
-      ]
-    ]
-  },
-  "TM Opera O": {
-    "勝者へ至るエチュード": [
-      [
-        "Speed +5",
-        "Skill point(s) +30",
-        "Motivation -1"
-      ],
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "有限の時を越えて": [
-      [
-        "Energy +10",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Taiki Shuttle": {
-    "イエス！　レッツ・ハグ☆": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Speed +5",
-        "Power +5"
-      ]
-    ],
-    "オゥ！　トゥナイト・パーティー☆": [
-      [
-        "Energy -10",
-        "Speed +5",
-        "Power +10"
-      ]
-    ]
-  },
-  "Tamamo Cross": {
-    "タマモ先輩の学園案内": [
-      [
-        "Intelligence +10"
-      ],
-      [
-        "Stamina +5",
-        "Guts +5"
-      ]
-    ],
-    "ミイラハント～最恐スイート・マミー～": [
-      [
-        "Randomly either",
-        "Speed +5",
-        "Power +5",
-        "or",
-        "Speed +15",
-        "Power +15"
-      ]
-    ],
-    "ミイラハント～目覚めよ狩人！～": [
-      [
-        "Speed +10",
-        "Power +10"
-      ]
-    ],
-    "ミイラハント～笑劇を打破せよ！～": [
-      [
-        "Power +10"
-      ],
-      [
-        "Energy +20",
-        "Speed +10",
-        "Event chain ended"
-      ]
-    ],
-    "負けられん戦い！": [
-      [
-        "Stamina +5",
-        "Intelligence +5"
-      ]
-    ]
-  },
-  "Tazuna Hayakawa": {
-    "情熱のふたり": [
-      [
-        "Energy +10",
-        "Intelligence +5",
-        "Motivation +1",
-        "Can start dating"
-      ],
-      [
-        "Motivation -1",
-        "Event chain ended"
-      ]
-    ],
-    "選んだ生き方": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Motivation +1",
-        "Intelligence +5"
-      ]
-    ]
-  },
-  "Team Sirius": {
-    "あれもこれもで、悩んじゃいます！": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Energy -10",
-        "Stamina +15",
-        "Skill point(s) +15"
-      ]
-    ],
-    "お花屋さんでの1ページ": [
-      [
-        "Motivation +2"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ],
-    "それぞれが一等星": [
-      [
-        "Speed +6",
-        "Stamina +5",
-        "Power +5"
-      ]
-    ],
-    "どうすれば": [
-      [
-        "Speed +5",
-        "Stamina +5",
-        "Intelligence +5"
-      ]
-    ],
-    "どこまでも": [
-      [
-        "Speed +10",
-        "Stamina +5"
-      ],
-      [
-        "Speed +15"
-      ]
-    ],
-    "チカラを合わせて！": [
-      [
-        "Energy +10"
-      ],
-      [
-        "Speed +10",
-        "Intelligence +5"
-      ]
-    ],
-    "体重を保つ為": [
-      [
-        "Energy -10",
-        "Stamina +15"
-      ],
-      [
-        "Maximum energy +4",
-        "Stamina +5"
-      ]
-    ],
-    "全・力・競・走！！": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "全・力・筋・肉！！": [
-      [
-        "Stamina +5",
-        "Skill point(s) +15"
-      ],
-      [
-        "Motivation +1",
-        "Skill point(s) +15"
-      ]
-    ],
-    "孤狼": [
-      [
-        "Speed +3",
-        "Stamina +3",
-        "Power +3"
-      ]
-    ],
-    "曇りの日の1ページ": [
-      [
-        "Speed +5",
-        "Guts +5"
-      ]
-    ],
-    "曲がり角には、気をつけます！": [
-      [
-        "Guts +15"
-      ]
-    ],
-    "生徒会役員！": [
-      [
-        "Motivation +1",
-        "Speed +5"
-      ],
-      [
-        "Maximum energy +4"
-      ]
-    ],
-    "高みに至る為": [
-      [
-        "Stamina +5",
-        "Guts +5"
-      ]
-    ]
-  },
-  "Tokai Teio": {
-    "ゴシップ狂想曲": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ],
-      [
-        "Energy -10",
-        "Power +15",
-        "Skill point(s) +20",
-        "Event chain ended"
-      ]
-    ],
-    "ボクのやり方": [
-      [
-        "Motivation +1",
-        "Skill point(s) +15"
-      ],
-      [
-        "Guts +15"
-      ]
-    ],
-    "ボクの武器": [
-      [
-        "Motivation +1",
-        "Guts +10"
-      ]
-    ],
-    "ライバルと2ショット": [
-      [
-        "Power +10"
-      ]
-    ],
-    "灯火は未来へ輝く": [
-      [
-        "Stamina +7",
-        "Power +7"
-      ]
-    ]
-  },
-  "Tosen Jordan": {
-    "すげー娘はすげーし": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Speed +15",
-        "or",
-        "Energy -10",
-        "Speed +10"
-      ]
-    ],
-    "スマホって時間泥棒じゃん？": [
-      [
-        "Motivation +1",
-        "Speed +5"
-      ],
-      [
-        "Stamina +10"
-      ]
-    ],
-    "レビューって半分賭けじゃん？": [
-      [
-        "Energy +10",
-        "Motivation +1"
-      ]
-    ],
-    "自分アゲてーし": [
-      [
-        "Speed +10",
-        "Skill point(s) +10"
-      ]
-    ],
-    "距離感とかあるし": [
-      [
-        "Speed +10",
-        "Stamina +5"
-      ],
-      [
-        "Energy +10"
-      ]
-    ]
-  },
-  "Twin Turbo": {
-    "『せんでん』全開！！": [
-      [
-        "Energy -10",
-        "Speed +7",
-        "Power +7"
-      ]
-    ],
-    "『せんでん』始動！！": [
-      [
-        "Energy -5",
-        "Guts +15"
-      ],
-      [
-        "Energy +20",
-        "Event chain ended"
-      ]
-    ],
-    "『せんでん』最高！！": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Guts +15",
-        "or",
-        "Energy -10",
-        "Guts +10"
-      ]
-    ],
-    "思い込んだら一直線！": [
-      [
-        "Speed +20",
-        "Motivation -1"
-      ],
-      [
-        "Energy -10",
-        "Power +20"
-      ]
-    ],
-    "燃えてきた！！": [
-      [
-        "Energy +15"
-      ]
-    ]
-  },
-  "Vodka": {
-    "夕日に誓った煌めき": [
-      [
-        "Power +15",
-        "Skill point(s) +15"
-      ]
-    ],
-    "大通りの強敵": [
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "従うのは、自分の心": [
-      [
-        "Power +10",
-        "Skill point(s) +15"
-      ]
-    ],
-    "憧れのセリフ": [
-      [
-        "Power +10"
-      ],
-      [
-        "Power +5",
-        "Skill point(s) +15"
-      ]
-    ],
-    "記録に残せよ？": [
-      [
-        "Power +25",
-        "Skill point(s) +30"
-      ]
-    ]
-  },
-  "Winning Ticket": {
-    "チケゾー☆ナイトフィーバー！": [
-      [
-        "Speed +15",
-        "Stamina +15",
-        "Guts +15"
-      ]
-    ],
-    "チケゾー☆フレンドシップ！": [
-      [
-        "Stamina +10",
-        "Guts +10"
-      ],
-      [
-        "Energy +25",
-        "Event chain ended"
-      ]
-    ],
-    "チケゾー☆探検隊！": [
-      [
-        "Speed +10",
-        "Stamina +10"
-      ]
-    ],
-    "全・力・競・走！！": [
-      [
-        "Skill point(s) +30"
-      ]
-    ],
-    "全・力・筋・肉！！": [
-      [
-        "Stamina +5",
-        "Skill point(s) +15"
-      ],
-      [
-        "Motivation +1",
-        "Skill point(s) +15"
-      ]
-    ]
-  },
-  "Yaeno Muteki": {
-    "ヤエノムテキ恋歌地獄変": [
-      [
-        "Randomly either",
-        "Energy -10",
-        "Speed +10",
-        "Stamina +10",
-        "Power +20",
-        "or",
-        "Energy -10"
-      ]
-    ],
-    "剛毅朴訥、仁に近し": [
-      [
-        "Speed +10"
-      ],
-      [
-        "Power +5",
-        "Motivation +1"
-      ]
-    ],
-    "嗚呼、守りたい……！": [
-      [
-        "Stamina +10",
-        "Power +10"
-      ]
-    ],
-    "理の食VS暴の食": [
-      [
-        "Energy +20",
-        "Skill point(s) +30"
-      ],
-      [
-        "Energy +10",
-        "Intelligence +10",
-        "Skill point(s) +10",
-        "Event chain ended"
-      ]
-    ],
-    "電脳奥義炸裂！ヤエノ出稽古修行": [
-      [
-        "Speed +5",
-        "Power +5",
-        "Skill point(s) +10"
-      ]
-    ]
-  },
-  "Yukino Bijin": {
-    "“どんど晴れ”の立役者": [
-      [
-        "Energy -10",
-        "Guts +10",
-        "Intelligence +5"
-      ]
-    ],
-    "“シチースポット”を目指して": [
-      [
-        "Energy -10",
-        "Motivation +1",
-        "Guts +10"
-      ]
-    ],
-    "あたしがなンとかするでがんす！": [
-      [
-        "Energy -10",
-        "Guts +10",
-        "Intelligence +10"
-      ]
-    ],
-    "イカすライブのために": [
-      [
-        "Guts +10"
-      ],
-      [
-        "Energy -10",
-        "Guts +15"
-      ]
-    ],
-    "飾らねぇ、魅力を……": [
-      [
-        "Energy -10",
-        "Stamina +5",
-        "Guts +10"
-      ],
-      [
-        "Skill point(s) +20",
-        "Event chain ended"
-      ]
-    ]
-  },
-  "Zenno Rob Roy": {
-    "託された物語": [
-      [
-        "Stamina +10",
-        "Intelligence +10"
-      ]
-    ],
-    "読書家あるある": [
-      [
-        "Speed +5",
-        "Intelligence +5"
-      ],
-      [
-        "Energy +10",
-        "Power +5"
-      ]
-    ],
-    "読書少女とあるカエルの友人": [
-      [
-        "Skill point(s) +20"
-      ]
-    ],
-    "読書少女と秘密の作戦会議": [
-      [
-        "Stamina +5"
-      ],
-      [
-        "Speed +5"
-      ],
-      [
-        "Intelligence +30"
-      ]
-    ],
-    "読書少女と賢者の催し物": [
-      [
-        "Skill point(s) +15"
-      ]
-    ]
-  }
+  "10017514543015263134": [
+    [
+      "Speed +5",
+      "Power +10"
+    ],
+    [
+      "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+    ]
+  ],
+  "10035379543337192712": [
+    [
+      "Power +15",
+      "Skill point(s) +15"
+    ]
+  ],
+  "10075721954835227817": [
+    [
+      "Energy -10",
+      "Guts +5",
+      "Intelligence +5/+10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "10076025760043083848": [
+    [
+      "Energy +5",
+      "Intelligence +3"
+    ]
+  ],
+  "10096965097918444842": [
+    [
+      "Intelligence +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "10108874783064249078": [
+    [
+      "Stamina +15"
+    ]
+  ],
+  "10112359822307053002": [
+    [
+      "Energy +10",
+      "Stamina +5"
+    ]
+  ],
+  "10130947363273688925": [
+    [
+      "Randomly either",
+      "Energy -15",
+      "Stamina +10",
+      "Skill point(s) +5",
+      "or",
+      "Energy -15",
+      "Stamina +30",
+      "Skill point(s) +20"
+    ],
+    [
+      "Speed +5",
+      "Stamina +10",
+      "Power +5",
+      "Skill point(s) +30"
+    ]
+  ],
+  "10170316549186523338": [
+    [
+      "Guts +10"
+    ],
+    [
+      "Speed +10"
+    ]
+  ],
+  "10190152432737400189": [
+    [
+      "Energy +15"
+    ]
+  ],
+  "10205417196812894810": [
+    [
+      "Randomly either",
+      "Energy -5",
+      "Power +10",
+      "or",
+      "Energy -5",
+      "Power +5"
+    ]
+  ],
+  "10225452210070691805": [
+    [
+      "Energy +10",
+      "Intelligence +5",
+      "Motivation +1"
+    ],
+    [
+      "Skill point(s) +30",
+      "Event chain ended"
+    ]
+  ],
+  "10236359912867723357": [
+    [
+      "Power +5",
+      "Intelligence +5"
+    ]
+  ],
+  "1027533471251507852": [
+    [
+      "Energy -10",
+      "Motivation +1",
+      "Guts +10"
+    ]
+  ],
+  "10309564111329453883": [
+    [
+      "Randomly either",
+      "Speed +10",
+      "or",
+      "Energy -10",
+      "Speed +10",
+      "Event chain ended"
+    ],
+    [
+      "Energy +20",
+      "Event chain ended"
+    ]
+  ],
+  "10313446556279164457": [
+    [
+      "Energy -10",
+      "Guts +10",
+      "Skill point(s) +30"
+    ]
+  ],
+  "10315386361839631697": [
+    [
+      "Energy +15",
+      "Power +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "10405618043732300702": [
+    [
+      "Energy +10"
+    ]
+  ],
+  "10443625226978016258": [
+    [
+      "Stamina +5",
+      "Guts +10"
+    ],
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "10500109281382631276": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +5",
+      "Stamina +5",
+      "Guts +5",
+      "or",
+      "Energy -10",
+      "Speed +15",
+      "Stamina +15",
+      "Guts +15"
+    ]
+  ],
+  "10592737551623175887": [
+    [
+      "Skill point(s) +45"
+    ]
+  ],
+  "10640846865460205368": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ],
+    [
+      "Energy -10",
+      "Speed +20"
+    ]
+  ],
+  "10651308089997202375": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "10664332070893020439": [
+    [
+      "Speed +15",
+      "Stamina +15"
+    ]
+  ],
+  "10740324446165176385": [
+    [
+      "Energy +10",
+      "Speed +10",
+      "Guts +5"
+    ]
+  ],
+  "10778741939968998002": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "Speed +5",
+      "Stamina +5",
+      "Intelligence +5",
+      "Skill point(s) +5",
+      "Motivation +1",
+      "or",
+      "Energy +10",
+      "Speed +10",
+      "Stamina +10",
+      "Intelligence +10",
+      "Skill point(s) +30",
+      "Motivation +1"
+    ]
+  ],
+  "10811119297060238211": [
+    [
+      "Randomly either",
+      "Intelligence +10",
+      "Skill point(s) +20",
+      "or",
+      "Intelligence +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "10817389858179371798": [
+    [
+      "Speed +5",
+      "Power +5"
+    ]
+  ],
+  "10819574475455807414": [
+    [
+      "Skill point(s) +20"
+    ]
+  ],
+  "108354887048616681": [
+    [
+      "Motivation +1",
+      "Speed +5"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "10874927096551620401": [
+    [
+      "Stamina +5",
+      "Guts +5"
+    ]
+  ],
+  "1090479064834971661": [
+    [
+      "Randomly either",
+      "Speed +15",
+      "or",
+      "Energy -10",
+      "Speed +10",
+      "Event chain ended"
+    ],
+    [
+      "Energy +25",
+      "Event chain ended"
+    ]
+  ],
+  "10905371977242001818": [
+    [
+      "Guts +20"
+    ]
+  ],
+  "10938038972882020162": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "or",
+      "Energy +10"
+    ]
+  ],
+  "11003887536083472714": [
+    [
+      "Randomly either",
+      "Skill point(s) +40",
+      "or",
+      "Skill point(s) +10",
+      "Motivation -1"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "1102836777678436949": [
+    [
+      "Maximum energy +4"
+    ],
+    [
+      "Motivation +2"
+    ]
+  ],
+  "11044256651335010323": [
+    [
+      "Stamina +10",
+      "Intelligence +10"
+    ]
+  ],
+  "11067572729935788344": [
+    [
+      "Energy +10"
+    ]
+  ],
+  "11069679708689768069": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Motivation +1",
+      "Intelligence +5"
+    ]
+  ],
+  "1110454735795293496": [
+    [
+      "Power +15"
+    ],
+    [
+      "Speed +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "11109320974783650505": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "11121185581561899677": [
+    [
+      "Energy +10",
+      "Stamina +2",
+      "Guts +2",
+      "Intelligence +3"
+    ]
+  ],
+  "11138283980675244069": [
+    [
+      "Energy +30",
+      "Motivation +1"
+    ]
+  ],
+  "11161302110079105766": [
+    [
+      "Maximum energy +4",
+      "Energy +10",
+      "Motivation +1"
+    ]
+  ],
+  "11204262902635673344": [
+    [
+      "Motivation +1",
+      "Skill point(s) +15"
+    ],
+    [
+      "Guts +15"
+    ]
+  ],
+  "11229397608461070512": [
+    [
+      "Energy +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "1126194011434124891": [
+    [
+      "Energy -10",
+      "Speed +15",
+      "Stamina +15",
+      "Skill point(s) +20"
+    ]
+  ],
+  "11283363846940353776": [
+    [
+      "Randomly either",
+      "Intelligence +5",
+      "or",
+      "Intelligence +20"
+    ],
+    [
+      "Energy +10",
+      "Stamina +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "11284320422056708121": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Energy +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "11285276997173062466": [
+    [
+      "Intelligence +5",
+      "Skill point(s) +20"
+    ],
+    [
+      "Energy +15"
+    ]
+  ],
+  "11302527294044275538": [
+    [
+      "Stamina +5",
+      "Guts +10"
+    ]
+  ],
+  "11340152814127227638": [
+    [
+      "Intelligence +15"
+    ],
+    [
+      "Speed +10",
+      "Power +5"
+    ]
+  ],
+  "11390793580447217914": [
+    [
+      "Energy -10"
+    ]
+  ],
+  "11439643044781881032": [
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "11497753337552671416": [
+    [
+      "Skill point(s) +25"
+    ]
+  ],
+  "11517572842997054946": [
+    [
+      "Energy -10",
+      "Guts +10",
+      "Intelligence +10"
+    ]
+  ],
+  "11555360518493638756": [
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "11560875358785748095": [
+    [
+      "Intelligence +10",
+      "Skill point(s) +20"
+    ]
+  ],
+  "11564653493455436446": [
+    [
+      "Power +15",
+      "Intelligence +10"
+    ],
+    [
+      "Speed +15",
+      "Skill point(s) +30"
+    ]
+  ],
+  "11607029573137251695": [
+    [
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "11692861996678368227": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "Speed +5",
+      "Intelligence +5",
+      "Skill point(s) +10",
+      "or",
+      "Intelligence +10"
+    ],
+    [
+      "Motivation +1",
+      "Speed +10"
+    ]
+  ],
+  "11731583590381686735": [
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "11774584947601651634": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Guts +10",
+      "or",
+      "Energy -10",
+      "Guts +20",
+      "Intelligence +5"
+    ]
+  ],
+  "1179772425211945305": [
+    [
+      "Speed +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "11857839959960736594": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ]
+  ],
+  "11858670775244478653": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Guts +15"
+    ]
+  ],
+  "12021120875633424121": [
+    [
+      "Energy -5",
+      "Stamina +15",
+      "Guts +10"
+    ],
+    [
+      "Energy -5",
+      "Guts +10",
+      "Intelligence +15"
+    ]
+  ],
+  "12032570360741923382": [
+    [
+      "Speed +5",
+      "Intelligence +5"
+    ]
+  ],
+  "12112482396353898977": [
+    [
+      "Skill point(s) +30"
+    ],
+    [
+      "Energy +20"
+    ]
+  ],
+  "12175308036345778540": [
+    [
+      "Randomly either",
+      "Speed +10",
+      "Intelligence +10",
+      "or",
+      "Speed +5",
+      "Intelligence +5"
+    ],
+    [
+      "Energy +30",
+      "Event chain ended"
+    ]
+  ],
+  "12252099679955562083": [
+    [
+      "Energy -10",
+      "Speed +30"
+    ],
+    [
+      "Energy -10",
+      "Skill point(s) +30"
+    ]
+  ],
+  "12263464737817057851": [
+    [
+      "Motivation +1"
+    ],
+    [
+      "Power +10",
+      "Guts +10"
+    ],
+    [
+      "Energy +30"
+    ]
+  ],
+  "12263753711839726371": [
+    [
+      "Stamina +15",
+      "Guts +15"
+    ],
+    [
+      "Energy +20",
+      "Speed +10",
+      "Skill point(s) +10",
+      "Event chain ended"
+    ]
+  ],
+  "12278045783580898477": [
+    [
+      "Energy +10",
+      "Power +5"
+    ]
+  ],
+  "12279488929805107761": [
+    [
+      "Speed +6",
+      "Stamina +5",
+      "Power +5",
+      "Get 'Passion Zone: Team Sirius' status (Can carry out Friendship Training with Team Sirius and is immune to Insomnia as well as Lazy Habit)"
+    ]
+  ],
+  "12327867983822892816": [
+    [
+      "Speed +5",
+      "Skill point(s) +10"
+    ],
+    [
+      "Energy -10",
+      "Stamina +5",
+      "Skill point(s) +20"
+    ]
+  ],
+  "12390468988231936374": [
+    [
+      "Energy +10",
+      "Speed +5",
+      "Intelligence +5"
+    ]
+  ],
+  "12393678512773336610": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "12399402985058671779": [
+    [
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "12413267131106826742": [
+    [
+      "Energy -10",
+      "Stamina +40"
+    ],
+    [
+      "Energy +15",
+      "Guts +5"
+    ]
+  ],
+  "12419194134739278451": [
+    [
+      "Energy -5",
+      "Power +15"
+    ],
+    [
+      "Energy +10",
+      "Speed +15",
+      "Event chain ended"
+    ]
+  ],
+  "12442251288898951941": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "12446861893475846769": [
+    [
+      "Stamina +15",
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "12482326369377187342": [
+    [
+      "Speed +10",
+      "Intelligence +10"
+    ]
+  ],
+  "12489436827288136523": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "12520346010826547580": [
+    [
+      "Intelligence +15"
+    ],
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "12546645508903706930": [
+    [
+      "Energy +10",
+      "Guts +5"
+    ],
+    [
+      "Energy -10",
+      "Stamina +5",
+      "Guts +10"
+    ]
+  ],
+  "12569668425480326041": [
+    [
+      "Stamina +10"
+    ],
+    [
+      "Energy -15"
+    ]
+  ],
+  "1270618992874106847": [
+    [
+      "Energy +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "12810200277012149560": [
+    [
+      "Skill point(s) +20"
+    ]
+  ],
+  "12836676747289761981": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Stamina +5",
+      "Guts +5",
+      "or",
+      "Energy -10",
+      "Stamina +20",
+      "Guts +20"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "12868671038233056339": [
+    [
+      "Energy -5",
+      "Stamina +10",
+      "Intelligence +10"
+    ]
+  ],
+  "12875041175091115173": [
+    [
+      "Energy -10",
+      "Power +10"
+    ]
+  ],
+  "12886858799135845458": [
+    [
+      "Speed +5",
+      "Intelligence +10"
+    ],
+    [
+      "Speed +10",
+      "Power +5"
+    ]
+  ],
+  "12903987289996190029": [
+    [
+      "Speed +5",
+      "Motivation +1"
+    ],
+    [
+      "Intelligence +5",
+      "Motivation +1"
+    ]
+  ],
+  "12933864912444717385": [
+    [
+      "Skill point(s) +45"
+    ],
+    [
+      "Randomly either",
+      "Energy +10",
+      "Motivation +1",
+      "or",
+      "Energy -20"
+    ]
+  ],
+  "12952176579363212180": [
+    [
+      "Energy +20",
+      "Speed +10",
+      "Stamina +10"
+    ]
+  ],
+  "12952251608792067505": [
+    [
+      "Intelligence +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "13009703048696682682": [
+    [
+      "Stamina +5",
+      "Intelligence +5"
+    ]
+  ],
+  "1305196538420336153": [
+    [
+      "Stamina +10"
+    ],
+    [
+      "Energy +10",
+      "Stamina +5"
+    ]
+  ],
+  "13152283540969529106": [
+    [
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "1319595299317357135": [
+    [
+      "Intelligence +5"
+    ],
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "13220537196069987915": [
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "13231069086733188131": [
+    [
+      "Skill point(s) +25"
+    ]
+  ],
+  "13248386726535578043": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Power +10"
+    ]
+  ],
+  "13340260438274065389": [
+    [
+      "Speed +3",
+      "Power +3",
+      "Intelligence +3"
+    ],
+    [
+      "Energy +15",
+      "Event chain ended"
+    ]
+  ],
+  "13381235535792377253": [
+    [
+      "Maximum energy +4",
+      "Power +10"
+    ],
+    [
+      "Randomly either",
+      "Speed +15",
+      "or",
+      "Speed +5"
+    ]
+  ],
+  "13482172251882705799": [
+    [
+      "Energy -5",
+      "Stamina +20"
+    ],
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "13551310803616970033": [
+    [
+      "Stamina +15"
+    ]
+  ],
+  "1361411974219812397": [
+    [
+      "Energy -10",
+      "Speed +12",
+      "Power +12"
+    ]
+  ],
+  "13637623530758194712": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "13651864702570109602": [
+    [
+      "Speed +3",
+      "Stamina +3",
+      "Power +3",
+      "Skill point(s) +10"
+    ]
+  ],
+  "13688931796540590115": [
+    [
+      "Motivation +1",
+      "Speed +5"
+    ],
+    [
+      "Energy +10",
+      "Stamina +5"
+    ]
+  ],
+  "13690305789383265268": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Energy +25",
+      "Event chain ended"
+    ]
+  ],
+  "13690698067283400677": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +5",
+      "Guts +5",
+      "Intelligence +5",
+      "or",
+      "Energy -10",
+      "Speed +15",
+      "Guts +15",
+      "Intelligence +15"
+    ]
+  ],
+  "13745509636705434912": [
+    [
+      "Energy -30",
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "1378355921350266296": [
+    [
+      "Speed +3",
+      "Motivation +1"
+    ],
+    [
+      "Energy +10",
+      "Skill point(s) +5"
+    ]
+  ],
+  "13795255139119908776": [
+    [
+      "Energy +10",
+      "Guts +5",
+      "Intelligence +5"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "13865172924359956496": [
+    [
+      "Guts +15"
+    ]
+  ],
+  "13934532328754606570": [
+    [
+      "Stamina +5",
+      "Guts +5"
+    ],
+    [
+      "Energy -10"
+    ]
+  ],
+  "13962524981193128919": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Stamina +10",
+      "or",
+      "Energy -10"
+    ]
+  ],
+  "13995940619741632545": [
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ],
+    [
+      "Energy -10",
+      "Speed +10",
+      "Guts +5"
+    ]
+  ],
+  "14052086101742118177": [
+    [
+      "Speed +5",
+      "Power +10"
+    ]
+  ],
+  "14092823579295025673": [
+    [
+      "Motivation -1",
+      "Skill point(s) +45"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "14096199616476599981": [
+    [
+      "Energy -10",
+      "Power +15"
+    ]
+  ],
+  "14113907056900338466": [
+    [
+      "Randomly either",
+      "Speed +15",
+      "Guts +15",
+      "or",
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "14156213687077305360": [
+    [
+      "Speed +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "14200645412401597638": [
+    [
+      "Speed +10",
+      "Stamina +10"
+    ]
+  ],
+  "14222780248836450447": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "14236118018476428298": [
+    [
+      "Energy -10",
+      "Speed +5",
+      "Power +10"
+    ]
+  ],
+  "14245623525529944462": [
+    [
+      "Energy +5",
+      "Stamina +5"
+    ]
+  ],
+  "14309209068648919800": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Energy -5",
+      "Skill point(s) +30"
+    ]
+  ],
+  "14347270828704636435": [
+    [
+      "Randomly either",
+      "Motivation +1",
+      "Speed +20",
+      "Guts +10",
+      "or",
+      "Energy -10",
+      "Motivation +1",
+      "Guts +10"
+    ],
+    [
+      "Intelligence +15"
+    ],
+    [
+      "Energy +20",
+      "Stamina +10",
+      "Event chain ended"
+    ]
+  ],
+  "14363093356534107571": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Speed +5",
+      "Power +5"
+    ]
+  ],
+  "14374459002210617772": [
+    [
+      "Energy -10",
+      "Guts +10",
+      "Intelligence +10",
+      "Skill point(s) +20"
+    ]
+  ],
+  "14413521646808084621": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "14524853619309110910": [
+    [
+      "Randomly either",
+      "Stamina +30",
+      "Motivation +1",
+      "Heal a negative status effect",
+      "or",
+      "Energy -10",
+      "Guts +25"
+    ],
+    [
+      "Energy +20",
+      "Motivation +1"
+    ]
+  ],
+  "14609992778921764683": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "14623582707868248474": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "14725760678175676559": [
+    [
+      "Motivation +2"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "14733296658042970196": [
+    [
+      "Stamina +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "14814779898876696938": [
+    [
+      "Motivation +2",
+      "Power +10",
+      "Heal a negative status effect"
+    ],
+    [
+      "Power +10",
+      "Guts +10",
+      "Intelligence +10"
+    ]
+  ],
+  "14826006939896942486": [
+    [
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "14830019299817294047": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ]
+  ],
+  "14831318871321813176": [
+    [
+      "Energy +10"
+    ]
+  ],
+  "14847247445412119405": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +20",
+      "Power +20",
+      "or",
+      "Energy -10",
+      "Speed +10",
+      "Power +10"
+    ]
+  ],
+  "14875635077660480865": [
+    [
+      "Energy -15",
+      "Guts +20"
+    ],
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "14889540777982515570": [
+    [
+      "Energy +10"
+    ],
+    [
+      "Speed +10",
+      "Intelligence +5"
+    ]
+  ],
+  "14918203656788904534": [
+    [
+      "Stamina +15"
+    ],
+    [
+      "Guts +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "14998165279392755444": [
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "15000679132268658158": [
+    [
+      "Energy -5",
+      "Stamina +3",
+      "Power +3",
+      "Guts +3"
+    ]
+  ],
+  "15008279758647037488": [
+    [
+      "Randomly either",
+      "Energy -15",
+      "Skill point(s) +40",
+      "or",
+      "Energy -20",
+      "Skill point(s) +40"
+    ],
+    [
+      "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+    ]
+  ],
+  "15045657407517126529": [
+    [
+      "Energy -10",
+      "Speed +10",
+      "Power +5"
+    ]
+  ],
+  "1504820937597791137": [
+    [
+      "Skill point(s) +15"
+    ],
+    [
+      "Speed +3"
+    ]
+  ],
+  "15148409852785452997": [
+    [
+      "Stamina +10",
+      "Intelligence +10"
+    ]
+  ],
+  "15160513373691220900": [
+    [
+      "Speed +10",
+      "Intelligence +10"
+    ]
+  ],
+  "15170628726732661644": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Guts +15"
+    ]
+  ],
+  "15238503800967403762": [
+    [
+      "Guts +10",
+      "Speed +5"
+    ],
+    [
+      "Skill point(s) +30",
+      "Event chain ended"
+    ]
+  ],
+  "15307017415145077666": [
+    [
+      "Stamina +5",
+      "Guts +15"
+    ]
+  ],
+  "15369695748211198323": [
+    [
+      "Energy -10",
+      "Power +10"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "15380826145054680404": [
+    [
+      "Power +10"
+    ]
+  ],
+  "15382452491917893553": [
+    [
+      "Guts +5"
+    ],
+    [
+      "Maximum energy +4",
+      "Speed +5"
+    ]
+  ],
+  "15399018998948646357": [
+    [
+      "Speed +15"
+    ],
+    [
+      "Speed +5",
+      "Power +10"
+    ]
+  ],
+  "15468061472214755423": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Skill point(s) +30",
+      "Event chain ended"
+    ]
+  ],
+  "15475583042293955440": [
+    [
+      "Energy -10",
+      "Speed +15"
+    ],
+    [
+      "Energy -10",
+      "Skill point(s) +20"
+    ],
+    [
+      "Energy -10"
+    ]
+  ],
+  "15537577769450512192": [
+    [
+      "Energy -10",
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "15585502867818987168": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "15595312455302755930": [
+    [
+      "Power +7",
+      "Intelligence +7"
+    ]
+  ],
+  "15673050973413091818": [
+    [
+      "Randomly either",
+      "Intelligence +10",
+      "or",
+      "Intelligence +30"
+    ]
+  ],
+  "15675031903824891678": [
+    [
+      "Stamina +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "15745216033647662826": [
+    [
+      "Motivation +1"
+    ],
+    [
+      "Maximum energy +4"
+    ]
+  ],
+  "15756806822484096730": [
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ],
+    [
+      "Motivation +1",
+      "Intelligence +5"
+    ]
+  ],
+  "15796014936937344113": [
+    [
+      "Energy -10",
+      "Power +15"
+    ],
+    [
+      "Maximum energy +4",
+      "Power +5"
+    ]
+  ],
+  "15819822079996950514": [
+    [
+      "Speed +5",
+      "Stamina +5"
+    ]
+  ],
+  "15830752770400559630": [
+    [
+      "Intelligence +20"
+    ],
+    [
+      "Energy -10"
+    ]
+  ],
+  "15916426804895537506": [
+    [
+      "Energy +30"
+    ]
+  ],
+  "15922884039562835853": [
+    [
+      "Energy +10"
+    ],
+    [
+      "Intelligence +20"
+    ]
+  ],
+  "15934429996590138242": [
+    [
+      "Power +10"
+    ]
+  ],
+  "15946745312410706275": [
+    [
+      "Energy +15",
+      "Intelligence +5"
+    ]
+  ],
+  "16068375873635484272": [
+    [
+      "Power +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "16078981339633603455": [
+    [
+      "Stamina +10",
+      "Intelligence +10",
+      "Skill point(s) +30"
+    ]
+  ],
+  "16080398749792945880": [
+    [
+      "Guts +10"
+    ]
+  ],
+  "16118860122996457597": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "16155345639793994764": [
+    [
+      "Energy +5",
+      "Motivation +1",
+      "Skill point(s) +15"
+    ]
+  ],
+  "16321161447966406706": [
+    [
+      "Randomly either",
+      "Power +10",
+      "Guts +5",
+      "Skill point(s) +10",
+      "or",
+      "Power +15",
+      "Guts +10",
+      "Skill point(s) +15"
+    ],
+    [
+      "Energy +30"
+    ]
+  ],
+  "16327178229555545872": [
+    [
+      "Power +5",
+      "Intelligence +5"
+    ],
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "16328330174891299830": [
+    [
+      "Energy +10"
+    ],
+    [
+      "Stamina +5"
+    ]
+  ],
+  "16333577804785306387": [
+    [
+      "Power +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "16351894834601410703": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ]
+  ],
+  "16369045440006905904": [
+    [
+      "Power +10"
+    ],
+    [
+      "Speed +10"
+    ]
+  ],
+  "16391307514972690642": [
+    [
+      "Speed +10",
+      "Guts +5"
+    ]
+  ],
+  "16438571640166913891": [
+    [
+      "Energy +10",
+      "Speed +10",
+      "Stamina +10"
+    ]
+  ],
+  "16657161094416726398": [
+    [
+      "Speed +20"
+    ],
+    [
+      "Skill point(s) +10"
+    ]
+  ],
+  "16704913445415641685": [
+    [
+      "Randomly either",
+      "Motivation +1",
+      "or",
+      "Motivation -1",
+      "Intelligence +5"
+    ],
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "1672066163767421287": [
+    [
+      "Motivation +1",
+      "Power +5"
+    ]
+  ],
+  "16738940467447335856": [
+    [
+      "Randomly either",
+      "Speed +15",
+      "Power +15",
+      "or",
+      "Energy -5",
+      "Speed +10"
+    ],
+    [
+      "Skill point(s) +20"
+    ]
+  ],
+  "16815371337544799938": [
+    [
+      "Stamina +15"
+    ]
+  ],
+  "16826144478871930458": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "16833193987076789043": [
+    [
+      "Energy +10",
+      "Intelligence +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "16861899491751917085": [
+    [
+      "Speed +10",
+      "Skill point(s) +20"
+    ],
+    [
+      "Motivation -1"
+    ]
+  ],
+  "16929315914828915373": [
+    [
+      "Stamina +10",
+      "Power +10"
+    ]
+  ],
+  "16943668263124475599": [
+    [
+      "Energy +25"
+    ],
+    [
+      "Stamina +10",
+      "Power +5"
+    ]
+  ],
+  "16946162287913572815": [
+    [
+      "Energy +30"
+    ]
+  ],
+  "17004170004507220882": [
+    [
+      "Maximum energy +4",
+      "Power +5"
+    ]
+  ],
+  "17054288688077317928": [
+    [
+      "Power +15"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "17085865085719819399": [
+    [
+      "Energy -10",
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "17097885352765169959": [
+    [
+      "Speed +5",
+      "Stamina +5",
+      "Intelligence +5"
+    ]
+  ],
+  "17189163420313137485": [
+    [
+      "Stamina +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "17236088818284943762": [
+    [
+      "Skill point(s) +20"
+    ]
+  ],
+  "17332163606712449723": [
+    [
+      "Speed +5",
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "17343810074732782416": [
+    [
+      "Energy +25"
+    ],
+    [
+      "Randomly either",
+      "Energy -10",
+      "Guts +5",
+      "or",
+      "Power +5",
+      "Guts +5",
+      "Intelligence +10"
+    ]
+  ],
+  "17362012416820361581": [
+    [
+      "Energy +20"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "1744209386481388802": [
+    [
+      "Intelligence +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "17510797610118137922": [
+    [
+      "Energy +5",
+      "Speed +5"
+    ],
+    [
+      "Speed +5",
+      "Power +5"
+    ]
+  ],
+  "17551671832571100629": [
+    [
+      "Stamina +10",
+      "Power +10"
+    ]
+  ],
+  "17575483318593287421": [
+    [
+      "Energy -20",
+      "Speed +5",
+      "Stamina +10"
+    ]
+  ],
+  "17616938340315300088": [
+    [
+      "Speed +15"
+    ]
+  ],
+  "17641463950978980454": [
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "17646095383780093932": [
+    [
+      "Randomly either",
+      "Power +5",
+      "Intelligence +15",
+      "or",
+      "Power +5",
+      "Intelligence +10"
+    ],
+    [
+      "Energy +15"
+    ]
+  ],
+  "17679724824300347678": [
+    [
+      "Guts +10"
+    ]
+  ],
+  "17753414451207389243": [
+    [
+      "Energy -10",
+      "Power +20"
+    ],
+    [
+      "Energy +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "17771591622614688454": [
+    [
+      "Maximum energy +8",
+      "Guts +5"
+    ]
+  ],
+  "17783845030992036970": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "17789099711897523149": [
+    [
+      "Randomly either",
+      "Energy -20",
+      "Power +5",
+      "or",
+      "Energy -10",
+      "Stamina +5",
+      "Power +15"
+    ]
+  ],
+  "17810697320874388226": [
+    [
+      "Stamina +5",
+      "Guts +10"
+    ]
+  ],
+  "17816453400462839239": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Guts +15",
+      "or",
+      "Energy -10",
+      "Guts +10"
+    ]
+  ],
+  "1782087388739727687": [
+    [
+      "Stamina +15"
+    ]
+  ],
+  "1786951979467418890": [
+    [
+      "Stamina +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "17869624069349734853": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "17872232488378737794": [
+    [
+      "Guts +10",
+      "Skill point(s) +15"
+    ],
+    [
+      "Energy -10",
+      "Event chain ended"
+    ]
+  ],
+  "17876378305536345877": [
+    [
+      "Energy -10",
+      "Speed +15",
+      "Stamina +15"
+    ],
+    [
+      "Energy +20",
+      "Skill point(s) +10"
+    ]
+  ],
+  "1791157435358158973": [
+    [
+      "Randomly either",
+      "All stats +7",
+      "Skill point(s) +77",
+      "or",
+      "All stats +7",
+      "Skill point(s) +7",
+      "or",
+      "Skill point(s) +7"
+    ]
+  ],
+  "17967165780091832884": [
+    [
+      "Energy -15",
+      "Speed +5",
+      "Stamina +5"
+    ]
+  ],
+  "1797935398739447578": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "18004646397771899136": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Power +5",
+      "Motivation +1"
+    ]
+  ],
+  "18008721150327915095": [
+    [
+      "Energy +20",
+      "Motivation +1"
+    ]
+  ],
+  "18024416652963658232": [
+    [
+      "Guts +15"
+    ]
+  ],
+  "18037118155427206523": [
+    [
+      "Randomly either",
+      "Energy +15",
+      "Motivation +1",
+      "Stamina +10",
+      "Can start dating",
+      "or",
+      "Event chain ended"
+    ],
+    [
+      "Motivation +1",
+      "Guts +15",
+      "Can start dating"
+    ],
+    [
+      "Event chain ended"
+    ]
+  ],
+  "18101777290175618100": [
+    [
+      "Motivation +1",
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "18129379029521316716": [
+    [
+      "Motivation +1",
+      "Speed +3",
+      "Power +3",
+      "Intelligence +3"
+    ]
+  ],
+  "18131113074085636238": [
+    [
+      "Power +10"
+    ],
+    [
+      "Energy +20",
+      "Speed +10",
+      "Event chain ended"
+    ]
+  ],
+  "18146899192513000892": [
+    [
+      "Stamina +5",
+      "Intelligence +10"
+    ]
+  ],
+  "18205669659685383735": [
+    [
+      "Power +5",
+      "Intelligence +5"
+    ]
+  ],
+  "18207899610735972505": [
+    [
+      "Guts +10"
+    ],
+    [
+      "Energy -10",
+      "Stamina +20"
+    ]
+  ],
+  "1821201419262889767": [
+    [
+      "Stamina +5",
+      "Power +10"
+    ],
+    [
+      "Energy +15",
+      "Power +5"
+    ]
+  ],
+  "18235898706705092166": [
+    [
+      "Motivation +4"
+    ],
+    [
+      "Power +10",
+      "Guts +10",
+      "Intelligence +10"
+    ]
+  ],
+  "18252361482345999759": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Motivation +1",
+      "Skill point(s) +15"
+    ]
+  ],
+  "18285353968160709287": [
+    [
+      "Power +10"
+    ]
+  ],
+  "18386372532703630376": [
+    [
+      "Motivation +1",
+      "Speed +5"
+    ],
+    [
+      "Skill point(s) +10"
+    ]
+  ],
+  "18407397358767581443": [
+    [
+      "Guts +10"
+    ],
+    [
+      "Energy -10",
+      "Guts +15"
+    ]
+  ],
+  "18434309541273434380": [
+    [
+      "Speed +15"
+    ]
+  ],
+  "1858829945453641345": [
+    [
+      "Randomly either",
+      "Stamina +10",
+      "or",
+      "Stamina +5"
+    ]
+  ],
+  "1882715803136508898": [
+    [
+      "Stamina +15",
+      "Guts +5"
+    ],
+    [
+      "Speed +15",
+      "Power +5"
+    ]
+  ],
+  "1938713331640143239": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "1947209814715875210": [
+    [
+      "Stamina +10",
+      "Power +5",
+      "Motivation +1"
+    ]
+  ],
+  "2002913863295731834": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "2014044721864265854": [
+    [
+      "Stamina +5",
+      "Skill point(s) +15"
+    ],
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "2022059667433675676": [
+    [
+      "Randomly either",
+      "Maximum energy +4",
+      "Energy -10",
+      "Stamina +15",
+      "Power +20",
+      "Guts +15",
+      "or",
+      "Energy -15",
+      "Stamina +15",
+      "Power +20",
+      "Guts +10",
+      "or",
+      "Energy -20",
+      "Stamina +10",
+      "Guts +10"
+    ],
+    [
+      "Energy -5",
+      "Stamina +10",
+      "Power +10",
+      "Motivation +1"
+    ],
+    [
+      "Energy +30",
+      "Event chain ended"
+    ]
+  ],
+  "2052199560602801211": [
+    [
+      "Speed +15",
+      "Skill point(s) +15"
+    ]
+  ],
+  "2106234578310706664": [
+    [
+      "Skill point(s) +10"
+    ],
+    [
+      "Motivation +2"
+    ]
+  ],
+  "2120075218056835559": [
+    [
+      "Power +10",
+      "Guts +5"
+    ]
+  ],
+  "2127566454970204374": [
+    [
+      "Energy -10",
+      "Speed +20"
+    ]
+  ],
+  "2219291398870881063": [
+    [
+      "Energy +10",
+      "Skill point(s) +10"
+    ],
+    [
+      "Energy -10",
+      "Stamina +25",
+      "Guts +25",
+      "Event chain ended"
+    ]
+  ],
+  "2247766604183226448": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ]
+  ],
+  "2256193358199316782": [
+    [
+      "Motivation +1"
+    ],
+    [
+      "Energy +10/+30"
+    ]
+  ],
+  "2307634746156317934": [
+    [
+      "Energy +30"
+    ],
+    [
+      "Event chain ended"
+    ]
+  ],
+  "2317464847100256712": [
+    [
+      "Guts +10"
+    ]
+  ],
+  "2347249813005791216": [
+    [
+      "Intelligence +10",
+      "Skill point(s) +10"
+    ],
+    [
+      "Energy -10",
+      "Guts +25"
+    ]
+  ],
+  "2360687817294264157": [
+    [
+      "Energy +10",
+      "Stamina +5"
+    ]
+  ],
+  "2376211916971031840": [
+    [
+      "Speed +10",
+      "Power +10"
+    ]
+  ],
+  "2401566749351900292": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Energy -10",
+      "Stamina +15",
+      "Skill point(s) +15"
+    ]
+  ],
+  "2473579078680539222": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Speed +10"
+    ]
+  ],
+  "2699037723288708104": [
+    [
+      "Intelligence +5",
+      "Skill point(s) +20"
+    ],
+    [
+      "Speed +10",
+      "Stamina +5"
+    ],
+    [
+      "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+    ]
+  ],
+  "2699706951908724868": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +10",
+      "Stamina +10",
+      "Power +20",
+      "or",
+      "Energy -10"
+    ]
+  ],
+  "2711611034913700583": [
+    [
+      "Energy -5",
+      "Motivation +2",
+      "Speed +3",
+      "Power +3",
+      "Guts +3"
+    ],
+    [
+      "Energy -5",
+      "Speed +10"
+    ]
+  ],
+  "2754961909221197718": [
+    [
+      "Stamina +7",
+      "Power +7"
+    ]
+  ],
+  "2763640837580393627": [
+    [
+      "Motivation +1",
+      "Stamina +10"
+    ]
+  ],
+  "2770479002430069158": [
+    [
+      "Speed +5",
+      "Skill point(s) +10"
+    ],
+    [
+      "Motivation -1"
+    ]
+  ],
+  "2788469404718722908": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "2806116330422458016": [
+    [
+      "Guts +15"
+    ]
+  ],
+  "28083946672849661": [
+    [
+      "Energy -10",
+      "Stamina +15"
+    ],
+    [
+      "Maximum energy +4",
+      "Stamina +5"
+    ]
+  ],
+  "2868023394225911489": [
+    [
+      "Intelligence +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "2868523709918659224": [
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ],
+    [
+      "Energy -10",
+      "Speed +15",
+      "Stamina +5"
+    ]
+  ],
+  "2869591832879915103": [
+    [
+      "Stamina +10",
+      "Guts +10"
+    ],
+    [
+      "Energy +25",
+      "Event chain ended"
+    ]
+  ],
+  "2878161398714444954": [
+    [
+      "Stamina +5",
+      "Intelligence +5"
+    ],
+    [
+      "Energy +20",
+      "Power +10",
+      "Event chain ended"
+    ]
+  ],
+  "2880486472861802068": [
+    [
+      "Stamina +10",
+      "Guts +20"
+    ]
+  ],
+  "2939231688590305043": [
+    [
+      "Randomly either",
+      "Speed +10",
+      "Skill point(s) +15",
+      "or",
+      "Speed +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "2961885248619611805": [
+    [
+      "Stamina +30",
+      "Guts +10",
+      "Skill point(s) +20"
+    ]
+  ],
+  "3013771880830565807": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Speed +5/+10"
+    ]
+  ],
+  "3118725187873130312": [
+    [
+      "Energy -10",
+      "Skill point(s) +15~45"
+    ],
+    [
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "3182451709004953771": [
+    [
+      "Power +10",
+      "Guts +10"
+    ]
+  ],
+  "3192331806256900100": [
+    [
+      "Stamina +5",
+      "Power +5",
+      "Intelligence +5"
+    ]
+  ],
+  "3291111170462478442": [
+    [
+      "Stamina +5",
+      "Guts +5"
+    ]
+  ],
+  "3303894599665892310": [
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "3312529335354956805": [
+    [
+      "Skill point(s) +15"
+    ],
+    [
+      "Motivation +1",
+      "Heal a negative status effect"
+    ],
+    [
+      "Power +25",
+      "Event chain ended"
+    ]
+  ],
+  "3352634670014431355": [
+    [
+      "Guts +10"
+    ],
+    [
+      "Maximum energy +4",
+      "Energy -5"
+    ]
+  ],
+  "3380647730976348865": [
+    [
+      "Speed +5",
+      "Skill point(s) +30",
+      "Motivation -1"
+    ],
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "3400355745287452476": [
+    [
+      "Randomly either",
+      "All stats +7",
+      "or",
+      "Intelligence +4",
+      "Event chain ended"
+    ],
+    [
+      "Energy +5",
+      "Event chain ended"
+    ]
+  ],
+  "344866180137888305": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Energy -10",
+      "Power +15",
+      "Skill point(s) +20",
+      "Event chain ended"
+    ]
+  ],
+  "3477988046529325671": [
+    [
+      "Stamina +5",
+      "Skill point(s) +15"
+    ],
+    [
+      "Motivation +1",
+      "Skill point(s) +15"
+    ]
+  ],
+  "348807515114717632": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "3514274462063705891": [
+    [
+      "Speed +5",
+      "Power +5"
+    ]
+  ],
+  "3527796506407783771": [
+    [
+      "Stamina +10",
+      "Guts +5",
+      "Skill point(s) +10",
+      "※ Will affect the outcome of the third event"
+    ],
+    [
+      "Energy -10",
+      "Skill point(s) +5",
+      "※ Will affect the outcome of the third event"
+    ]
+  ],
+  "3540621942714342716": [
+    [
+      "Energy -10",
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "3568948481396481347": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +15",
+      "or",
+      "Energy -10",
+      "Speed +10"
+    ]
+  ],
+  "3633878295200875279": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "3682220234249965113": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "or"
+    ],
+    [
+      "Energy -5",
+      "Stamina +20"
+    ]
+  ],
+  "3740527632738321844": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "3745456092506360098": [
+    [
+      "Energy +15"
+    ]
+  ],
+  "3747742687324237358": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Energy -10",
+      "Skill point(s) +30"
+    ]
+  ],
+  "3771342950026425597": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Stamina +5",
+      "Guts +5"
+    ]
+  ],
+  "3811652990163925217": [
+    [
+      "Guts +15"
+    ]
+  ],
+  "3873446394452480943": [
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "3908702823985926392": [
+    [
+      "Motivation +1",
+      "Speed +5"
+    ],
+    [
+      "Maximum energy +4"
+    ]
+  ],
+  "4014205385338444690": [
+    [
+      "Energy -10",
+      "Stamina +5",
+      "Power +15"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "4063822809829749147": [
+    [
+      "Guts +15"
+    ]
+  ],
+  "4138885605486667982": [
+    [
+      "Stamina +15"
+    ],
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "4152215099841682546": [
+    [
+      "Energy -10",
+      "Stamina +5",
+      "Guts +10"
+    ],
+    [
+      "Skill point(s) +20",
+      "Event chain ended"
+    ]
+  ],
+  "4214178321895816455": [
+    [
+      "Power +15"
+    ]
+  ],
+  "4240109299155594943": [
+    [
+      "Energy +20"
+    ],
+    [
+      "Energy -10",
+      "Speed +25"
+    ]
+  ],
+  "4265694782271304540": [
+    [
+      "Intelligence +5",
+      "Skill point(s) +15"
+    ],
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "4299653000609320039": [
+    [
+      "Maximum energy +4",
+      "Guts +5"
+    ]
+  ],
+  "4312309705373869741": [
+    [
+      "Motivation +1",
+      "Stamina +10"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +10"
+    ]
+  ],
+  "431966662845245707": [
+    [
+      "Power +10"
+    ],
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "4375799992133279583": [
+    [
+      "Speed +10",
+      "Skill point(s) +10"
+    ],
+    [
+      "Stamina +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "4400881254206561931": [
+    [
+      "Energy +20"
+    ]
+  ],
+  "4441878570058741011": [
+    [
+      "Motivation +1",
+      "Energy +10"
+    ]
+  ],
+  "4442316515043769771": [
+    [
+      "Energy -10",
+      "Speed +20"
+    ]
+  ],
+  "4459620446762861748": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "4476386370161405475": [
+    [
+      "Energy -10"
+    ],
+    [
+      "Energy +10",
+      "Stamina +10"
+    ]
+  ],
+  "44778295310744897": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "4518424790488823744": [
+    [
+      "Power +15"
+    ]
+  ],
+  "453933763229241783": [
+    [
+      "Stamina +15"
+    ]
+  ],
+  "4553439321559582976": [
+    [
+      "Stamina +10",
+      "Power +5"
+    ]
+  ],
+  "4577365009869383502": [
+    [
+      "Speed +5",
+      "Power +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "4588033769238592730": [
+    [
+      "Speed +3",
+      "Stamina +3",
+      "Power +3"
+    ]
+  ],
+  "4664184799628910039": [
+    [
+      "Power +10",
+      "(Random) Speed +10"
+    ],
+    [
+      "Energy +20"
+    ]
+  ],
+  "4674006500684741500": [
+    [
+      "Stamina +10"
+    ],
+    [
+      "Energy -10",
+      "Power +20"
+    ]
+  ],
+  "4677299399243233162": [
+    [
+      "Randomly either",
+      "Speed +5",
+      "Power +5",
+      "or",
+      "Speed +10",
+      "Power +10"
+    ]
+  ],
+  "4679814026348825743": [
+    [
+      "Stamina +5",
+      "Guts +5"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "4694263938021151528": [
+    [
+      "Randomly either",
+      "Intelligence +15",
+      "or",
+      "Intelligence +30"
+    ]
+  ],
+  "4789058333749035667": [
+    [
+      "Energy -10",
+      "Guts +10",
+      "Intelligence +5"
+    ]
+  ],
+  "4862424629134779225": [
+    [
+      "Speed +15"
+    ]
+  ],
+  "488672874259167695": [
+    [
+      "Maximum energy +4"
+    ],
+    [
+      "Speed +10"
+    ]
+  ],
+  "4987377464841775931": [
+    [
+      "Energy +10",
+      "Guts +5"
+    ],
+    [
+      "Randomly either",
+      "Energy -10",
+      "Intelligence +5",
+      "or",
+      "Maximum energy +4",
+      "Motivation +1",
+      "Guts +5",
+      "Intelligence +5"
+    ]
+  ],
+  "5006350564846882322": [
+    [
+      "Energy -5",
+      "Stamina +15",
+      "Power +15",
+      "Skill point(s) +20"
+    ],
+    [
+      "Energy +15",
+      "Skill point(s) +20"
+    ]
+  ],
+  "5033152286937704585": [
+    [
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "5068583461843238656": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ],
+    [
+      "Motivation +1",
+      "Speed +5"
+    ]
+  ],
+  "5069334429437723805": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "5081233224725753891": [
+    [
+      "Randomly either",
+      "All stats +7",
+      "or",
+      "Intelligence +4",
+      "Event chain ended"
+    ],
+    [
+      "Energy +5",
+      "Event chain ended"
+    ]
+  ],
+  "5219948230379885128": [
+    [
+      "Energy +10",
+      "Speed +5",
+      "Intelligence +5"
+    ]
+  ],
+  "5278405307368093286": [
+    [
+      "Motivation +1",
+      "Energy +10"
+    ]
+  ],
+  "5290184390891060837": [
+    [
+      "Guts +3",
+      "Intelligence +3",
+      "Skill point(s) +5"
+    ]
+  ],
+  "5300106299974198800": [
+    [
+      "Power +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "5325751657577956560": [
+    [
+      "Energy +20",
+      "Skill point(s) +30"
+    ],
+    [
+      "Energy +10",
+      "Intelligence +10",
+      "Skill point(s) +10",
+      "Event chain ended"
+    ]
+  ],
+  "5430652625007772371": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "5446459237194707332": [
+    [
+      "Energy +10",
+      "Skill point(s) +15"
+    ],
+    [
+      "Speed +5",
+      "Intelligence +5"
+    ]
+  ],
+  "5470688820987133980": [
+    [
+      "Energy +10",
+      "Intelligence +10"
+    ]
+  ],
+  "5532660559692315401": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "5592237426157063689": [
+    [
+      "Randomly either",
+      "Speed +5",
+      "Skill point(s) +5",
+      "or",
+      "Speed +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "5595129301498936626": [
+    [
+      "Speed +20",
+      "Motivation -1"
+    ],
+    [
+      "Energy -10",
+      "Power +20"
+    ]
+  ],
+  "5621182475151851938": [
+    [
+      "Speed +10",
+      "Stamina +5"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "5650329183202087136": [
+    [
+      "Speed +5",
+      "Stamina +5"
+    ]
+  ],
+  "579738241873135365": [
+    [
+      "Power +15",
+      "Intelligence +15"
+    ]
+  ],
+  "5802697764148964327": [
+    [
+      "Speed +5",
+      "Intelligence +5"
+    ],
+    [
+      "Energy +10",
+      "Power +5"
+    ]
+  ],
+  "58040088213442763": [
+    [
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "5830528559358973534": [
+    [
+      "Speed +5",
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "591950396588668118": [
+    [
+      "Randomly either",
+      "Maximum energy +4",
+      "Stamina +10",
+      "or",
+      "Guts +10"
+    ],
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "5940778388885439133": [
+    [
+      "Energy +10",
+      "Intelligence +5"
+    ]
+  ],
+  "6020206859749139717": [
+    [
+      "Energy -5",
+      "Power +10",
+      "Skill point(s) +20"
+    ]
+  ],
+  "6049273440493927897": [
+    [
+      "Energy -10",
+      "Stamina +10",
+      "Guts +25",
+      "Skill point(s) +10"
+    ]
+  ],
+  "6082265594216398852": [
+    [
+      "Stamina +15",
+      "Intelligence +15",
+      "Skill point(s) +30"
+    ]
+  ],
+  "6100697833197324729": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "6138530915225934835": [
+    [
+      "Randomly either",
+      "Stamina +10",
+      "Intelligence +10",
+      "or",
+      "Stamina +5",
+      "Intelligence +5"
+    ]
+  ],
+  "6148857634431180401": [
+    [
+      "Energy -10",
+      "Speed +10",
+      "Stamina +10",
+      "Guts +10",
+      "Motivation +1"
+    ],
+    [
+      "Energy +20",
+      "Intelligence +10",
+      "Event chain ended"
+    ]
+  ],
+  "6226457790598361564": [
+    [
+      "Speed +10",
+      "Power +10",
+      "Motivation +1"
+    ]
+  ],
+  "6227064110467382140": [
+    [
+      "Power +10"
+    ],
+    [
+      "Stamina +10"
+    ]
+  ],
+  "6291336643511744446": [
+    [
+      "Stamina +10",
+      "Skill point(s) +30"
+    ]
+  ],
+  "6309874675020614173": [
+    [
+      "Energy -20",
+      "Speed +10",
+      "Power +10",
+      "Intelligence +5"
+    ],
+    [
+      "Motivation -1",
+      "Guts +25"
+    ]
+  ],
+  "6360568232285862369": [
+    [
+      "Power +5"
+    ],
+    [
+      "Intelligence +5"
+    ]
+  ],
+  "6362178127012657993": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +5",
+      "Stamina +5",
+      "or",
+      "Energy -10",
+      "Speed +10",
+      "Stamina +10"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "6374639046878695057": [
+    [
+      "Stamina +10"
+    ],
+    [
+      "Power +10"
+    ]
+  ],
+  "6374866587124677065": [
+    [
+      "Randomly either",
+      "Stamina +10",
+      "Intelligence +10",
+      "or",
+      "Energy +15",
+      "Get 'Insomnia' status (Has a random chance to lose 10 energy every turn due to lack of sleep)"
+    ],
+    [
+      "Energy +15"
+    ]
+  ],
+  "6378719197053632330": [
+    [
+      "Speed +5",
+      "Intelligence +10"
+    ]
+  ],
+  "645506882050233514": [
+    [
+      "Energy +30",
+      "Guts +5",
+      "(Random) Get 'Overweight' status (Speed cannot be raised through training)"
+    ],
+    [
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "6479980678242804131": [
+    [
+      "Guts +10",
+      "Intelligence +5"
+    ]
+  ],
+  "6605203437894613246": [
+    [
+      "Randomly either",
+      "※ Can only happen if you chose the top option during the first event",
+      "Skill point(s) +40",
+      "or",
+      "※ Can only happen if you chose the bottom option during the first event",
+      "Stamina +15",
+      "Guts +15",
+      "Skill point(s) +20",
+      "or",
+      "※ Can only happen if you chose the bottom option during the first event",
+      "Motivation -1",
+      "Guts +10"
+    ]
+  ],
+  "6605789447710057379": [
+    [
+      "Energy -5",
+      "Stamina +5"
+    ]
+  ],
+  "6671159441551945710": [
+    [
+      "Maximum energy +4",
+      "Skill point(s) +10"
+    ]
+  ],
+  "674890712761427804": [
+    [
+      "Stamina +5",
+      "Guts +10"
+    ]
+  ],
+  "6788433633933186445": [
+    [
+      "Energy -10",
+      "Stamina +25",
+      "Skill point(s) +10"
+    ]
+  ],
+  "6808097636378811661": [
+    [
+      "Intelligence +15"
+    ],
+    [
+      "Randomly either",
+      "Motivation -1",
+      "Guts +20",
+      "or",
+      "Energy +25",
+      "Stamina +10"
+    ]
+  ],
+  "6852384755416935238": [
+    [
+      "Energy +20",
+      "Skill point(s) +15",
+      "Motivation +1",
+      "Can start dating"
+    ],
+    [
+      "Motivation -1",
+      "Event chain ended"
+    ]
+  ],
+  "685653936750036211": [
+    [
+      "Randomly either",
+      "Maximum energy +4",
+      "Energy -5",
+      "Stamina +15",
+      "Power +20",
+      "or",
+      "Energy -15",
+      "Stamina +10",
+      "Power +15"
+    ]
+  ],
+  "6888002976130800048": [
+    [
+      "Energy +10",
+      "Intelligence +5",
+      "Motivation +1",
+      "Can start dating"
+    ],
+    [
+      "Motivation -1",
+      "Event chain ended"
+    ]
+  ],
+  "690026701430274661": [
+    [
+      "Skill point(s) +20"
+    ]
+  ],
+  "7043871002879769073": [
+    [
+      "Randomly either",
+      "Speed +5",
+      "Power +5",
+      "or",
+      "Speed +15",
+      "Power +15"
+    ]
+  ],
+  "7056112263872176232": [
+    [
+      "Stamina +5",
+      "Motivation +1"
+    ]
+  ],
+  "708335289335978639": [
+    [
+      "Energy -10",
+      "Speed +7",
+      "Power +7"
+    ]
+  ],
+  "7090116649544740647": [
+    [
+      "Speed +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "7166061048245102656": [
+    [
+      "Motivation +1",
+      "Power +5"
+    ],
+    [
+      "Energy +10"
+    ]
+  ],
+  "7176733260510464874": [
+    [
+      "Randomly either",
+      "Maximum energy +3",
+      "Energy +10",
+      "Motivation +1",
+      "Can start dating",
+      "or",
+      "Skill point(s) +50",
+      "Can start dating"
+    ],
+    [
+      "Motivation +1",
+      "Stamina +10",
+      "Can start dating"
+    ],
+    [
+      "Energy -10",
+      "Skill point(s) +100",
+      "Event chain ended"
+    ]
+  ],
+  "720391603863888570": [
+    [
+      "Energy +15",
+      "Motivation +1"
+    ]
+  ],
+  "7228232950204425517": [
+    [
+      "Speed +15",
+      "Guts +15"
+    ],
+    [
+      "Energy +25",
+      "Skill point(s) +25"
+    ]
+  ],
+  "725704764482647770": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "Speed +5",
+      "or",
+      "Energy +10",
+      "Speed +10",
+      "Skill point(s) +10"
+    ]
+  ],
+  "7289870677929310501": [
+    [
+      "Randomly either",
+      "Energy +10",
+      "Skill point(s) +20",
+      "or",
+      "Energy -10",
+      "Skill point(s) +15"
+    ],
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "7363674135664420959": [
+    [
+      "Energy -5",
+      "Guts +15"
+    ],
+    [
+      "Energy +20",
+      "Event chain ended"
+    ]
+  ],
+  "7382765993771372695": [
+    [
+      "Speed +10",
+      "Stamina +10"
+    ]
+  ],
+  "739913843905225690": [
+    [
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "7413248779979058763": [
+    [
+      "Randomly either",
+      "Power +15",
+      "Skill point(s) +20",
+      "or",
+      "Power +10",
+      "Skill point(s) +15"
+    ],
+    [
+      "Speed +35"
+    ]
+  ],
+  "7452298592584784268": [
+    [
+      "Speed +10",
+      "Power +10"
+    ]
+  ],
+  "7513646350363740605": [
+    [
+      "Energy +10"
+    ],
+    [
+      "Energy -5",
+      "Power +15"
+    ]
+  ],
+  "7521990378359217706": [
+    [
+      "Maximum energy +4",
+      "Stamina +15",
+      "Intelligence +5"
+    ]
+  ],
+  "7524256664437452464": [
+    [
+      "Stamina +5"
+    ],
+    [
+      "Speed +5"
+    ],
+    [
+      "Intelligence +30"
+    ]
+  ],
+  "7533156619691441063": [
+    [
+      "Energy +20",
+      "Motivation +1"
+    ]
+  ],
+  "7565163201942129102": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "7570644348941039455": [
+    [
+      "Energy +10"
+    ],
+    [
+      "Energy -5",
+      "Speed +5",
+      "Power +5",
+      "Heal a negative status effect"
+    ]
+  ],
+  "7578323444095621988": [
+    [
+      "Randomly either",
+      "Energy -20",
+      "Power +5",
+      "Guts +5",
+      "or",
+      "Energy -10",
+      "Stamina +5",
+      "Power +5",
+      "Guts +10"
+    ]
+  ],
+  "7603890597994445475": [
+    [
+      "Speed +15",
+      "Skill point(s) +15"
+    ]
+  ],
+  "7613434151104854998": [
+    [
+      "Speed +5",
+      "Guts +5"
+    ]
+  ],
+  "7629760257042299806": [
+    [
+      "Stamina +10",
+      "Intelligence +5"
+    ]
+  ],
+  "7645458198971131588": [
+    [
+      "Stamina +10"
+    ]
+  ],
+  "76569239002042408": [
+    [
+      "Randomly either",
+      "Energy +5",
+      "Stamina +5",
+      "or",
+      "Energy +20",
+      "Stamina +15"
+    ]
+  ],
+  "7688029771468389476": [
+    [
+      "Speed +5",
+      "Stamina +5"
+    ]
+  ],
+  "7692599263152688409": [
+    [
+      "Skill point(s) +30"
+    ]
+  ],
+  "774936667005244892": [
+    [
+      "Intelligence +10"
+    ],
+    [
+      "Motivation +1",
+      "Skill point(s) +15"
+    ]
+  ],
+  "7785607503059382862": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ]
+  ],
+  "7788734822912630683": [
+    [
+      "Motivation +1",
+      "Intelligence +25"
+    ]
+  ],
+  "7821845899821508350": [
+    [
+      "Guts +10"
+    ],
+    [
+      "Motivation +1"
+    ]
+  ],
+  "7882170617298999306": [
+    [
+      "Energy -5",
+      "Power +15"
+    ],
+    [
+      "Motivation +1",
+      "Guts +5"
+    ]
+  ],
+  "7898390418038575515": [
+    [
+      "Randomly either",
+      "Maximum energy +4",
+      "Stamina +5",
+      "Power +5",
+      "Intelligence +5",
+      "or",
+      "Maximum energy +4",
+      "Stamina +15",
+      "Power +15",
+      "Intelligence +15"
+    ]
+  ],
+  "7928130476988894003": [
+    [
+      "Energy +5",
+      "Speed +10"
+    ]
+  ],
+  "7949603303804617328": [
+    [
+      "Motivation +1",
+      "Speed +2",
+      "Power +2",
+      "Intelligence +2"
+    ]
+  ],
+  "8111659019441346268": [
+    [
+      "Energy +10",
+      "Motivation +1"
+    ],
+    [
+      "Intelligence +10",
+      "Skill point(s) +15"
+    ]
+  ],
+  "8173758362927819934": [
+    [
+      "Stamina +20",
+      "Skill point(s) +15"
+    ]
+  ],
+  "8177937003087576990": [
+    [
+      "Speed +10"
+    ],
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "8209970245758208054": [
+    [
+      "Motivation +1",
+      "Maximum energy +4"
+    ]
+  ],
+  "8317236322462157023": [
+    [
+      "Power +10",
+      "Guts +5"
+    ]
+  ],
+  "8360683657817673255": [
+    [
+      "Stamina +15"
+    ],
+    [
+      "Guts +15"
+    ]
+  ],
+  "8368415446564560295": [
+    [
+      "Speed +10",
+      "Power +5"
+    ]
+  ],
+  "839487328492993747": [
+    [
+      "Stamina +20"
+    ]
+  ],
+  "842986178062724164": [
+    [
+      "Energy +20",
+      "Speed +10"
+    ],
+    [
+      "Intelligence +10",
+      "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)"
+    ]
+  ],
+  "848764929272452541": [
+    [
+      "Energy +10",
+      "Speed +5"
+    ]
+  ],
+  "8492339071218744324": [
+    [
+      "Intelligence +10"
+    ]
+  ],
+  "8506451659899530410": [
+    [
+      "Energy +10",
+      "Guts +5"
+    ]
+  ],
+  "8562979556106942503": [
+    [
+      "Power +15"
+    ],
+    [
+      "Speed +10",
+      "Stamina +5"
+    ]
+  ],
+  "8577895578934793466": [
+    [
+      "Stamina +5",
+      "Intelligence +10"
+    ]
+  ],
+  "859983659117395080": [
+    [
+      "Randomly either",
+      "Power +10",
+      "Skill point(s) +15",
+      "or",
+      "Power +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "8658873950174978252": [
+    [
+      "Power +5",
+      "Skill point(s) +10"
+    ],
+    [
+      "Stamina +5",
+      "Skill point(s) +10"
+    ]
+  ],
+  "8718269433241131179": [
+    [
+      "Guts +15"
+    ],
+    [
+      "Intelligence +15"
+    ]
+  ],
+  "875754734751374312": [
+    [
+      "Speed +10",
+      "Power +10"
+    ]
+  ],
+  "8782111688808273823": [
+    [
+      "Power +10"
+    ],
+    [
+      "Guts +10"
+    ]
+  ],
+  "8798522278510321849": [
+    [
+      "Energy +15",
+      "Skill point(s) +15"
+    ]
+  ],
+  "88149792849788452": [
+    [
+      "Energy +5",
+      "Power +5"
+    ],
+    [
+      "Energy -10",
+      "Guts +15"
+    ]
+  ],
+  "882962394646658861": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Power +20",
+      "or",
+      "Energy -10",
+      "Power +40"
+    ]
+  ],
+  "886347002603337750": [
+    [
+      "Randomly either",
+      "1 Random stat(s) +10",
+      "(Random) Get 'Sharp' status (The SP cost of all skills is discounted by 10%)",
+      "or",
+      "Skill point(s) +50"
+    ]
+  ],
+  "8877437034055174934": [
+    [
+      "Power +10"
+    ],
+    [
+      "Get 'Rising Star' status (Bond gain with NPCs is increased by 2)"
+    ]
+  ],
+  "8924557224039351213": [
+    [
+      "Motivation +1",
+      "Guts +10"
+    ]
+  ],
+  "8996701108837334642": [
+    [
+      "Energy -10",
+      "Speed +5",
+      "Stamina +5",
+      "Guts +10"
+    ]
+  ],
+  "904194342352513727": [
+    [
+      "Speed +15",
+      "Stamina +15",
+      "Guts +15"
+    ]
+  ],
+  "9044083639207246728": [
+    [
+      "Motivation +1",
+      "Energy -10",
+      "Speed +7",
+      "Stamina +7",
+      "Intelligence +7"
+    ]
+  ],
+  "906215539402210316": [
+    [
+      "Guts +15",
+      "Intelligence +15"
+    ]
+  ],
+  "9161648667614569906": [
+    [
+      "Energy -10",
+      "Intelligence +30"
+    ],
+    [
+      "Intelligence +5",
+      "Skill point(s) +15"
+    ]
+  ],
+  "9200480451596889470": [
+    [
+      "Maximum energy +4",
+      "Speed +5"
+    ]
+  ],
+  "9230510990321618729": [
+    [
+      "Randomly either",
+      "Energy -10",
+      "Speed +5",
+      "or",
+      "Energy -10",
+      "Speed +25"
+    ],
+    [
+      "Energy +15"
+    ]
+  ],
+  "9233970094307145883": [
+    [
+      "Skill point(s) +10"
+    ]
+  ],
+  "9239151447309219292": [
+    [
+      "Skill point(s) +15"
+    ]
+  ],
+  "9362968917865266537": [
+    [
+      "Speed +10"
+    ]
+  ],
+  "9398012644153585979": [
+    [
+      "Speed +10",
+      "Intelligence +10"
+    ]
+  ],
+  "9445334777508652640": [
+    [
+      "Power +5",
+      "Guts +5"
+    ]
+  ],
+  "9466655133085697373": [
+    [
+      "Speed +5",
+      "Power +10"
+    ]
+  ],
+  "9525780660406350705": [
+    [
+      "Get 'Charming ○' status (Bond gain with support cards is increased by 2)"
+    ],
+    [
+      "Energy +20"
+    ]
+  ],
+  "9541285116060017244": [
+    [
+      "Power +10"
+    ],
+    [
+      "Skill point(s) +40",
+      "Event chain ended"
+    ]
+  ],
+  "9612243349109367300": [
+    [
+      "Energy +20"
+    ]
+  ],
+  "9630817136855290573": [
+    [
+      "Stamina +10",
+      "Intelligence +10"
+    ]
+  ],
+  "9631193102968248805": [
+    [
+      "Power +5",
+      "Intelligence +5"
+    ]
+  ],
+  "9650294608767420369": [
+    [
+      "Intelligence +5",
+      "Skill point(s) +15"
+    ],
+    [
+      "Energy -10",
+      "Speed +5",
+      "Stamina +5",
+      "Power +5"
+    ]
+  ],
+  "9801682885108307181": [
+    [
+      "Energy +15"
+    ],
+    [
+      "Energy +5",
+      "Power +5"
+    ]
+  ],
+  "9818171629998813940": [
+    [
+      "Speed +10",
+      "Stamina +5"
+    ],
+    [
+      "Speed +15"
+    ]
+  ],
+  "9842350434808811364": [
+    [
+      "Power +25",
+      "Skill point(s) +30"
+    ]
+  ],
+  "9878684051529896384": [
+    [
+      "Energy +10",
+      "Motivation +1",
+      "Skill point(s) +15"
+    ]
+  ]
 }

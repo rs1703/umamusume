@@ -1,7 +1,8 @@
-
+#include <codecvt>
 #include <cstdio>
 #include <fstream>
 #include <iostream>
+#include <locale>
 #include <sstream>
 #include <string>
 #include <unordered_map>
@@ -56,15 +57,6 @@ std::string getLastUpdated()
   return changelogs[0]["date"].get<std::string>();
 }
 
-typedef std::vector<std::vector<std::string>> Event_t;
-typedef std::unordered_map<std::string, Event_t> Events_t;
-
-struct EntityData
-{
-  std::string name;
-  Events_t events;
-};
-
 static std::unordered_map<std::string, std::string> types;
 
 const std::string TYPE_BO {"bo"};
@@ -101,27 +93,30 @@ static std::unordered_map<int, std::string> statuses;
 
 void initStatuses()
 {
+  statuses.emplace(1, "Get 'Insomnia' status (Has a random chance to lose 10 energy every turn due to lack of sleep)");
   statuses.emplace(2, "Get 'Lazy Habit' status (Has a random chance to not show up for training)");
   statuses.emplace(4, "Get 'Overweight' status (Speed cannot be raised through training)");
   statuses.emplace(7, "Get 'Sharp' status (The SP cost of all skills is discounted by 10%)");
   statuses.emplace(8, "Get 'Charming ○' status (Bond gain with support cards is increased by 2)");
   statuses.emplace(9, "Get 'Rising Star' status (Bond gain with NPCs is increased by 2)");
   statuses.emplace(10, "Get 'Good Practice ○' status (Training fail rate is decreased by 2%)");
+  statuses.emplace(100, "Get 'Passion Zone: Team Sirius' status (Can carry out Friendship Training with Team Sirius and is immune to Insomnia as well as Lazy Habit)");
 }
 
-void parseEvent(const nlohmann::json &json, Events_t &events)
+void parseEvent(const nlohmann::json &json, nlohmann::json &out)
 {
   const auto &choices = json["c"];
   if (choices.is_null())
     return;
 
   const auto name = json["n"].get<std::string>();
+  std::vector<std::vector<std::string>> choicesResult;
   for (size_t i = 0; i < choices.size(); ++i) {
     const auto &attrs = choices[i]["r"];
     if (attrs.is_null())
       continue;
 
-    std::vector<std::string> event;
+    std::vector<std::string> result;
     bool di = false;  // is or
 
     for (const auto &attr : attrs) {
@@ -166,13 +161,13 @@ void parseEvent(const nlohmann::json &json, Events_t &events)
         if (v.is_null())
           continue;
 
-        event.push_back(random + v.get<std::string>());
+        result.push_back(random + v.get<std::string>());
       } else if (type == TYPE_DI) {
         if (!di) {
           di = true;
-          event.insert(event.begin(), "Randomly either");
+          result.insert(result.begin(), "Randomly either");
         }
-        event.push_back("or");
+        result.push_back("or");
       } else if (type == TYPE_SE) {
         if (!attr.contains("d"))
           continue;
@@ -187,7 +182,7 @@ void parseEvent(const nlohmann::json &json, Events_t &events)
           continue;
         }
 
-        event.push_back(random + statuses[d]);
+        result.push_back(random + statuses[d]);
       } else if (type == TYPE_SK) {
         // TODO: parse skill (hint)
       } else if (type == TYPE_SG) {
@@ -195,7 +190,7 @@ void parseEvent(const nlohmann::json &json, Events_t &events)
       } else if (type == TYPE_SR) {
         // TODO: parse skill (multiple hints)
       } else if (value.empty()) {
-        event.push_back(random + types[type]);
+        result.push_back(random + types[type]);
       } else {
         std::string count;
         if (attr.contains("d")) {
@@ -203,60 +198,59 @@ void parseEvent(const nlohmann::json &json, Events_t &events)
           if (!v.is_null())
             count = std::to_string(v.get<int>()) + " ";
         }
-        event.push_back(random + count + types[type] + " " + value);
+        result.push_back(random + count + types[type] + " " + value);
       }
     }
 
-    if (!event.empty())
-      events[name].push_back(event);
+    if (!result.empty())
+      choicesResult.push_back(result);
   }
+
+  if (choicesResult.empty())
+    return;
+
+  auto wstr = std::wstring_convert<std::codecvt_utf8<wchar_t>>().from_bytes(name);
+  auto hash = std::hash<std::wstring> {}(wstr);
+
+  out.emplace(std::to_string(hash), choicesResult);
 }
 
-EntityData *parseEntity(std::string path, const std::vector<std::string> &fields)
+void parseEntity(std::string path, const std::vector<std::string> &fields, nlohmann::json &out)
 {
   std::cout << "Parsing " << path << std::endl;
   const std::string res = sendRequest(baseUrl + path);
   if (res.empty()) {
     std::cerr << "Unable to get " << path << std::endl;
-    return nullptr;
+    return;
   }
 
   nlohmann::json json = nlohmann::json::parse(res);
   auto pageProps = json["pageProps"];
   if (pageProps.is_null()) {
     std::cerr << "Unable to get " << path << ", pageProps is null" << std::endl;
-    return nullptr;
+    return;
   }
 
   const auto eventData = pageProps["eventData"];
   if (eventData.is_null()) {
     std::cerr << "Unable to get " << path << ", eventData is null" << std::endl;
-    return nullptr;
+    return;
   }
 
   const auto itemData = pageProps["itemData"];
   if (itemData.is_null()) {
     std::cerr << "Unable to get " << path << ", itemData is null" << std::endl;
-    return nullptr;
+    return;
   }
 
-  const auto entityData = new EntityData;
-  if (itemData.contains("name_jp"))
-    entityData->name = itemData["name_jp"].get<std::string>();
-  else
-    entityData->name = itemData["char_name"].get<std::string>();
-
   auto eventsJson = nlohmann::json::parse(eventData.get<std::string>());
-
   for (const auto &field : fields) {
     const auto &events = eventsJson[field];
     if (!events.is_null()) {
       for (const auto &event : events)
-        parseEvent(event, entityData->events);
+        parseEvent(event, out);
     }
   }
-
-  return entityData;
 }
 
 void fetch(const char *type, const char *root, std::vector<std::string> fields)
@@ -286,12 +280,8 @@ void fetch(const char *type, const char *root, std::vector<std::string> fields)
   nlohmann::json data;
   for (const auto &entity : entities) {
     auto name = entity["url_name"];
-    if (name.is_null())
-      continue;
-
-    auto entityData = parseEntity("/umamusume/" + sType + "/" + name.get<std::string>() + ".json", fields);
-    if (entityData != nullptr)
-      data[entityData->name] = entityData->events;
+    if (!name.is_null())
+      parseEntity("/umamusume/" + sType + "/" + name.get<std::string>() + ".json", fields, data);
   }
 
   std::ofstream file("training_event_" + sType + ".json", std::ios::trunc);
