@@ -2,7 +2,7 @@
 #define UMAMUSUME_LOCALE_H_
 
 #include <unordered_map>
-#include <nlohmann/json.hpp>
+
 #include <umamusume/il2cpp.h>
 
 class Locale
@@ -21,13 +21,13 @@ public:
   std::string get(Il2CppString *str);
   void set(Il2CppString *str, size_t hash = 0);
 
-  std::string utf8(std::wstring str);
-  std::string utf8(Il2CppString *str);
+  static std::string utf8(std::wstring str);
+  static std::string utf8(Il2CppString *str);
 
   Il2CppString *localize(Il2CppString *str);
 
   void dump();
-  void log(Il2CppString *str);
+  static void log(Il2CppString *str);
 };
 
 #endif  // UMAMUSUME_LOCALE_H_

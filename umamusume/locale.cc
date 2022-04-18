@@ -4,6 +4,7 @@
 #include <string>
 
 #include <Windows.h>
+#include <nlohmann/json.hpp>
 #include <umamusume/app.h>
 #include <umamusume/config.h>
 #include <umamusume/locale.h>
@@ -155,6 +156,9 @@ void Locale::dump()
 
 void Locale::log(Il2CppString *str)
 {
+  if (str == nullptr)
+    return;
+
   auto hash = std::hash<std::wstring> {}(str->start_char);
   std::cout << hash << ": " << utf8(str) << std::endl;
 }

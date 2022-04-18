@@ -11,6 +11,7 @@
 #include <umamusume/hook.hpp>
 #include <umamusume/locale.h>
 #include <umamusume/proxy/proxy.h>
+#include <umamusume/training_event.h>
 
 void init()
 {
@@ -72,6 +73,7 @@ void mainRoutine()
 {
   AppConfig::load();
   Locale::init();
+  TrainingEventDictionary::init();
 
   if (config->showConsole) {
     AllocConsole();

@@ -25,6 +25,7 @@ void AppConfig::load()
   config->showConsole = json["showConsole"];
   config->enableLocale = json["enableLocale"];
   config->dictionaries = json["dictionaries"].get<std::vector<std::string>>();
+  config->trainingEventDictionaries = json["training_event_dictionaries"].get<std::vector<std::string>>();
 
   write();
 }
@@ -38,6 +39,7 @@ void AppConfig::write()
   json["showConsole"] = config->showConsole;
   json["enableLocale"] = config->enableLocale;
   json["dictionaries"] = config->dictionaries;
+  json["training_event_dictionaries"] = config->trainingEventDictionaries;
 
   std::ofstream file(configPath);
   file << json.dump(2);

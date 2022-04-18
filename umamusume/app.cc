@@ -3,6 +3,7 @@
 
 #include <umamusume/app.h>
 #include <umamusume/il2cpp.h>
+#include <umamusume/training_event.h>
 
 Locale *locale = nullptr;
 std::unordered_map<void *, bool> queries;
@@ -79,5 +80,7 @@ Il2CppString *queryGetText(void *self, int id)
   auto ok = queries.find(self) != queries.end();
   lock.unlock();
 
+  if (ok)
+    TrainingEventDictionary::log(str);
   return ok ? locale->localize(str) : str;
 }

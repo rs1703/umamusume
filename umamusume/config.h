@@ -8,7 +8,9 @@ struct AppConfig
 {
   bool showConsole;
   bool enableLocale;
+
   std::vector<std::string> dictionaries;
+  std::vector<std::string> trainingEventDictionaries;
 
   static void load();
   static void write();
